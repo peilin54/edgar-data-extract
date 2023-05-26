@@ -1,0 +1,170 @@
+<SEC-DOCUMENT>0001683168-20-001965.txt : 20200616
+<SEC-HEADER>0001683168-20-001965.hdr.sgml : 20200616
+<ACCEPTANCE-DATETIME>20200616172254
+ACCESSION NUMBER:		0001683168-20-001965
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200612
+FILED AS OF DATE:		20200616
+DATE AS OF CHANGE:		20200616
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Andraczke Andrzej
+		CENTRAL INDEX KEY:			0001792732
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39126
+		FILM NUMBER:		20967348
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CNS PHARMACEUTICALS, INC.
+		STREET 2:		2100 WEST LOOP SOUTH STE 900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CNS Pharmaceuticals, Inc.
+		CENTRAL INDEX KEY:			0001729427
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				822318545
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2100 WEST LOOP SOUTH
+		STREET 2:		SUITE 900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+		BUSINESS PHONE:		1-800-946-9185 X701
+
+	MAIL ADDRESS:	
+		STREET 1:		2100 WEST LOOP SOUTH
+		STREET 2:		SUITE 900
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-06-12</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001729427</issuerCik>
+        <issuerName>CNS Pharmaceuticals, Inc.</issuerName>
+        <issuerTradingSymbol>CNSP</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792732</rptOwnerCik>
+            <rptOwnerName>Andraczke Andrzej</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O CNS PHARMACEUTICALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>100 WEST LOOP SOUTH, SUITE 900</rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77027</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option to purchase common stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.47</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-06-12</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>46559</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-06-12</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>46559</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>146559</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The stock options set forth in this table vest on the earlier of the one-year anniversary of the issuance date or the date of the 2021 annual meeting, subject to the grantee's continued service to the Company on the vesting date.</footnote>
+        <footnote id="F2">The stock options were issued in connection with the reporting person's Board of Director services to the Company.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Christopher Downs, Attorney-in-fact</signatureName>
+        <signatureDate>2020-06-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

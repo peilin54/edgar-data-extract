@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001209191-20-009860.txt : 20200218
+<SEC-HEADER>0001209191-20-009860.hdr.sgml : 20200218
+<ACCEPTANCE-DATETIME>20200218070518
+ACCESSION NUMBER:		0001209191-20-009860
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200213
+FILED AS OF DATE:		20200218
+DATE AS OF CHANGE:		20200218
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HILL NANCY LOUISE
+		CENTRAL INDEX KEY:			0001780790
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38957
+		FILM NUMBER:		20623433
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ADAPTIVE BIOTECHNOLOGIES CORPORATION
+		STREET 2:		1551 EASTLAKE AVE E STE 200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Adaptive Biotechnologies Corp
+		CENTRAL INDEX KEY:			0001478320
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				270907024
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1551 EASTLAKE AVENUE EAST SUITE 200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+		BUSINESS PHONE:		206-659-0067
+
+	MAIL ADDRESS:	
+		STREET 1:		1551 EASTLAKE AVENUE EAST SUITE 200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Adaptive TCR Corp
+		DATE OF NAME CHANGE:	20091209
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001478320</issuerCik>
+        <issuerName>Adaptive Biotechnologies Corp</issuerName>
+        <issuerTradingSymbol>ADPT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001780790</rptOwnerCik>
+            <rptOwnerName>HILL NANCY LOUISE</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ADAPTIVE BIOTECHNOLOGIES CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 200</rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Operations</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>31.71</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>50000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-02-13</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>50000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>50000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The options vest with respect to 1/4 of such shares on February 13, 2021, with 1/48 of such shares vesting thereafter at the end of each full month of continuous service until fully vested.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Nancy Hill by Eric Billings, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

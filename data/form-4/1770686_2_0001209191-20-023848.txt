@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001209191-20-023848.txt : 20200407
+<SEC-HEADER>0001209191-20-023848.hdr.sgml : 20200407
+<ACCEPTANCE-DATETIME>20200407180419
+ACCESSION NUMBER:		0001209191-20-023848
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200406
+FILED AS OF DATE:		20200407
+DATE AS OF CHANGE:		20200407
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mathradas Amit
+		CENTRAL INDEX KEY:			0001770686
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38525
+		FILM NUMBER:		20780640
+
+	MAIL ADDRESS:	
+		STREET 1:		255 S KING ST
+		STREET 2:		STE 1800
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVALARA, INC.
+		CENTRAL INDEX KEY:			0001348036
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				911995935
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 S. KING ST.
+		STREET 2:		SUITE 1800
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		(206) 826-4900
+
+	MAIL ADDRESS:	
+		STREET 1:		255 S. KING ST.
+		STREET 2:		SUITE 1800
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AVALARA INC
+		DATE OF NAME CHANGE:	20051227
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-04-06</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001348036</issuerCik>
+        <issuerName>AVALARA, INC.</issuerName>
+        <issuerTradingSymbol>AVLR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001770686</rptOwnerCik>
+            <rptOwnerName>Mathradas Amit</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>255 SOUTH KING ST.</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 1800</rptOwnerStreet2>
+            <rptOwnerCity>SEATTLE</rptOwnerCity>
+            <rptOwnerState>WA</rptOwnerState>
+            <rptOwnerZipCode>98104</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-04-06</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4982</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>64.44</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>98924</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This prearranged sale was effected pursuant to a written authorization executed by the Reporting Person on September 11, 2019, and represents shares required to be sold to cover tax withholding obligations in connection with the vesting of restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks>President and Chief Operating Officer</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Alesia L. Pinney, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-04-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

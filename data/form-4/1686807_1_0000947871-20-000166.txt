@@ -1,0 +1,197 @@
+<SEC-DOCUMENT>0000947871-20-000166.txt : 20200227
+<SEC-HEADER>0000947871-20-000166.hdr.sgml : 20200227
+<ACCEPTANCE-DATETIME>20200227191820
+ACCESSION NUMBER:		0000947871-20-000166
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200225
+FILED AS OF DATE:		20200227
+DATE AS OF CHANGE:		20200227
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Leddy James
+		CENTRAL INDEX KEY:			0001686807
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35249
+		FILM NUMBER:		20664779
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CHEFS' WAREHOUSE INC.
+		STREET 2:		100 EAST RIDGE ROAD
+		CITY:			RIDGEFIELD
+		STATE:			CT
+		ZIP:			06877
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Leddy James F
+		DATE OF NAME CHANGE:	20161006
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Chefs' Warehouse, Inc.
+		CENTRAL INDEX KEY:			0001517175
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & GENERAL LINE [5141]
+		IRS NUMBER:				203031526
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 EAST RIDGE ROAD
+		CITY:			RIDGEFIELD
+		STATE:			CT
+		ZIP:			06877
+		BUSINESS PHONE:		(203) 894-1345
+
+	MAIL ADDRESS:	
+		STREET 1:		100 EAST RIDGE ROAD
+		CITY:			RIDGEFIELD
+		STATE:			CT
+		ZIP:			06877
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Chefs' Warehouse Holdings, LLC
+		DATE OF NAME CHANGE:	20110401
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001517175</issuerCik>
+        <issuerName>Chefs' Warehouse, Inc.</issuerName>
+        <issuerTradingSymbol>CHEF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001686807</rptOwnerCik>
+            <rptOwnerName>Leddy James</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>100 EAST RIDGE ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RIDGEFIELD</rptOwnerCity>
+            <rptOwnerState>CT</rptOwnerState>
+            <rptOwnerZipCode>06877</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Financial Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1088</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>14708</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9656</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>24364</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares withheld upon vesting of restricted common stock awarded to reporting person pursuant to The Chefs' Warehouse 2019 Omnibus Equity Incentive Plan (the &quot;Plan&quot;).</footnote>
+        <footnote id="F2">The reporting person received 9,656 shares of restricted common stock pursuant to the Plan. The forfeiture restrictions associated with this award will lapse in one-third increments as of the first through third anniversary dates of the grant date, February 25, 2020.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alexandros Aldous, Attorney-in-Fact for James Leddy</signatureName>
+        <signatureDate>2020-02-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

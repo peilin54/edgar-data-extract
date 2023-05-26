@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001638509-20-000008.txt : 20200706
+<SEC-HEADER>0001638509-20-000008.hdr.sgml : 20200706
+<ACCEPTANCE-DATETIME>20200706121214
+ACCESSION NUMBER:		0001638509-20-000008
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200701
+FILED AS OF DATE:		20200706
+DATE AS OF CHANGE:		20200706
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Duffey Gregory A
+		CENTRAL INDEX KEY:			0001638509
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38884
+		FILM NUMBER:		201012687
+
+	MAIL ADDRESS:	
+		STREET 1:		20 SOUTH MAIN STREET
+		CITY:			CHAMBERSBURG
+		STATE:			PA
+		ZIP:			17201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRANKLIN FINANCIAL SERVICES CORP /PA/
+		CENTRAL INDEX KEY:			0000723646
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				251440803
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 S MAIN ST
+		STREET 2:		P O BOX 6010
+		CITY:			CHAMBERSBURG
+		STATE:			PA
+		ZIP:			17201-0819
+		BUSINESS PHONE:		7172646116
+
+	MAIL ADDRESS:	
+		STREET 1:		20 SOUTH MAIN ST
+		STREET 2:		PO BOX 6010
+		CITY:			CHAMBERSBURG
+		STATE:			PA
+		ZIP:			17201-0819
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-07-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000723646</issuerCik>
+        <issuerName>FRANKLIN FINANCIAL SERVICES CORP /PA/</issuerName>
+        <issuerTradingSymbol>FRAF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001638509</rptOwnerCik>
+            <rptOwnerName>Duffey Gregory A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>20 SOUTH MAIN STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CHAMBERSBURG</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>17201</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-07-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>41</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>24.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7080</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <remarks>POA on file with Corporation.</remarks>
+
+    <ownerSignature>
+        <signatureName>Gregory A. Duffey, by Amanda M. Ducey, Corporate Secretary</signatureName>
+        <signatureDate>2020-07-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0001493152-20-018537.txt : 20200929
+<SEC-HEADER>0001493152-20-018537.hdr.sgml : 20200929
+<ACCEPTANCE-DATETIME>20200929160518
+ACCESSION NUMBER:		0001493152-20-018537
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200928
+FILED AS OF DATE:		20200929
+DATE AS OF CHANGE:		20200929
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hague Richard
+		CENTRAL INDEX KEY:			0001656557
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32404
+		FILM NUMBER:		201208915
+
+	MAIL ADDRESS:	
+		STREET 1:		32 WIGGINS AVENUE
+		CITY:			BEDFORD
+		STATE:			MA
+		ZIP:			01730
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			POLARITYTE, INC.
+		CENTRAL INDEX KEY:			0001076682
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				061529524
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1960 S. 4250 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84104
+		BUSINESS PHONE:		(800)-560-3983
+
+	MAIL ADDRESS:	
+		STREET 1:		1960 S. 4250 WEST
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84104
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAJESCO ENTERTAINMENT CO
+		DATE OF NAME CHANGE:	20050427
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAJESCO HOLDINGS INC
+		DATE OF NAME CHANGE:	20040416
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONNECTIVCORP
+		DATE OF NAME CHANGE:	20010815
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001076682</issuerCik>
+        <issuerName>POLARITYTE, INC.</issuerName>
+        <issuerTradingSymbol>PTE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001656557</rptOwnerCik>
+            <rptOwnerName>Hague Richard</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>123 WRIGHT BROTHERS DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SALT LAKE CITY</rptOwnerCity>
+            <rptOwnerState>UT</rptOwnerState>
+            <rptOwnerZipCode>84116</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chf. Oper. Off. &amp; Pres.</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5283</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.04</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>720529</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares were withheld by the Issuer to cover withholding taxes resulting from vesting of restricted stock awards that were previously reported on Table I.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Richard Hague</signatureName>
+        <signatureDate>2020-09-29</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

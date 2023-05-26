@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0000899243-20-001780.txt : 20200123
+<SEC-HEADER>0000899243-20-001780.hdr.sgml : 20200123
+<ACCEPTANCE-DATETIME>20200123061744
+ACCESSION NUMBER:		0000899243-20-001780
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200115
+FILED AS OF DATE:		20200123
+DATE AS OF CHANGE:		20200123
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			VanDuyn Amy Beth
+		CENTRAL INDEX KEY:			0001776863
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38977
+		FILM NUMBER:		20540347
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O PHREESIA, INC.
+		STREET 2:		432 PARK AVENUE S., 12TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10016
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Phreesia, Inc.
+		CENTRAL INDEX KEY:			0001412408
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	BUSINESS ADDRESS:	
+		STREET 1:		432 PARK AVENUE S.
+		STREET 2:		12TH FLOOR
+		CITY:			New York
+		STATE:			NY
+		ZIP:			10016
+		BUSINESS PHONE:		646-747-9959
+
+	MAIL ADDRESS:	
+		STREET 1:		432 PARK AVENUE S.
+		STREET 2:		12TH FLOOR
+		CITY:			New York
+		STATE:			NY
+		ZIP:			10016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Phreesia Inc
+		DATE OF NAME CHANGE:	20070914
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001412408</issuerCik>
+        <issuerName>Phreesia, Inc.</issuerName>
+        <issuerTradingSymbol>PHR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776863</rptOwnerCik>
+            <rptOwnerName>VanDuyn Amy Beth</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PHREESIA, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>432 PARK AVENUE SOUTH, 12TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10016</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Human Resources</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30769</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>36457</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares reported in this transaction represent Restricted Stock Units (&quot;RSUs&quot;) issued under the Phreesia, Inc. 2019 Stock Option and Incentive Plan. Each RSU represents the contingent right to receive one share of the Issuer's common stock. The RSUs vest as follows: 10% of the RSUs shall vest on January 15, 2021, 20% of the RSUs shall vest on January 15, 2022, 30% of the RSUs shall vest on January 15, 2023 and 40% of the RSUs shall vest on January 15, 2024, subject to the Reporting Person's continued service to the Issuer through each vesting date.</footnote>
+        <footnote id="F2">These shares are subject to a Lock-Up Agreement until January 26, 2020.</footnote>
+        <footnote id="F3">A portion of these shares represent RSUs.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Charles Kallenbach by Power of Attorney for Amy VanDuyn</signatureName>
+        <signatureDate>2020-01-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

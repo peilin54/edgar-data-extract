@@ -1,0 +1,536 @@
+<SEC-DOCUMENT>0001140361-20-013703.txt : 20200612
+<SEC-HEADER>0001140361-20-013703.hdr.sgml : 20200612
+<ACCEPTANCE-DATETIME>20200612194911
+ACCESSION NUMBER:		0001140361-20-013703
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200610
+FILED AS OF DATE:		20200612
+DATE AS OF CHANGE:		20200612
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Capital Management II, L.P.
+		CENTRAL INDEX KEY:			0001317338
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961674
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 WEST 42ND STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-878-3520
+
+	MAIL ADDRESS:	
+		STREET 1:		11 WEST 42ND STREET
+		STREET 2:		9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Avenue Capital Management II, LLC
+		DATE OF NAME CHANGE:	20050210
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Europe International Management, L.P.
+		CENTRAL INDEX KEY:			0001404730
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961675
+
+	BUSINESS ADDRESS:	
+		STREET 1:		535 MADISON AVENUE
+		STREET 2:		15TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-850-7519
+
+	MAIL ADDRESS:	
+		STREET 1:		535 MADISON AVENUE
+		STREET 2:		15TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Europe International Management GenPar, LLC
+		CENTRAL INDEX KEY:			0001798932
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961676
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AVENUE CAPITAL GROUP
+		STREET 2:		11 WEST 42ND STREET, 9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		(212) 878-3520
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVENUE CAPITAL GROUP
+		STREET 2:		11 WEST 42ND STREET, 9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue-ASRS Europe Opportunities Fund, L.P.
+		CENTRAL INDEX KEY:			0001798931
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961677
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AVENUE CAPITAL GROUP
+		STREET 2:		11 WEST 42ND STREET, 9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		(212) 878-3523
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVENUE CAPITAL GROUP
+		STREET 2:		11 WEST 42ND STREET, 9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Europe Special Situations Fund III (US), L.P.
+		CENTRAL INDEX KEY:			0001642372
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961678
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-878-3523
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Europe Special Situations Fund III (Euro), L.P.
+		CENTRAL INDEX KEY:			0001642376
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961679
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-878-3523
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Avenue Europe Opportunities Master Fund, L.P.
+		CENTRAL INDEX KEY:			0001492359
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961680
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-878-3520
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		6TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			LASRY MARC
+		CENTRAL INDEX KEY:			0001259927
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35345
+		FILM NUMBER:		20961681
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AVENUE CAPITAL MANAGEMENT II, L.P.
+		STREET 2:		11 WEST 42ND STREET, 9TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACIFIC DRILLING S.A.
+		CENTRAL INDEX KEY:			0001517342
+		STANDARD INDUSTRIAL CLASSIFICATION:	DRILLING OIL & GAS WELLS [1381]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8-10 AVENUE DE LA GARE
+		STREET 2:		L-1610
+		CITY:			NONE
+		STATE:			N4
+		ZIP:			NONE
+		BUSINESS PHONE:		NONE
+
+	MAIL ADDRESS:	
+		STREET 1:		8-10 AVENUE DE LA GARE
+		STREET 2:		L-1610
+		CITY:			NONE
+		STATE:			N4
+		ZIP:			NONE
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-06-10</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001517342</issuerCik>
+        <issuerName>PACIFIC DRILLING S.A.</issuerName>
+        <issuerTradingSymbol>PACD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001317338</rptOwnerCik>
+            <rptOwnerName>Avenue Capital Management II, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001404730</rptOwnerCik>
+            <rptOwnerName>Avenue Europe International Management, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP,</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001798932</rptOwnerCik>
+            <rptOwnerName>Avenue Europe International Management GenPar, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001798931</rptOwnerCik>
+            <rptOwnerName>Avenue-ASRS Europe Opportunities Fund, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001642372</rptOwnerCik>
+            <rptOwnerName>Avenue Europe Special Situations Fund III (US), L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP,</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001642376</rptOwnerCik>
+            <rptOwnerName>Avenue Europe Special Situations Fund III (Euro), L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP,</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001492359</rptOwnerCik>
+            <rptOwnerName>Avenue Europe Opportunities Master Fund, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP,</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001259927</rptOwnerCik>
+            <rptOwnerName>LASRY MARC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O AVENUE CAPITAL GROUP,</rptOwnerStreet1>
+            <rptOwnerStreet2>11 WEST 42ND STREET, 9TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-06-10</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2020-06-10</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1353008</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.5686</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9007522</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Collectively, the securities (the &quot;Common Shares&quot;) reported in this Form 4 are held directly by: (i) Avenue Energy Opportunities Fund, L.P., Avenue Energy Opportunities Fund II, L.P., Avenue PPF Opportunities Fund, L.P., Avenue Special Opportunities Fund II, L.P. and Avenue Strategic Opportunities Fund, L.P. (the &quot;US Funds&quot;) and (ii) Avenue ASRS Europe Opportunities Fund, L.P., Avenue Europe Opportunities Master Fund, L.P., Avenue Europe Special Situations Fund III (Euro), L.P., and Avenue Europe Special Situations Fund III (U.S.), L.P. (the &quot;Euro Funds&quot; and together with the US Funds, the &quot;Funds&quot;).</footnote>
+        <footnote id="F2">Avenue Capital Management II, L.P. is the investment manager of the US Funds and may be deemed to have voting and dispositive power over the 6,385,765 Common Shares owned by such entities. Avenue Europe International Management, L.P. is the investment manager of the Euro Funds and may be deemed to have voting and dispositive power over the 2,621,757 Common Shares owned by such entities.</footnote>
+        <footnote id="F3">Marc Lasry is the managing member of Avenue Capital Management II GenPar, LLC and Avenue Europe International Management GenPar, LLC. Mr. Lasry may be deemed to be the indirect beneficial owner of the securities reported by the Funds by reason of his ability to direct the vote and/or disposition of such securities, and his pecuniary interest in such shares (within the meaning of Rule 16a-1(a)(2) under the Exchange Act) is a fractional interest in such amount.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4 is being filed in two parts. This is Part 2 of 2.</remarks>
+
+    <ownerSignature>
+        <signatureName>AVENUE CAPITAL MANAGEMENT II, L.P.
+By: Avenue Capital Management II GenPar, LLC, its General Partner By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE EUROPE INTERNATIONAL MANAGEMENT, L.P.
+By: Avenue Europe International Management GenPar, LLC
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE EUROPE INTERNATIONAL MANAGEMENT GENPAR, LLC
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE-ASRS EUROPE OPPORTUNITIES FUND, L.P.
+By: Avenue-ASRS Europe Opportunities Fund GenPar, LLC, its General Partner
+By: GL ASRS Europe Partners, LLC, its Sole Member
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE EUROPE SPECIAL SITUATIONS FUND III (U.S.), L.P.
+By: Avenue Europe Capital Partners III, LLC, its General Partner
+By: GL Europe Partners III, LLC, its Sole Member
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE EUROPE SPECIAL SITUATIONS FUND III (EURO), L.P.
+By: Avenue Europe Capital Partners III, LLC, its General Partner
+By: GL Europe Partners III, LLC, its Sole Member
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>AVENUE EUROPE OPPORTUNITIES MASTER FUND, L.P.
+By: Avenue Europe Opportunities Fund GenPar, LLC, its General Partner
+By: /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry, Managing Member</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>MARC LASRY /s/ Andrew K. Schinder, Attorney-in-Fact for Marc Lasry</signatureName>
+        <signatureDate>2020-06-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

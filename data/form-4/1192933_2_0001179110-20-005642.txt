@@ -1,0 +1,192 @@
+<SEC-DOCUMENT>0001179110-20-005642.txt : 20200508
+<SEC-HEADER>0001179110-20-005642.hdr.sgml : 20200508
+<ACCEPTANCE-DATETIME>20200508175755
+ACCESSION NUMBER:		0001179110-20-005642
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200507
+FILED AS OF DATE:		20200508
+DATE AS OF CHANGE:		20200508
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ETTINGER JEFFREY M
+		CENTRAL INDEX KEY:			0001192933
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09328
+		FILM NUMBER:		20862066
+
+	MAIL ADDRESS:	
+		STREET 1:		1 HORMEL PLACE
+		CITY:			AUSTINE
+		STATE:			MN
+		ZIP:			55912
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ECOLAB INC.
+		CENTRAL INDEX KEY:			0000031462
+		STANDARD INDUSTRIAL CLASSIFICATION:	SOAP, DETERGENT, CLEANING PREPARATIONS, PERFUMES, COSMETICS [2840]
+		IRS NUMBER:				410231510
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ECOLAB PLACE
+		CITY:			SAINT PAUL
+		STATE:			MN
+		ZIP:			55102
+		BUSINESS PHONE:		18002326522
+
+	MAIL ADDRESS:	
+		STREET 1:		1 ECOLAB PLACE
+		CITY:			SAINT PAUL
+		STATE:			MN
+		ZIP:			55102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ECOLAB INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ECONOMICS LABORATORY INC
+		DATE OF NAME CHANGE:	19861203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 4 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000031462</issuerCik>
+        <issuerName>ECOLAB INC.</issuerName>
+        <issuerTradingSymbol>ECL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001192933</rptOwnerCik>
+            <rptOwnerName>ETTINGER JEFFREY M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ECOLAB INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1 ECOLAB PLACE</rptOwnerStreet2>
+            <rptOwnerCity>SAINT PAUL</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12890.76</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Employee Director Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>195.255</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1417</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-08-07</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-05-07</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1417</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1417</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The option will become exercisable, on a cumulative basis, as to 25% of the option shares (excluding any fractional portion less than one share), on the last day of each of the first, second and third three-month periods following its date of grant and as to the remaining shares on the last day of the fourth three-month period following its date of grant; provided, however, that if a Change in Control of the Company (as that term is defined in the Ecolab Inc. 2001 Non-Employee Director Stock Option and Deferred Compensation Plan) will occur, then the option will become immediately exercisable in full.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ David F. Duvick, as Attorney-in-Fact for Jeffrey M. Ettinger</signatureName>
+        <signatureDate>2020-05-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

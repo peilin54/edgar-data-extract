@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0001209191-20-054087.txt : 20201006
+<SEC-HEADER>0001209191-20-054087.hdr.sgml : 20201006
+<ACCEPTANCE-DATETIME>20201006190742
+ACCESSION NUMBER:		0001209191-20-054087
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20201002
+FILED AS OF DATE:		20201006
+DATE AS OF CHANGE:		20201006
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Moore Stephanie Zapata
+		CENTRAL INDEX KEY:			0001703634
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38086
+		FILM NUMBER:		201227806
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O VISTRA ENERGY CORP.
+		STREET 2:		1601 BRYAN STREET
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vistra Corp.
+		CENTRAL INDEX KEY:			0001692819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				364833255
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6555 SIERRA DRIVE
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+		BUSINESS PHONE:		214-812-4600
+
+	MAIL ADDRESS:	
+		STREET 1:		6555 SIERRA DRIVE
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vistra Energy Corp.
+		DATE OF NAME CHANGE:	20180201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vistra Energy Corp
+		DATE OF NAME CHANGE:	20161221
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-10-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001692819</issuerCik>
+        <issuerName>Vistra Corp.</issuerName>
+        <issuerTradingSymbol>VST</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001703634</rptOwnerCik>
+            <rptOwnerName>Moore Stephanie Zapata</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6555 SIERRA DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>IRVING</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>75039</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-10-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2235</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>17.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>62862</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction represents the withholding by the Issuer of shares to pay taxes in connection with the vesting of restricted stock units. The timing and amount of the transaction were determined by the terms of the applicable restricted stock unit award and were not within the control of the Reporting Person.</footnote>
+    </footnotes>
+
+    <remarks>Exhibit 24. Confirming Statement</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephanie Zapata Moore</signatureName>
+        <signatureDate>2020-10-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.4_940733
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POA DOCUMENT
+<TEXT>
+CONFIRMING STATEMENT
+
+This Confirming Statement ("Statement") confirms that the undersigned, Seth
+Rasmussen, pursuant to his power and authority in his role as attorney-in-fact
+for Stephanie Zapata Moore ("Reporting Person") granted by that certain Power of
+Attorney entered into as of May 28, 2019 ("Power of Attorney"), hereby
+authorizes, directs and designates Yuki Whitmire ("Designee"), acting singly,
+to: (1) prepare, execute in the Reporting Person's name and on the Reporting
+Person's behalf, and submit to the U.S. Securities and Exchange Commission (the
+"SEC") a Form ID, including amendments thereto, and any other documents
+necessary or appropriate to obtain codes and passwords enabling the undersigned
+to make electronic filings with the SEC of reports required by Section 16(a) of
+the Securities Exchange Act of 1934 ("Exchange Act") or any rule or regulation
+of the SEC; (2) execute for and on behalf of the Reporting Person, in the
+Reporting Person's capacity as an officer and/or director of Vistra Corp. (the
+"Company"), Forms 4 and 5 in accordance with Section 16(a) of the Exchange Act
+and the rules thereunder; (3) do and perform any and all acts for and on behalf
+of the Reporting Person which may be necessary or desirable to complete and
+execute any such Form 4 or 5, complete and execute any amendment or amendments
+thereto, and timely file such form with the SEC and any stock exchange or
+similar authority; and (4) take any other action of any type whatsoever in
+connection with the foregoing which, in the opinion of the Designee, may be of,
+benefit to, in the best interest of, or legally required by, the Reporting
+Person, it being understood that the documents executed by the Designee on
+behalf of the Reporting Person pursuant to this Statement shall be in such form
+and shall contain such terms and conditions as the Designee may approve in the
+Designee's discretion.
+
+The undersigned, pursuant to his power and authority in his role as
+attorney-in-fact for the Reporting Person, hereby grants to the Designee full
+power and authority to do and perform any and every act and thing whatsoever
+requisite, necessary, or property to be done in the exercise of any of the
+rights and powers granted under this Statement, as fully to all intents and
+purposes as the Reporting Person might or that the Designee, or the Designee's
+substitute or substitutes, shall lawfully do or cause to be done by virtue of
+this Statement and the rights and powers herein granted. On behalf of the
+Reporting Person, the undersigned acknowledges that the foregoing Designee, in
+serving in such capacity on behalf of the Reporting Person, is not assuming, nor
+is the Company assuming, any of the Reporting Person's responsibilities to
+comply with Section 16 of the Exchange Act.
+
+The authority of the Designee under this Statement shall continue until the
+Reporting Person is no longer required to file Forms 4 and 5 with respect to the
+Reporting Person's holdings of and/or transactions in securities of the Company,
+unless earlier revoked by the Reporting Person, or any attorney-in-fact, in a
+signed writing delivered to the Designee.
+
+IN WITNESS WHEREOF, the undersigned has caused this Statement to be executed as
+of this 6th day of October, 2020.
+
+By: /s/ Seth Rasmussen, as attorney-in-fact for Stephanie Zapata Moore
+
+Name: Seth Rasmussen
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

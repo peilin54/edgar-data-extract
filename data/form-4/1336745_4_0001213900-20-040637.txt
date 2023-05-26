@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001213900-20-040637.txt : 20201203
+<SEC-HEADER>0001213900-20-040637.hdr.sgml : 20201203
+<ACCEPTANCE-DATETIME>20201203102720
+ACCESSION NUMBER:		0001213900-20-040637
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201201
+FILED AS OF DATE:		20201203
+DATE AS OF CHANGE:		20201203
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dornau Gregor M
+		CENTRAL INDEX KEY:			0001336745
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11102
+		FILM NUMBER:		201365988
+
+	MAIL ADDRESS:	
+		STREET 1:		1305 MANDARIN ISLE
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33315
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OCEAN BIO CHEM INC
+		CENTRAL INDEX KEY:			0000350737
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIALTY CLEANING, POLISHING AND SANITATION PREPARATIONS [2842]
+		IRS NUMBER:				591564329
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4041 SW 47TH AVE
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33314
+		BUSINESS PHONE:		9545876280
+
+	MAIL ADDRESS:	
+		STREET 1:		4041 SW 47TH AVE
+		CITY:			FT LAUDERDALE
+		STATE:			FL
+		ZIP:			33028
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STAR BRITE CORP
+		DATE OF NAME CHANGE:	19841204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-12-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000350737</issuerCik>
+        <issuerName>OCEAN BIO CHEM INC</issuerName>
+        <issuerTradingSymbol>OBCI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001336745</rptOwnerCik>
+            <rptOwnerName>Dornau Gregor M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>4041 S.W. 47 AVENUE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>FORT LAUDERDALE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33314</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP Sales &amp; Marketing</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-12-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>750</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.43</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>461978</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Gregor M. Dornau</signatureName>
+        <signatureDate>2020-12-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
