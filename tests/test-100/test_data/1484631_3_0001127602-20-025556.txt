@@ -1,0 +1,146 @@
+<SEC-DOCUMENT>0001127602-20-025556.txt : 20200922
+<SEC-HEADER>0001127602-20-025556.hdr.sgml : 20200922
+<ACCEPTANCE-DATETIME>20200922162415
+ACCESSION NUMBER:		0001127602-20-025556
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200918
+FILED AS OF DATE:		20200922
+DATE AS OF CHANGE:		20200922
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gibbons Brendan M.
+		CENTRAL INDEX KEY:			0001484631
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37935
+		FILM NUMBER:		201189793
+
+	MAIL ADDRESS:	
+		STREET 1:		333 BRIDGE ST
+		CITY:			FAIRHAVEN
+		STATE:			MA
+		ZIP:			02719
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Acushnet Holdings Corp.
+		CENTRAL INDEX KEY:			0001672013
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		IRS NUMBER:				455644353
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		333 BRIDGE STREET
+		CITY:			FAIRHAVEN
+		STATE:			MA
+		ZIP:			02719
+		BUSINESS PHONE:		800-225-8500
+
+	MAIL ADDRESS:	
+		STREET 1:		333 BRIDGE STREET
+		CITY:			FAIRHAVEN
+		STATE:			MA
+		ZIP:			02719
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-18</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001672013</issuerCik>
+        <issuerName>Acushnet Holdings Corp.</issuerName>
+        <issuerTradingSymbol>GOLF</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001484631</rptOwnerCik>
+            <rptOwnerName>Gibbons Brendan M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ACUSHNET HOLDINGS CORP.</rptOwnerStreet1>
+            <rptOwnerStreet2>333 BRIDGE STREET</rptOwnerStreet2>
+            <rptOwnerCity>FAIRHAVEN</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02179</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>See Remarks</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>540</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.21</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>81527</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents dividend equivalent rights in connection with the Issuer's quarterly dividend and accrued to the Reporting Person on restricted stock units deferred under the Issuer's deferred compensation plan.</footnote>
+    </footnotes>
+
+    <remarks>Title:  Executive Vice President, Chief Legal Officer and Corporate Secretary</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Roland A. Giroux, as attorney-in-fact</signatureName>
+        <signatureDate>2020-09-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,148 @@
+<SEC-DOCUMENT>0001225208-20-008176.txt : 20200522
+<SEC-HEADER>0001225208-20-008176.hdr.sgml : 20200522
+<ACCEPTANCE-DATETIME>20200522192323
+ACCESSION NUMBER:		0001225208-20-008176
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200520
+FILED AS OF DATE:		20200522
+DATE AS OF CHANGE:		20200522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Alexander Whitney L
+		CENTRAL INDEX KEY:			0001797374
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09595
+		FILM NUMBER:		20907596
+
+	MAIL ADDRESS:	
+		STREET 1:		7601 PENN AVENUE SOUTH
+		CITY:			RICHFIELD
+		STATE:			MN
+		ZIP:			55423
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEST BUY CO INC
+		CENTRAL INDEX KEY:			0000764478
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RADIO TV & CONSUMER ELECTRONICS STORES [5731]
+		IRS NUMBER:				410907483
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0201
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7601 PENN AVE SOUTH
+		CITY:			RICHFIELD
+		STATE:			MN
+		ZIP:			55423
+		BUSINESS PHONE:		6122911000
+
+	MAIL ADDRESS:	
+		STREET 1:		7601 PENN AVE SOUTH
+		CITY:			RICHFIELD
+		STATE:			MN
+		ZIP:			55423
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BEST BUYS CO INC
+		DATE OF NAME CHANGE:	19900809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-20</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000764478</issuerCik>
+        <issuerName>BEST BUY CO INC</issuerName>
+        <issuerTradingSymbol>BBY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001797374</rptOwnerCik>
+            <rptOwnerName>Alexander Whitney L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7601 PENN AVENUE S.</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>RICHFIELD</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55423</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Chief Transformation Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6035.0000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>52507.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the vesting and share settlement of a performance share award approved by the Issuer on March 13, 2017. Performance for this award was measured based on the Issuer's total shareholder return (TSR) compared to the TSR of the companies within the S&amp;P 500 Index, over the 36-month period commencing on January 29, 2017, and ending on February 1, 2020. The performance results and number of shares earned based on the results were approved by the Compensation and Human Resources Committee of the Board of Directors on May 20, 2020.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Hannah G. Olson, Attorney-in-fact</signatureName>
+        <signatureDate>2020-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,437 @@
+<SEC-DOCUMENT>0001209191-20-061962.txt : 20201207
+<SEC-HEADER>0001209191-20-061962.hdr.sgml : 20201207
+<ACCEPTANCE-DATETIME>20201207170640
+ACCESSION NUMBER:		0001209191-20-061962
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201204
+FILED AS OF DATE:		20201207
+DATE AS OF CHANGE:		20201207
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEA 16 GP, LLC
+		CENTRAL INDEX KEY:			0001712882
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35670
+		FILM NUMBER:		201373371
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			NEA Partners 16, L.P.
+		CENTRAL INDEX KEY:			0001712881
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35670
+		FILM NUMBER:		201373372
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE, SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			New Enterprise Associates 16, L.P.
+		CENTRAL INDEX KEY:			0001694560
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35670
+		FILM NUMBER:		201373373
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Growth Equity Opportunities V, LLC
+		CENTRAL INDEX KEY:			0001706444
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35670
+		FILM NUMBER:		201373374
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+		BUSINESS PHONE:		410-842-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1954 GREENSPRING DRIVE
+		STREET 2:		SUITE 600
+		CITY:			TIMONIUM
+		STATE:			MD
+		ZIP:			21093
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Regulus Therapeutics Inc.
+		CENTRAL INDEX KEY:			0001505512
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				264738379
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10628 SCIENCE CENTER DRIVE
+		STREET 2:		SUITE 225
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		858-202-6300
+
+	MAIL ADDRESS:	
+		STREET 1:		10628 SCIENCE CENTER DRIVE
+		STREET 2:		SUITE 225
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-12-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001505512</issuerCik>
+        <issuerName>Regulus Therapeutics Inc.</issuerName>
+        <issuerTradingSymbol>RGLS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001706444</rptOwnerCik>
+            <rptOwnerName>Growth Equity Opportunities V, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001694560</rptOwnerCik>
+            <rptOwnerName>New Enterprise Associates 16, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001712881</rptOwnerCik>
+            <rptOwnerName>NEA Partners 16, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001712882</rptOwnerCik>
+            <rptOwnerName>NEA 16 GP, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1954 GREENSPRING DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 600</rptOwnerStreet2>
+            <rptOwnerCity>TIMONIUM</rptOwnerCity>
+            <rptOwnerState>MD</rptOwnerState>
+            <rptOwnerZipCode>21093</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-12-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4398602</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.622</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6451056</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Purchase Warrant (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.7464</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-12-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5239254</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.125</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-12-04</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-12-04</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5239254</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5239254</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Class A-3 Convertible Preferred Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-12-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>258707</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>6.22</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-12-04</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2587070</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>258707</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Acquired from the Issuer pursuant to a Securities Purchase Agreement dated December 1, 2020 with a closing date of December 4, 2020.</footnote>
+        <footnote id="F2">The securities are directly held by Growth Equity Opportunities Fund V, LLC (&quot;GEO V&quot;) and indirectly held by New Enterprise Associates 16, L.P. (&quot;NEA 16&quot;), the sole member of GEO V, NEA Partners 16, L.P. (&quot;NEA Partners&quot;), the
+sole general partner of NEA 16, NEA 16 GP, LLC (&quot;NEA 16 GP&quot;), the sole general partner of NEA Partners 16, and the individual managers of NEA 16 GP (NEA 16, NEA Partners 16, NEA 16 GP and the individual managers of NEA 16 GP, together, the &quot;Indirect Reporting Persons&quot;). The individual managers of NEA 16 GP are Forest Baskett, Ali Behbahani, Carmen Chang, Anthony A. Florence, Jr., Mohamad Makhzoumi, Josh Makower, Scott D. Sandell, Peter W. Sonsini and Paul
+Walker. The Indirect Reporting Persons disclaim beneficial ownership within the meaning of Section 16 of the Securities Exchange Act of 1934, as amended, or otherwise of such portion of the securities of the Issuer held by GEO V in
+which the Indirect Reporting Persons have no pecuinary interest.</footnote>
+        <footnote id="F3">Each share of Class A-3 Convertible Preferred Stock, par value $0.001 per share (&quot;Class A-3 Preferred Stock&quot;), of the Issuer is convertible at any time into a number of shares of common stock, par value $0.001 (&quot;Common Stock&quot;), of
+the Issuer at a rate of 10 shares of Common Stock for each share of Class A-3 Preferred Stock, for no additional consideration, in each case subject to customary adjustments under the certificate of designations for the Class A-3 Preferred Stock (the &quot;Certificate of Designations&quot;). Unless converted pursuant to its terms, the Class A-3 Preferred Stock does not expire. The Certificate of Designations prohibits conversion to the extent that the holder, together with its affiliates, would beneficially own in excess of 9.99% of the number of shares of Common Stock outstanding immediately after giving effect to the conversion.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Sasha Keough, attorney-in-fact</signatureName>
+        <signatureDate>2020-12-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

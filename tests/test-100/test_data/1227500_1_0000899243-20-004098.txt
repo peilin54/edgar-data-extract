@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000899243-20-004098.txt : 20200211
+<SEC-HEADER>0000899243-20-004098.hdr.sgml : 20200211
+<ACCEPTANCE-DATETIME>20200211182045
+ACCESSION NUMBER:		0000899243-20-004098
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200207
+FILED AS OF DATE:		20200211
+DATE AS OF CHANGE:		20200211
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Reber Brett A
+		CENTRAL INDEX KEY:			0001755774
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37624
+		FILM NUMBER:		20598578
+
+	MAIL ADDRESS:	
+		STREET 1:		7701 EAST KELLOGG DRIVE, SUITE 300
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67207
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EQUITY BANCSHARES INC
+		CENTRAL INDEX KEY:			0001227500
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			KS
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7701 E. KELLOGG DRIVE, SUITE 200
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67207
+		BUSINESS PHONE:		316-612-6000
+
+	MAIL ADDRESS:	
+		STREET 1:		7701 E. KELLOGG DRIVE, SUITE 200
+		CITY:			WICHITA
+		STATE:			KS
+		ZIP:			67207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001227500</issuerCik>
+        <issuerName>EQUITY BANCSHARES INC</issuerName>
+        <issuerTradingSymbol>EQBK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001755774</rptOwnerCik>
+            <rptOwnerName>Reber Brett A</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>7701 E. KELLOGG DR., STE. 300</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>WICHITA</rptOwnerCity>
+            <rptOwnerState>KS</rptOwnerState>
+            <rptOwnerZipCode>67207</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-07</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2250</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5890</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the grant of restricted stock units.  These restricted stock units vest in three equal annual installments beginning on February 7, 2021.</footnote>
+        <footnote id="F2">Includes 500 shares purchased on August 14, 2019 pursuant to the Equity Bancshares, Inc. 2019 Employee Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Gregory H. Kossover, attorney-in-fact</signatureName>
+        <signatureDate>2020-02-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,241 @@
+<SEC-DOCUMENT>0001209191-20-016902.txt : 20200306
+<SEC-HEADER>0001209191-20-016902.hdr.sgml : 20200306
+<ACCEPTANCE-DATETIME>20200306161303
+ACCESSION NUMBER:		0001209191-20-016902
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200304
+FILED AS OF DATE:		20200306
+DATE AS OF CHANGE:		20200306
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WEST JEFFREY N
+		CENTRAL INDEX KEY:			0001244921
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06639
+		FILM NUMBER:		20694907
+
+	MAIL ADDRESS:	
+		STREET 1:		6950 COLUMBIA GATEWAY DR STE 400
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAGELLAN HEALTH INC
+		CENTRAL INDEX KEY:			0000019411
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HOSPITALS [8060]
+		IRS NUMBER:				581076937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4801 E. WASHINGTON ST
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+		BUSINESS PHONE:		800-642-1716
+
+	MAIL ADDRESS:	
+		STREET 1:		4801 E. WASHINGTON ST
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAGELLAN HEALTH SERVICES INC
+		DATE OF NAME CHANGE:	19960226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHARTER MEDICAL CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000019411</issuerCik>
+        <issuerName>MAGELLAN HEALTH INC</issuerName>
+        <issuerTradingSymbol>MGLN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001244921</rptOwnerCik>
+            <rptOwnerName>WEST JEFFREY N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>14100  MAGELLAN PLAZA</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>MARYLAND HEIGHTS</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63043</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP &amp; Controller</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Performance-Based Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-03-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1474</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2023-03-04</value>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1474</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1474</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.00</value>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-03-04</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5307</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5307</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5307</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Not applicable.</footnote>
+        <footnote id="F2">On the third anniversary of the grant date, Performance-Based Restricted Stock Units (&quot;PSUs&quot;) vest based on achievement of total shareholder return (&quot;TSR&quot;) performance relative to the S&amp;P Health Services Industry Index over a three-year period beginning in 2020 and ending in 2022. Payout for vested PSUs ranges from 0% to 200% of the indicated number of shares, based on the Company's TSR percentile ranking compared to the TSR of the companies included in the selected market index. TSR is measured generally as the increase or decrease in the market value of the Company common stock with a deemed reinvestment of any dividends. If a participant terminates employment prior to the third anniversary of the grant date, the PSUs generally will be forfeited. PSUs have no voting rights and are generally non-transferable.  The indicated number of PSUs assumes 100% vesting, and the actual number of shares issued in settlement of the PSUs may be greater or less than the indicated number.</footnote>
+        <footnote id="F3">(Continuation of Footnote 3) - Since the payout for PSUs can range from 0% to 200%, the maximum number of shares that could vest and be issued could be double the indicated number.</footnote>
+        <footnote id="F4">Restricted Stock Units vest in one third increments on March 4th of each of 2021, 2022 and 2023.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey N. West</signatureName>
+        <signatureDate>2020-03-06</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

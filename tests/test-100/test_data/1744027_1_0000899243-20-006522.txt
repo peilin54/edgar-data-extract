@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0000899243-20-006522.txt : 20200302
+<SEC-HEADER>0000899243-20-006522.hdr.sgml : 20200302
+<ACCEPTANCE-DATETIME>20200302165706
+ACCESSION NUMBER:		0000899243-20-006522
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200131
+FILED AS OF DATE:		20200302
+DATE AS OF CHANGE:		20200302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			PRESTRELSKI STEVEN
+		CENTRAL INDEX KEY:			0001744027
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38536
+		FILM NUMBER:		20677816
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O XERIS PHARMACEUTICALS
+		STREET 2:		180 N. LASALLE STREET, SUITE 1800
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XERIS PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0001346302
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				203352427
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		180 NORTH LASALLE STREET
+		STREET 2:		SUITE 1600
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		844-445-5704
+
+	MAIL ADDRESS:	
+		STREET 1:		180 NORTH LASALLE STREET
+		STREET 2:		SUITE 1600
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001346302</issuerCik>
+        <issuerName>XERIS PHARMACEUTICALS INC</issuerName>
+        <issuerTradingSymbol>XERS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001744027</rptOwnerCik>
+            <rptOwnerName>PRESTRELSKI STEVEN</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O XERIS PHARMACEUTICALS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>180 N. LASALLE STREET, SUITE 1600</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60601</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Scientific Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>436824</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were acquired pursuant to a restricted stock unit award under the Company's 2018 Stock Option and Incentive Plan. Each restricted stock unit represents a contingent right to receive one share of the Company's common stock. These restricted stock units vest in three substantially equal annual installments beginning on January 31, 2021.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/Beth Hecht, as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

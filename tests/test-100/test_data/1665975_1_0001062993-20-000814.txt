@@ -1,0 +1,1029 @@
+<SEC-DOCUMENT>0001062993-20-000814.txt : 20200213
+<SEC-HEADER>0001062993-20-000814.hdr.sgml : 20200213
+<ACCEPTANCE-DATETIME>20200213173502
+ACCESSION NUMBER:		0001062993-20-000814
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200211
+FILED AS OF DATE:		20200213
+DATE AS OF CHANGE:		20200213
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Edenbrook Capital, LLC
+		CENTRAL INDEX KEY:			0001666682
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50658
+		FILM NUMBER:		20612293
+
+	BUSINESS ADDRESS:	
+		STREET 1:		116 RADIO CIRCLE
+		STREET 2:		SUITE 202
+		CITY:			MT. KISCO
+		STATE:			NY
+		ZIP:			10549
+		BUSINESS PHONE:		914-239-3117
+
+	MAIL ADDRESS:	
+		STREET 1:		116 RADIO CIRCLE
+		STREET 2:		SUITE 202
+		CITY:			MT. KISCO
+		STATE:			NY
+		ZIP:			10549
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			EDENBROOK LONG ONLY VALUE FUND, LP
+		CENTRAL INDEX KEY:			0001665975
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50658
+		FILM NUMBER:		20612294
+
+	BUSINESS ADDRESS:	
+		STREET 1:		EDENBROOK CAPITAL, LLC
+		STREET 2:		116 RADIO CIRCLE, SUITE 202
+		CITY:			MT. KISCO
+		STATE:			NY
+		ZIP:			10549
+		BUSINESS PHONE:		914-239-3117
+
+	MAIL ADDRESS:	
+		STREET 1:		EDENBROOK CAPITAL, LLC
+		STREET 2:		116 RADIO CIRCLE, SUITE 202
+		CITY:			MT. KISCO
+		STATE:			NY
+		ZIP:			10549
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Brolin Jonathan
+		CENTRAL INDEX KEY:			0001712127
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50658
+		FILM NUMBER:		20612295
+
+	MAIL ADDRESS:	
+		STREET 1:		2 DEPOT PLAZA
+		STREET 2:		4TH FLOOR
+		CITY:			BEDFORD HILLS
+		STATE:			NY
+		ZIP:			10507
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARCHEX INC
+		CENTRAL INDEX KEY:			0001224133
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				352194038
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		520 PIKE STREET
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+		BUSINESS PHONE:		206-774-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		520 PIKE STREET
+		STREET 2:		SUITE 2000
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-11</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001224133</issuerCik>
+        <issuerName>MARCHEX INC</issuerName>
+        <issuerTradingSymbol>MCHX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001666682</rptOwnerCik>
+            <rptOwnerName>Edenbrook Capital, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>116 RADIO CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 202</rptOwnerStreet2>
+            <rptOwnerCity>MOUNT KISCO</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10549</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001665975</rptOwnerCik>
+            <rptOwnerName>EDENBROOK LONG ONLY VALUE FUND, LP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>116 RADIO CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 202</rptOwnerStreet2>
+            <rptOwnerCity>MOUNT KISCO</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10549</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001712127</rptOwnerCik>
+            <rptOwnerName>Brolin Jonathan</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>116 RADIO CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 202</rptOwnerStreet2>
+            <rptOwnerCity>MOUNT KISCO</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10549</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class B common stock ('Common Stock')</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1393</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.95</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5582934</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>35145</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.9089</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5618079</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-12</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>16054</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.0045</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5634133</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>80000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>3.1364</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5714133</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>948263</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F8"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.275</value>
+                    <footnoteId id="F12"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-02-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>220000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2200</value>
+                    <footnoteId id="F8"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F9"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.275</value>
+                    <footnoteId id="F12"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-02-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300</value>
+                    <footnoteId id="F9"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F10"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2200</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.25</value>
+                    <footnoteId id="F12"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-02-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>220000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2200</value>
+                    <footnoteId id="F10"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Call Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F11"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>300</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>.25</value>
+                    <footnoteId id="F12"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-02-13</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300</value>
+                    <footnoteId id="F11"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.75</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-09-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>176000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1760</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>2.75</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2020-01-31</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-09-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>24000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>240</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-12-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-09-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>129000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1290</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-12-16</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-09-18</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>21000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>210</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Call Option(Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>42500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>425</value>
+                    <footnoteId id="F6"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Call Option(Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>4.5</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-12</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>7500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75</value>
+                    <footnoteId id="F7"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-09</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>255000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2550</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-09</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-06-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>45000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-08</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-03-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>255000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2550</value>
+                    <footnoteId id="F4"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Put Option (Obligation to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>3.50</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-08-08</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-03-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>45000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>450</value>
+                    <footnoteId id="F5"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These securities are held in the account of Edenbrook Long Only Value Fund, LP, a private fund managed by Edenbrook Capital, LLC and may be deemed to be beneficially owned by Edenbrook Capital, LLC by virtue of its role as the investment manger of such private fund. In addition, Jonathan Brolin may be deemed to be a beneficial owner of such securities by virtue of his role as managing member of Edenbrook Capital, LLC.</footnote>
+        <footnote id="F2">These securities are held in the account of a private fund managed by Edenbrook Capital, LLC and may be deemed to be beneficially owned by Edenbrook Capital, LLC by virtue of its role as the investment manager of such private fund. In addition, Jonathan Brolin may be deemed to be a beneficial owner of such securities by virtue of his role as managing member of Edenbrook Capital, LLC.</footnote>
+        <footnote id="F3">Each Reporting Person disclaims beneficial ownership in the securities reported on this Form 4 except to the extent of its or his pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that such Reporting Person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose.</footnote>
+        <footnote id="F4">As previously disclosed, Edenbrook Long Only Value Fund, LP wrote 2550, 2550 and 3050 put option contracts expiring in March 2020, June 2020 and September 2020, respectively, which provide that Edenbrook Long Only Value Fund, LP will be required to purchase shares of  common stock at the stated strike price if the counterparty exercises such put options.</footnote>
+        <footnote id="F5">As previously disclosed, a private fund managed by Edenbrook Capital, LLC wrote 450, 450 and 450 put option contracts expiring in  March 2020, June 2020 and September 2020, respectively, which provide that the private fund will be required to purchase shares of common stock at the stated strike price if the counterparty exercises such put options.</footnote>
+        <footnote id="F6">As previously disclosed, Edenbrook Long Only Value Fund, LP  bought 425 call option contracts expiring in June 2020 which provide that Edenbrook Long Only Value Fund, LP will have the right to purchase shares of common stock at the stated strike price.</footnote>
+        <footnote id="F7">As previously disclosed, a private fund managed by Edenbrook Capital, LLC  bought 75 call option contracts expiring in June 2020 which provide that the private fund will have the right to purchase shares of common stock at the stated price.</footnote>
+        <footnote id="F8">Edenbrook Long Only Value Fund, LP wrote 2200 put option contracts expiring in December 2020 which provide that Edenbrook Long Only Value Fund, LP will be required to purchase shares of common stock at the stated  strike price if the counterparty exercises such put option.</footnote>
+        <footnote id="F9">A private fund managed by Edenbrook Capital, LLC wrote 300 put option contracts expiring in December 2020 which provide that the private fund will be required to purchase shares of common stock at the stated strike price if the counterparty exercises such put option.</footnote>
+        <footnote id="F10">Edenbrook Long Only Value Fund, LP bought 2200 call option contracts expiring in June 2020 which provide that Edenbrook Long Only Value Fund, LP will have the right to purchase shares of common stock at the stated strike price.</footnote>
+        <footnote id="F11">A private fund managed by Edenbrook Capital, LLC bought 300 call option contracts expiring in June 2020 which provide that the private fund will have the right to purchase shares of common stock at the stated strike price.</footnote>
+        <footnote id="F12">Price shown equals per share option premium.  Each contract represents 100 shares.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Edenbrook Capital, LLC; By: /s/ Jonathan Brolin, Managing Member</signatureName>
+        <signatureDate>2020-02-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Jonathan Brolin</signatureName>
+        <signatureDate>2020-02-13</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Edenbrook Long Only Value Fund, LP, By: /s/ Jonathan Brolin, Managing Member of Edenbrook Capital Partners, LLC</signatureName>
+        <signatureDate>2020-02-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0000905729-20-000002.txt : 20200103
+<SEC-HEADER>0000905729-20-000002.hdr.sgml : 20200103
+<ACCEPTANCE-DATETIME>20200103141634
+ACCESSION NUMBER:		0000905729-20-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200101
+FILED AS OF DATE:		20200103
+DATE AS OF CHANGE:		20200103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Burns Harold J
+		CENTRAL INDEX KEY:			0001789125
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19202
+		FILM NUMBER:		20504564
+
+	MAIL ADDRESS:	
+		STREET 1:		109 EAST DIVISION STREET
+		CITY:			SPARTA
+		STATE:			MI
+		ZIP:			49345
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHOICEONE FINANCIAL SERVICES INC
+		CENTRAL INDEX KEY:			0000803164
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				382659066
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		109 E DIVISION
+		STREET 2:		P O BOX 186
+		CITY:			SPARTA
+		STATE:			MI
+		ZIP:			49345-0186
+		BUSINESS PHONE:		6168877366
+
+	MAIL ADDRESS:	
+		STREET 1:		109 EAST DIVISION
+		STREET 2:		P O BOX 186
+		CITY:			SPARTA
+		STATE:			MI
+		ZIP:			49345-0186
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	1ST COMMUNITY BANCORP INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000803164</issuerCik>
+        <issuerName>CHOICEONE FINANCIAL SERVICES INC</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001789125</rptOwnerCik>
+            <rptOwnerName>Burns Harold J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>109 EAST DIVISION STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SPARTA</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>49345</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>265</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>31.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8654</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Thomas L. Lampen, by Power of Attorney</signatureName>
+        <signatureDate>2020-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>burnspoa.htm
+<DESCRIPTION>LIMITED POWER OF ATTORNEY
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>EXHIBIT 24</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>LIMITED POWER OF ATTORNEY</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">The undersigned does hereby
+constitute and appoint KELLY J. POTES, THOMAS L. LAMPEN, JEFFREY A. OTT, G. CHARLES GOODE, CORINNE N. SPRAGUE and EMILY E. CANTOR,
+or any one or more of them, his or her true and lawful attorneys and agents, with full power of substitution in the premises, to
+do any and all acts and things and to execute and file any and all instruments that such attorneys and agents, or any of them,
+may consider necessary or advisable to enable the undersigned (in his or her individual capacity or in a fiduciary or other capacity)
+to comply with the Securities Act of 1933, as amended (the &ldquo;Securities Act&rdquo;), and the Securities Exchange Act of 1934,
+as amended (the &ldquo;Act&rdquo;), and any requirements of the Securities and Exchange Commission in respect thereof, in connection
+with his or her intended sale of any security related to ChoiceOne Financial Services, Inc. (the &ldquo;Company&rdquo;) pursuant
+to Rule 144 issued under the Securities Act and the preparation, execution and filing of any report or statement of beneficial
+ownership or changes in beneficial ownership of securities of the Company that the undersigned (in his or her individual capacity
+or in a fiduciary or other capacity) may be required to file pursuant to Sections 13 or 16 of the Act including, without limitation,
+full power and authority to sign the undersigned's name, in his or her individual capacity or in a fiduciary or other capacity,
+to any report, application or statement on Form ID, Forms 3, 4, 5 or 144, Schedules 13D or 13G, or to any amendments or any successor
+forms thereto, or any form or forms adopted by the Securities and Exchange Commission in lieu thereof or in addition thereto, hereby
+ratifying and confirming all that such attorneys and agents, or any of them, shall do or cause to be done by virtue hereof.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">The undersigned agrees that
+some of the attorneys-in-fact named herein may act as legal counsel to the Company in connection with the securities matters addressed
+herein, and that such attorneys do not represent the undersigned in his or her personal capacity in connection with such matters.
+The undersigned agrees that the attorneys-in-fact named herein may rely entirely on information furnished orally or in writing
+by the undersigned to such attorneys-in-fact. The undersigned also agrees to indemnify and hold harmless the attorneys-in-fact
+against any losses, claims, damages or liabilities (or actions in respect thereof) that arise out of or are based upon any untrue
+statement or omission of necessary fact in the information provided by the undersigned to the attorneys-in-fact for purposes of
+executing, acknowledging, delivering or filing any such forms, or any amendments or any successor forms thereto, or any form or
+forms adopted by the Securities and Exchange Commission in lieu thereof or in addition thereto.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 1in">This authorization shall
+supersede all prior authorizations to act for the undersigned with respect to securities of the Company in these matters, which
+prior authorizations are hereby revoked, and shall survive the termination of the undersigned&rsquo;s status as a director and/or
+officer of the Company and remain in effect thereafter for so long as the undersigned (in his or her individual capacity or in
+a fiduciary or other capacity) is subject to Rule 144 with respect to securities of the Company or has any obligation under Section
+16 of the Exchange Act with respect to securities of the Company.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 12pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 54%">Dated: &nbsp;October 1, 2019</TD>
+    <TD STYLE="width: 46%; border-bottom: Black 1pt solid; text-align: center">/s/ Harold J. Burns</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">(signature)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: center">Harold J. Burns</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD STYLE="text-align: center">(type or print name)</TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

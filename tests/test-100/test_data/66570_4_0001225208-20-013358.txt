@@ -1,0 +1,373 @@
+<SEC-DOCUMENT>0001225208-20-013358.txt : 20201112
+<SEC-HEADER>0001225208-20-013358.hdr.sgml : 20201112
+<ACCEPTANCE-DATETIME>20201112060143
+ACCESSION NUMBER:		0001225208-20-013358
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201109
+FILED AS OF DATE:		20201112
+DATE AS OF CHANGE:		20201112
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Blanco Steven C. Sr.
+		CENTRAL INDEX KEY:			0001547529
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15579
+		FILM NUMBER:		201302865
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 CRANBERRY WOODS DRIVE
+		CITY:			CRANBERRY TOWNSHIP
+		STATE:			PA
+		ZIP:			16066
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MSA Safety Inc
+		CENTRAL INDEX KEY:			0000066570
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				464914539
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 CRANBERRY WOODS DRIVE
+		CITY:			CRANBERRY TOWNSHIP
+		STATE:			PA
+		ZIP:			16066
+		BUSINESS PHONE:		724-776-8600
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 CRANBERRY WOODS DRIVE
+		CITY:			CRANBERRY TOWNSHIP
+		STATE:			PA
+		ZIP:			16066
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MINE SAFETY APPLIANCES CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-11-09</periodOfReport>
+
+    <issuer>
+        <issuerCik>0000066570</issuerCik>
+        <issuerName>MSA Safety Inc</issuerName>
+        <issuerTradingSymbol>MSA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001547529</rptOwnerCik>
+            <rptOwnerName>Blanco Steven C. Sr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 CRANBERRY WOODS DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CRANBERRY WOODS TOWNSHIP</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>16066</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1484.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>51.6900</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12846.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>143.7070</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12746.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>581.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>141.8411</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12165.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>586.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>140.4900</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11579.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1819.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>142.2694</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9760.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, no par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>820.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0000</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8940.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Incentive Stock Option</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>51.6900</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1484.0000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>51.6900</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2017-02-26</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2024-02-26</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, no par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1484.0000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.0000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Share price on this transaction ranged from $143.68 to $143.93.</footnote>
+        <footnote id="F2">Share price on this transaction ranged from $141.80 to $141.89.</footnote>
+        <footnote id="F3">Share price on this transaction ranged from $142.00 to $142.85.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stephanie L. Sciullo, Attorney in fact</signatureName>
+        <signatureDate>2020-11-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,160 @@
+<SEC-DOCUMENT>0001209191-20-031894.txt : 20200522
+<SEC-HEADER>0001209191-20-031894.hdr.sgml : 20200522
+<ACCEPTANCE-DATETIME>20200522205324
+ACCESSION NUMBER:		0001209191-20-031894
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200521
+FILED AS OF DATE:		20200522
+DATE AS OF CHANGE:		20200522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BENDUSH WILLIAM
+		CENTRAL INDEX KEY:			0001184552
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04298
+		FILM NUMBER:		20907742
+
+	MAIL ADDRESS:	
+		STREET 1:		MICROSEMI CORPORATION
+		STREET 2:		ONE ENTERPRISE
+		CITY:			ALISO VIEJO
+		STATE:			CA
+		ZIP:			92656
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COHU INC
+		CENTRAL INDEX KEY:			0000021535
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				951934119
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12367 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064-6817
+		BUSINESS PHONE:		858-848-8100
+
+	MAIL ADDRESS:	
+		STREET 1:		12367 CROSTHWAITE CIRCLE
+		CITY:			POWAY
+		STATE:			CA
+		ZIP:			92064-6817
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COHU ELECTRONICS INC
+		DATE OF NAME CHANGE:	19720809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000021535</issuerCik>
+        <issuerName>COHU INC</issuerName>
+        <issuerTradingSymbol>COHU</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001184552</rptOwnerCik>
+            <rptOwnerName>BENDUSH WILLIAM</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>12367 CROSTHWAITE CIRCLE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>POWAY</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92064</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-21</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.28</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>38347</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The shares with respect to this transaction were sold in multiple trades at prices ranging from $15.190 to $15.525; the price reported above reflects the weighted average price. The reporting person hereby undertakes to provide upon request by the Securities and Exchange Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price.</footnote>
+        <footnote id="F2">Number of shares includes 8,532 Restricted Stock Units (RSUs) previously reported that in the future will be converted on a one-for-one basis into shares of Cohu, Inc. Common Stock immediately upon the vesting date (assuming continued service to the Board of Directors).</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Jeffrey D. Jones, by Power of Attorney</signatureName>
+        <signatureDate>2020-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

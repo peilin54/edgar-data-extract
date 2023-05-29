@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0000899243-20-022914.txt : 20200819
+<SEC-HEADER>0000899243-20-022914.hdr.sgml : 20200819
+<ACCEPTANCE-DATETIME>20200819160520
+ACCESSION NUMBER:		0000899243-20-022914
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200817
+FILED AS OF DATE:		20200819
+DATE AS OF CHANGE:		20200819
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FERTITTA LORENZO J
+		CENTRAL INDEX KEY:			0000942850
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37754
+		FILM NUMBER:		201117134
+
+	MAIL ADDRESS:	
+		STREET 1:		2960 W SAHARA AVENUE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89102
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Red Rock Resorts, Inc.
+		CENTRAL INDEX KEY:			0001653653
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS & MOTELS [7011]
+		IRS NUMBER:				475081182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1505 SOUTH PAVILION CENTER DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89135
+		BUSINESS PHONE:		7024953000
+
+	MAIL ADDRESS:	
+		STREET 1:		1505 SOUTH PAVILION CENTER DRIVE
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89135
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Station Casinos Corp.
+		DATE OF NAME CHANGE:	20150921
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-08-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001653653</issuerCik>
+        <issuerName>Red Rock Resorts, Inc.</issuerName>
+        <issuerTradingSymbol>RRR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000942850</rptOwnerCik>
+            <rptOwnerName>FERTITTA LORENZO J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RED ROCK RESORTS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1505 SOUTH PAVILION CENTER DRIVE</rptOwnerStreet2>
+            <rptOwnerCity>LAS VEGAS</rptOwnerCity>
+            <rptOwnerState>NV</rptOwnerState>
+            <rptOwnerZipCode>89135</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>110000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.43</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>49235972</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F8"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>27500</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>16.43</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>49263472</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                    <footnoteId id="F8"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of Class A Common Stock acquired by The Lorenzo J. Fertitta and Teresa Jo Fertitta Family Trust (the &quot;L&amp;T Fertitta Family Trust&quot;), a revocable trust established for the benefit of Lorenzo J. Fertitta and Teresa Jo Fertitta and for which Lorenzo J. Fertitta is co-trustee and has shared investment and voting power.</footnote>
+        <footnote id="F2">Represents shares of Class A Common Stock acquired by the Frank J. Fertitta, III 2006 Irrevocable Trust (the &quot;FJF Irrevocable Trust&quot;), an irrevocable trust established for the benefit of Frank J. Fertitta III's three children and for which Lorenzo J. Fertitta is trustee and has sole investment and voting power.</footnote>
+        <footnote id="F3">Represents a weighted average price.  These shares were purchased in multiple transactions at prices ranging from $16.375 to $16.475.</footnote>
+        <footnote id="F4">Lorenzo J. Fertitta is a director of the Issuer, and also a beneficial owner of 10% or more of the Issuer's Class A Common Stock (assuming that all of the units of membership interest in Station Holdco LLC (the &quot;LLC Units&quot;) beneficially owned by Lorenzo J. Fertitta were exchanged for the Issuer's Class A Common Stock) as a result of his ownership interest in FBM Sub 1 LLC (&quot;FBM Sub 1&quot;), Fertitta Business Management LLC (&quot;FBM&quot;) and FI Station Investor LLC (&quot;FI Station&quot;).  The LLC Units are exchangeable at any time and from time to time for an equal number of shares of the Issuer's Class A Common Stock or, at the election of the Issuer, cash.  The LLC Units have no expiration date.</footnote>
+        <footnote id="F5">FI Station is owned by Fertitta Investment LLC (&quot;Fertitta Investment&quot;), KVF Investments, LLC (&quot;KVF&quot;) and LNA Investments, LLC (&quot;LNA&quot;).  Fertitta Investment is owned by FBM, KVF and LNA.  FI Station and Fertitta Investment are managed by Fertitta Holdco LLC, which is owned and managed by Frank J. Fertitta III and Lorenzo J. Fertitta.  KVF is managed by Frank J. Fertitta III and is beneficially owned by various trusts established for the benefit of his three children.  LNA is managed by Lorenzo J. Fertitta and is beneficially owned by various trusts established for the benefit of his three children.  FBM Sub 1 is owned and controlled by FBM.  FBM is owned and controlled (i) 50% by the F &amp; J Fertitta Family Business Trust (the &quot;F&amp;J Trust&quot;), a revocable trust for which Frank J. Fertitta III has sole investment and voting power, and (ii) 50% by the L &amp; T Fertitta Family Business Trust (the &quot;L&amp;T Trust&quot;), a revocable trust for which Lorenzo J. Fertitta has sole investment and voting power.</footnote>
+        <footnote id="F6">(continued from Footnote 5) Certain Class A Common Stock of the Issuer are held by (i) The Lorenzo J. Fertitta and Teresa Jo Fertitta Family Trust (the &quot;L&amp;T Fertitta Family Trust&quot;), a revocable trust established for the benefit of Lorenzo J. Fertitta and Teresa Jo Fertitta and for which Lorenzo J. Fertitta is co-trustee and has shared investment and voting power, (ii) the Frank J. Fertitta, III 2006 Irrevocable Trust (the &quot;FJF Irrevocable Trust&quot;), an irrevocable trust established for the benefit of Frank J. Fertitta III's three children and for which Lorenzo J. Fertitta is trustee and has sole investment and voting power and (iii) the L &amp; T Fertitta Grandchildren's 2020 Irrevocable Trust, an irrevocable trust established for the benefit of the Reporting Person's grandchildren (the &quot;L&amp;T 2020 Trust&quot;) for which Frank J. Fertitta IV, the Reporting Person's nephew, serves as trustee.</footnote>
+        <footnote id="F7">(continued from Footnote 6) Based on the Reporting Person's retained right to remove the trustee of the L&amp;T 2020 Trust, the Reporting Person may be deemed to be a beneficial owner of the shares transferred to the L&amp;T 2020 Trust.</footnote>
+        <footnote id="F8">Lorenzo J. Fertitta disclaims beneficial ownership of any shares of Class A Common Stock or LLC Units beneficially owned by FI Station, Fertitta Investment, FBM Sub 1, FBM, KVF, LNA, the F&amp;J Trust, the L&amp;T Trust, the L&amp;T Fertitta Family Trust, the FJF Irrevocable Trust, and the L&amp;T 2020 Trust, except to the extent of any pecuniary interest therein.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ John Hertig, Attorney-in-Fact for Lorenzo J. Fertitta</signatureName>
+        <signatureDate>2020-08-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

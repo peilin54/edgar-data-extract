@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001567619-20-011536.txt : 20200602
+<SEC-HEADER>0001567619-20-011536.hdr.sgml : 20200602
+<ACCEPTANCE-DATETIME>20200602162511
+ACCESSION NUMBER:		0001567619-20-011536
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200602
+FILED AS OF DATE:		20200602
+DATE AS OF CHANGE:		20200602
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BALLOU ROGER H
+		CENTRAL INDEX KEY:			0001158369
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10245
+		FILM NUMBER:		20937255
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CDI CORP
+		STREET 2:		1717 ARCH ST 35TH FL
+		CITY:			PHILADELPHIA
+		STATE:			PA
+		ZIP:			19103
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RCM TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000700841
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		IRS NUMBER:				951480559
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 MCCLELLAN AVENUE
+		STREET 2:		STE 350
+		CITY:			PENNSAUKEN
+		STATE:			NJ
+		ZIP:			08109-4613
+		BUSINESS PHONE:		8563564500
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 MCCLELLAN AVENUE
+		STREET 2:		STE 350
+		CITY:			PENNSAUKEN
+		STATE:			NJ
+		ZIP:			08109-4613
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-06-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000700841</issuerCik>
+        <issuerName>RCM TECHNOLOGIES INC</issuerName>
+        <issuerTradingSymbol>RCMT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001158369</rptOwnerCik>
+            <rptOwnerName>BALLOU ROGER H</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O RCM TECHNOLOGIES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2500 MCCLELLAN AVENUE, SUITE 350</rptOwnerStreet2>
+            <rptOwnerCity>PENNSAUKEN</rptOwnerCity>
+            <rptOwnerState>NJ</rptOwnerState>
+            <rptOwnerZipCode>08109</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-06-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.20</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>188907</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes 15,845 restricted stock units that were reflected in reporting person's Form 4 filed on December 16, 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Roger H. Ballou by Kevin D. Miller PoA</signatureName>
+        <signatureDate>2020-06-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

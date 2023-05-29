@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001179110-20-000668.txt : 20200121
+<SEC-HEADER>0001179110-20-000668.hdr.sgml : 20200121
+<ACCEPTANCE-DATETIME>20200121112041
+ACCESSION NUMBER:		0001179110-20-000668
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191031
+FILED AS OF DATE:		20200121
+DATE AS OF CHANGE:		20200121
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WHITELAW PAUL MILTON
+		CENTRAL INDEX KEY:			0001733724
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33076
+		FILM NUMBER:		20535616
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 EAST KATELLA AVENUE, SUITE 300
+		CITY:			ANAHEIM
+		STATE:			CA
+		ZIP:			92806
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Willdan Group, Inc.
+		CENTRAL INDEX KEY:			0001370450
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING SERVICES [8711]
+		IRS NUMBER:				141951112
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2401 EAST KATELLA AVENUE, SUITE 300
+		CITY:			ANAHEIM
+		STATE:			CA
+		ZIP:			92806
+		BUSINESS PHONE:		800-424-9144
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 EAST KATELLA AVENUE, SUITE 300
+		CITY:			ANAHEIM
+		STATE:			CA
+		ZIP:			92806
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 4 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-10-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001370450</issuerCik>
+        <issuerName>Willdan Group, Inc.</issuerName>
+        <issuerTradingSymbol>WLDN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001733724</rptOwnerCik>
+            <rptOwnerName>WHITELAW PAUL MILTON</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2401 E. KATELLA AVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>ANAHEIM</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92806</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Business Development</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-10-31</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>153</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>30.30</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5189</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares of the Issuer's Common Stock withheld for tax withholding purposes in connection with the vesting of restricted stock on October 31, 2019, which restricted stock was granted on October 21, 2017.</footnote>
+        <footnote id="F2">Includes (i) 444 shares of restricted stock that vest on March 8, 2020, (ii) 444 shares of restricted stock that vest on October 31, 2020 and (iii) an aggregate of 1,164 shares of Common Stock purchased under the Amended and Restated Willdan Group, Inc. 2006 Employee Stock Purchase Plan, including 225 shares on December 31, 2016, 229 shares on June 30, 2017, 225 shares on December 31, 2017, 355 shares on June 30, 2018 and 130 shares on December 31, 2018.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stacy McLaughlin, Attorney-in-fact for Paul Milton Whitelaw</signatureName>
+        <signatureDate>2020-01-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

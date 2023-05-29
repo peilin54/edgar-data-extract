@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0000950103-20-020650.txt : 20201027
+<SEC-HEADER>0000950103-20-020650.hdr.sgml : 20201027
+<ACCEPTANCE-DATETIME>20201027162439
+ACCESSION NUMBER:		0000950103-20-020650
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201025
+FILED AS OF DATE:		20201027
+DATE AS OF CHANGE:		20201027
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Cho Paul Yoonku
+		CENTRAL INDEX KEY:			0001791106
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50646
+		FILM NUMBER:		201264376
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ULTRA CLEAN HOLDINGS, INC.
+		STREET 2:		26462 CORPORATE AVENUE
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ultra Clean Holdings, Inc.
+		CENTRAL INDEX KEY:			0001275014
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				611430858
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26462 CORPORATE AVENUE
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+		BUSINESS PHONE:		(510) 576-4400
+
+	MAIL ADDRESS:	
+		STREET 1:		26462 CORPORATE AVENUE
+		CITY:			HAYWARD
+		STATE:			CA
+		ZIP:			94545
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ULTRA CLEAN HOLDINGS INC
+		DATE OF NAME CHANGE:	20031231
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>dp139214_4-cho.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-10-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001275014</issuerCik>
+        <issuerName>Ultra Clean Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>UCTT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001791106</rptOwnerCik>
+            <rptOwnerName>Cho Paul Yoonku</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ULTRA CLEAN HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>26462 CORPORATE AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>HAYWARD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94545</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel and Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-10-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1929</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>23.58</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27550</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares automatically withheld for payment of tax liability arising as a result of the partial settlement of restricted stock unit awards that vested.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Paul Yoonku Cho</signatureName>
+        <signatureDate>2020-10-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

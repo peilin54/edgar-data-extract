@@ -1,0 +1,464 @@
+<SEC-DOCUMENT>0001395942-20-000033.txt : 20200225
+<SEC-HEADER>0001395942-20-000033.hdr.sgml : 20200225
+<ACCEPTANCE-DATETIME>20200225202654
+ACCESSION NUMBER:		0001395942-20-000033
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200221
+FILED AS OF DATE:		20200225
+DATE AS OF CHANGE:		20200225
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Fisher Thomas J
+		CENTRAL INDEX KEY:			0001597236
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34568
+		FILM NUMBER:		20653056
+
+	MAIL ADDRESS:	
+		STREET 1:		7601 INTERACTIE WAY
+		CITY:			INDIANAPOLIS
+		STATE:			IN
+		ZIP:			46278
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KAR Auction Services, Inc.
+		CENTRAL INDEX KEY:			0001395942
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]
+		IRS NUMBER:				208744739
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11299 N. ILLINOIS STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+		BUSINESS PHONE:		(800) 923-3725
+
+	MAIL ADDRESS:	
+		STREET 1:		11299 N. ILLINOIS STREET
+		CITY:			CARMEL
+		STATE:			IN
+		ZIP:			46032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAR Holdings, Inc.
+		DATE OF NAME CHANGE:	20070409
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158268039763915.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001395942</issuerCik>
+        <issuerName>KAR Auction Services, Inc.</issuerName>
+        <issuerTradingSymbol>KAR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001597236</rptOwnerCik>
+            <rptOwnerName>Fisher Thomas J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O: KAR AUCTION SERVICES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>11299 NORTH ILLINOIS STREET</rptOwnerStreet2>
+            <rptOwnerCity>CARMEL</rptOwnerCity>
+            <rptOwnerState>IN</rptOwnerState>
+            <rptOwnerZipCode>46032</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP, Chief Information Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>753</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2073</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F2"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>216</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>22.25</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1857</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F4"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F4"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>593.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4957.775</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F5"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1309.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1309</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>753</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F6"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F6"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>753.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1505</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F7"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F7"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>5666.813</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5666.813</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F8"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F8"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6121.835</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6121.835</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F9"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F9"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4957.775</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4957.775</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-02-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4776</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F10"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F10"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4776.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4776</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit is convertible into a share of common stock on a 1-for-1 basis. The restricted stock units vested in common stock on February 22, 2020.</footnote>
+        <footnote id="F2">Shares withheld by the Company to satisfy tax withholding requirements.</footnote>
+        <footnote id="F3">Each restricted stock unit is convertible into a share of common stock on a 1-for-1 basis.</footnote>
+        <footnote id="F4">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock as follows: one-third of these restricted stock units vested on May 12, 2018, one-third of these restricted stock units vested on May 12, 2019 and the remaining one-third of these restricted stock units vest on May 12, 2020, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F5">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock as follows: one-third of these restricted stock units vested on March 2, 2019, one-third of these restricted stock units vest on March 2, 2020 and the remaining one-third of these restricted stock units vest on March 2, 2021, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F6">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock as follows: one-third of these restricted stock units vested on February 22, 2020, one-third of these restricted stock units vest on February 22, 2021 and the remaining one-third of these restricted stock units vest on February 22, 2022, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F7">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock on May 12, 2020, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F8">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock on March 2, 2021, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F9">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock on February 22, 2022, assuming continued employment through the applicable vesting date.</footnote>
+        <footnote id="F10">These restricted stock units remain subject to a time-vesting requirement and are scheduled to vest and settle in common stock as follows: one-third of these restricted stock units vest on February 21, 2021, one-third of these restricted stock units vest on February 21, 2022 and the remaining one-third of these restricted stock units vest on February 21, 2023, assuming continued employment through the applicable vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Charles S. Coleman as Attorney-In-Fact</signatureName>
+        <signatureDate>2020-02-25</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0000899243-20-012897.txt : 20200512
+<SEC-HEADER>0000899243-20-012897.hdr.sgml : 20200512
+<ACCEPTANCE-DATETIME>20200512211811
+ACCESSION NUMBER:		0000899243-20-012897
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200511
+FILED AS OF DATE:		20200512
+DATE AS OF CHANGE:		20200512
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROBERSON ED
+		CENTRAL INDEX KEY:			0001529381
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38147
+		FILM NUMBER:		20870808
+
+	MAIL ADDRESS:	
+		STREET 1:		955 HARTMAN RUN ROAD
+		CITY:			MORGANTOWN
+		STATE:			WV
+		ZIP:			26507
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSOL Energy Inc.
+		CENTRAL INDEX KEY:			0001710366
+		STANDARD INDUSTRIAL CLASSIFICATION:	BITUMINOUS COAL & LIGNITE MINING [1220]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 CONSOL ENERGY DRIVE
+		STREET 2:		SUITE #100
+		CITY:			CANONSBURG
+		STATE:			PA
+		ZIP:			15317
+		BUSINESS PHONE:		724-485-3300
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 CONSOL ENERGY DRIVE
+		STREET 2:		SUITE #100
+		CITY:			CANONSBURG
+		STATE:			PA
+		ZIP:			15317
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSOL Mining Corp
+		DATE OF NAME CHANGE:	20170626
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-11</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001710366</issuerCik>
+        <issuerName>CONSOL Energy Inc.</issuerName>
+        <issuerTradingSymbol>CEIX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001529381</rptOwnerCik>
+            <rptOwnerName>ROBERSON ED</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1000 CONSOL ENERGY DRIVE, SUITE 100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CANONSBURG</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15317</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common stock, par value $0.01 per share</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-11</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20242</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>47072</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents a grant of 20,242 restricted stock units pursuant to the Issuer's 2020 Amended and Restated Omnibus Performance Incentive Plan, all of which will vest on May 11, 2021.  Each restricted stock unit represents a contingent right to receive one share of the Issuer's common stock.</footnote>
+        <footnote id="F2">Of the 47,072 shares reported, 20,242 are unvested restricted stock units (including dividend equivalent rights) and 19,376 are vested deferred stock units (including dividend equivalent rights).</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Martha A. Wiegand, as attorney-in-fact for Edwin S. Roberson</signatureName>
+        <signatureDate>2020-05-12</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

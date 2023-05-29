@@ -1,0 +1,242 @@
+<SEC-DOCUMENT>0001567619-20-016232.txt : 20200901
+<SEC-HEADER>0001567619-20-016232.hdr.sgml : 20200901
+<ACCEPTANCE-DATETIME>20200901161121
+ACCESSION NUMBER:		0001567619-20-016232
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200828
+FILED AS OF DATE:		20200901
+DATE AS OF CHANGE:		20200901
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Weiss Richard F.
+		CENTRAL INDEX KEY:			0001703752
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38065
+		FILM NUMBER:		201154570
+
+	MAIL ADDRESS:	
+		STREET 1:		2651 STRANG BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			YORKTOWN HEIGHTS
+		STATE:			NY
+		ZIP:			10598
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PCSB Financial Corp
+		CENTRAL INDEX KEY:			0001691337
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED [6036]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2651 STRANG BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			YORKTOWN HEIGHTS
+		STATE:			NY
+		ZIP:			10598
+		BUSINESS PHONE:		914-248-7272
+
+	MAIL ADDRESS:	
+		STREET 1:		2651 STRANG BOULEVARD
+		STREET 2:		SUITE 100
+		CITY:			YORKTOWN HEIGHTS
+		STATE:			NY
+		ZIP:			10598
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-08-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001691337</issuerCik>
+        <issuerName>PCSB Financial Corp</issuerName>
+        <issuerTradingSymbol>PCSB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001703752</rptOwnerCik>
+            <rptOwnerName>Weiss Richard F.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2651 STRANG BOULEVARD, SUITE 100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>YORKTOWN HEIGHTS</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10598</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-28</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>13.05</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27876</value>
+                    <footnoteId id="F1"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By IRA</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Options</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>18.27</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2019-10-24</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-10-24</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>51412</value>
+                    <footnoteId id="F2"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>51412</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Phantom Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F3"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1829.9327</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1829.9327</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes shares of restricted stock which vest at a rate of 20% per year commencing on October 24, 2019.</footnote>
+        <footnote id="F2">Stock options vest at a rate of 20% per year commencing on October 24, 2019.</footnote>
+        <footnote id="F3">Each share of phantom stock is the economic equivalent of one share of common stock and becomes payable upon the reporting person's termination of service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Victor L. Cangelosi, pursuant to Power of Attorney</signatureName>
+        <signatureDate>2020-09-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

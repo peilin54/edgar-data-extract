@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001487371-20-000092.txt : 20200305
+<SEC-HEADER>0001487371-20-000092.hdr.sgml : 20200305
+<ACCEPTANCE-DATETIME>20200305114400
+ACCESSION NUMBER:		0001487371-20-000092
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200304
+FILED AS OF DATE:		20200305
+DATE AS OF CHANGE:		20200305
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kagnoff Michael
+		CENTRAL INDEX KEY:			0001632002
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34753
+		FILM NUMBER:		20690035
+
+	MAIL ADDRESS:	
+		STREET 1:		DLA PIPER LLP (US)
+		STREET 2:		4365 EXECUTIVE DRIVE, SUITE 1100
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GenMark Diagnostics, Inc.
+		CENTRAL INDEX KEY:			0001487371
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				272053069
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5964 LA PLACE COURT
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+		BUSINESS PHONE:		(760) 448-4300
+
+	MAIL ADDRESS:	
+		STREET 1:		5964 LA PLACE COURT
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158342662361800.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-04</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001487371</issuerCik>
+        <issuerName>GenMark Diagnostics, Inc.</issuerName>
+        <issuerTradingSymbol>GNMK</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001632002</rptOwnerCik>
+            <rptOwnerName>Kagnoff Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>5964 LA PLACE COURT</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CARLSBAD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-04</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>4.61</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>118216</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price reported is the weighted average price per share.  Shares were purchased in multiple transactions at prices ranging from $4.60 to $4.62 per share.  The Reporting Person will provide, upon request by the Commission staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares purchased at each price.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric Stier, Attorney-in-fact</signatureName>
+        <signatureDate>2020-03-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

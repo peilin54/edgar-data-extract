@@ -1,0 +1,143 @@
+<SEC-DOCUMENT>0001761053-20-000002.txt : 20200605
+<SEC-HEADER>0001761053-20-000002.hdr.sgml : 20200605
+<ACCEPTANCE-DATETIME>20200605113619
+ACCESSION NUMBER:		0001761053-20-000002
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200603
+FILED AS OF DATE:		20200605
+DATE AS OF CHANGE:		20200605
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Schutt Aaron Michael
+		CENTRAL INDEX KEY:			0001761053
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-33501
+		FILM NUMBER:		20945168
+
+	MAIL ADDRESS:	
+		STREET 1:		3111 C STREET
+		CITY:			ANCHORAGE
+		STATE:			AK
+		ZIP:			99503
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHRIM BANCORP INC
+		CENTRAL INDEX KEY:			0001163370
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				920175752
+		STATE OF INCORPORATION:			AK
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 241489
+		CITY:			ANCHORAGE
+		STATE:			AK
+		ZIP:			99524-1489
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_159137135546454.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-06-03</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001163370</issuerCik>
+        <issuerName>NORTHRIM BANCORP INC</issuerName>
+        <issuerTradingSymbol>NRIM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001761053</rptOwnerCik>
+            <rptOwnerName>Schutt Aaron Michael</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3111 C STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ANCHORAGE</rptOwnerCity>
+            <rptOwnerState>AK</rptOwnerState>
+            <rptOwnerZipCode>99503</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-06-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>765</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.2317</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2396</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Aaron M. Schutt</signatureName>
+        <signatureDate>2020-06-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

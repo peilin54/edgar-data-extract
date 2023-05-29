@@ -1,0 +1,181 @@
+<SEC-DOCUMENT>0001493152-20-000071.txt : 20200102
+<SEC-HEADER>0001493152-20-000071.hdr.sgml : 20200102
+<ACCEPTANCE-DATETIME>20200102194522
+ACCESSION NUMBER:		0001493152-20-000071
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200102
+DATE AS OF CHANGE:		20200102
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Simtob Richard Isaac
+		CENTRAL INDEX KEY:			0001710390
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11460
+		FILM NUMBER:		20502877
+
+	MAIL ADDRESS:	
+		STREET 1:		2231 RUTHERFORD ROAD
+		STREET 2:		SUITE 200
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NTN BUZZTIME INC
+		CENTRAL INDEX KEY:			0000748592
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEVISION BROADCASTING STATIONS [4833]
+		IRS NUMBER:				311103425
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1800 ASTON AVE.
+		STREET 2:		SUITE 100
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+		BUSINESS PHONE:		7604387400
+
+	MAIL ADDRESS:	
+		STREET 1:		1800 ASTON AVE.
+		STREET 2:		SUITE 100
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NTN COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALROY INDUSTRIES INC
+		DATE OF NAME CHANGE:	19850411
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-12-31</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000748592</issuerCik>
+        <issuerName>NTN BUZZTIME INC</issuerName>
+        <issuerTradingSymbol>NTN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001710390</rptOwnerCik>
+            <rptOwnerName>Simtob Richard Isaac</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1800 ASTON AVE., SUITE 100</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>CARLSBAD</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92008</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-31</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3851</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>55939</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>155</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This restricted stock grant was issued to the reporting person under the NTN Buzztime, Inc. 2019 Performance Incentive Plan and pursuant to the NTN Buzztime, Inc. Non-Employee Director Compensation Policy in lieu of the annual retainer earned by the reporting person in his capacity as a non-employee director of the issuer with respect to the quarter ended December 31, 2019. This restricted stock grant was fully-vested on the date of grant.</footnote>
+        <footnote id="F2">Owned by minor child.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Richard Simtob</signatureName>
+        <signatureDate>2020-01-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

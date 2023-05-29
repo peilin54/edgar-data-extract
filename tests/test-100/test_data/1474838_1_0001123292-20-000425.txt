@@ -1,0 +1,212 @@
+<SEC-DOCUMENT>0001123292-20-000425.txt : 20200228
+<SEC-HEADER>0001123292-20-000425.hdr.sgml : 20200228
+<ACCEPTANCE-DATETIME>20200228172543
+ACCESSION NUMBER:		0001123292-20-000425
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200227
+FILED AS OF DATE:		20200228
+DATE AS OF CHANGE:		20200228
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Gorman Louis O III
+		CENTRAL INDEX KEY:			0001474838
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16767
+		FILM NUMBER:		20672530
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O WESTFIELD FINANCIAL, INC.
+		STREET 2:		141 ELM STREET
+		CITY:			WESTFIELD
+		STATE:			MA
+		ZIP:			01085
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Western New England Bancorp, Inc.
+		CENTRAL INDEX KEY:			0001157647
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				731627673
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		141 ELM STREET
+		CITY:			WESTFIELD
+		STATE:			MA
+		ZIP:			01085
+		BUSINESS PHONE:		413-568-1911
+
+	MAIL ADDRESS:	
+		STREET 1:		141 ELM STREET
+		CITY:			WESTFIELD
+		STATE:			MA
+		ZIP:			01085
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WESTFIELD FINANCIAL INC
+		DATE OF NAME CHANGE:	20010816
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-27</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001157647</issuerCik>
+        <issuerName>Western New England Bancorp, Inc.</issuerName>
+        <issuerTradingSymbol>WNEB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001474838</rptOwnerCik>
+            <rptOwnerName>Gorman Louis O III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O WESTERN NEW ENGLAND BANCORP, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>141 ELM STREET</rptOwnerStreet2>
+            <rptOwnerCity>WESTFIELD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01085</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP &amp; Chief Credit Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>867</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16339</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-27</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>303</value>
+                    <footnoteId id="F2"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>16036</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>23325</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by ESOP</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were issued to the reporting person pursuant to the Western New England Bancorp, Inc. 2017 Long-Term Incentive Plan, which provided for the award of shares of common stock of the Company based on the Company's performance over a designated three-year period.</footnote>
+        <footnote id="F2">Reflects shares of common stock surrendered to the Issuer to satisfy tax withholding obligations in connection with the award of common stock described in footnote 1.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Gerald P. Ciejka, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-02-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001467858-20-000082.txt : 20200508
+<SEC-HEADER>0001467858-20-000082.hdr.sgml : 20200508
+<ACCEPTANCE-DATETIME>20200508173026
+ACCESSION NUMBER:		0001467858-20-000082
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200507
+FILED AS OF DATE:		20200508
+DATE AS OF CHANGE:		20200508
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Hatto Christopher
+		CENTRAL INDEX KEY:			0001292153
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34960
+		FILM NUMBER:		20861918
+
+	MAIL ADDRESS:	
+		STREET 1:		27175 HAGGERTY ROAD
+		CITY:			NOVI
+		STATE:			MI
+		ZIP:			49377
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			General Motors Co
+		CENTRAL INDEX KEY:			0001467858
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				270756180
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 RENAISSANCE CENTER
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48265-3000
+		BUSINESS PHONE:		313.667.1500
+
+	MAIL ADDRESS:	
+		STREET 1:		300 RENAISSANCE CENTER
+		CITY:			DETROIT
+		STATE:			MI
+		ZIP:			48265-3000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158897340913929.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001467858</issuerCik>
+        <issuerName>General Motors Co</issuerName>
+        <issuerTradingSymbol>GM</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001292153</rptOwnerCik>
+            <rptOwnerName>Hatto Christopher</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>300 RENAISSANCE CENTER</rptOwnerStreet1>
+            <rptOwnerStreet2>M/C: 482-C23-A68</rptOwnerStreet2>
+            <rptOwnerCity>DETROIT</rptOwnerCity>
+            <rptOwnerState>MI</rptOwnerState>
+            <rptOwnerZipCode>48265</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President &amp; CAO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0.0</value>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-05-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1170</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2021-04-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2021-04-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1170.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1170</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Restricted Stock Units (&quot;RSUs&quot;) reported in this item were awarded on May 7, 2020, pursuant to the Company's 2017 Long-Term Incentive Plan. The RSUs will vest on April 1, 2021.</footnote>
+        <footnote id="F2">Each RSU will be settled for one share of the Company's Common Stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Tia Y. Turk, Attorney-In-Fact for Mr. Hatto</signatureName>
+        <signatureDate>2020-05-08</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

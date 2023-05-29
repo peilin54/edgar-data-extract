@@ -54,6 +54,7 @@ def main():
     parser = argparse.ArgumentParser(description='SEC Edgar Form 4 reader')
     parser.add_argument('-inpath','--inpath', type=str, help='Enter directory of input files, include trailing "/"', required=True)
     parser.add_argument('-outpath','--outpath', type=str, help='Enter output directory (optional), include trailing "/". Default is same as input directory', required=False)
+    parser.add_argument('-readlist','--readlist', type=bool, default=False, help='Read file from a list. For testing purpose. Default is False', required=False)
     args = parser.parse_args()
 
     inpath = args.inpath
@@ -61,20 +62,35 @@ def main():
         outpath = args.outpath
     else:
         outpath = inpath
+    
+    if not args.readlist:
 
-    directory = os.fsencode(inpath)
-    for file in os.listdir(directory):
-        filename = os.fsdecode(file)
-        if filename.endswith(".txt"): 
+        directory = os.fsencode(inpath)
+        for file in os.listdir(directory):
+            filename = os.fsdecode(file)
+            if filename.endswith(".txt"): 
+                print(filename)
+                form4_tocsv(inpath, outpath, filename)
+    else:
+        infile  = open(inpath+"list_txt", 'r')
+        lines   = infile.readlines()
+
+        for line in lines:
+            filename = line.strip()
             print(filename)
             form4_tocsv(inpath, outpath, filename)
-         
 
-    # nd = pd.read_csv("./test/nonDerivative.csv")
-    # d = pd.read_csv("./test/derivative.csv")
-    # f = pd.read_csv("./test/footnotes.csv")
+        infile.close()
+
+
+    # nd = pd.read_csv(outpath+"./nonDerivative.csv")
+    # d  = pd.read_csv(outpath+""./derivative.csv")
+    # f  = pd.read_csv(outpath+"./footnotes.csv")
     # display(nd)
+    # display(d)
+    # display(f)
 
 
 if __name__ == "__main__":
     main()
+

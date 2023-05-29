@@ -1,0 +1,208 @@
+<SEC-DOCUMENT>0001747632-20-000021.txt : 20201112
+<SEC-HEADER>0001747632-20-000021.hdr.sgml : 20201112
+<ACCEPTANCE-DATETIME>20201112161357
+ACCESSION NUMBER:		0001747632-20-000021
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20201109
+FILED AS OF DATE:		20201112
+DATE AS OF CHANGE:		20201112
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Kiewiet Sean
+		CENTRAL INDEX KEY:			0001747632
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37872
+		FILM NUMBER:		201306833
+
+	MAIL ADDRESS:	
+		STREET 1:		2001 WESTSIDE PARKWAY
+		STREET 2:		SUITE 155
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Priority Technology Holdings, Inc.
+		CENTRAL INDEX KEY:			0001653558
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				474257046
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2001 WESTSIDE PARKWAY
+		STREET 2:		SUITE 155
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30004
+		BUSINESS PHONE:		800-935-5961
+
+	MAIL ADDRESS:	
+		STREET 1:		2001 WESTSIDE PARKWAY
+		STREET 2:		SUITE 155
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	M I Acquisitions, Inc.
+		DATE OF NAME CHANGE:	20150918
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_160521561760860.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-11-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001653558</issuerCik>
+        <issuerName>Priority Technology Holdings, Inc.</issuerName>
+        <issuerTradingSymbol>PRTH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001747632</rptOwnerCik>
+            <rptOwnerName>Kiewiet Sean</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O PRIORITY TECHNOLOGY HOLDINGS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>2001 WESTSIDE PARKWAY, SUITE 155</rptOwnerStreet2>
+            <rptOwnerCity>ALPHARETTA</rptOwnerCity>
+            <rptOwnerState>GA</rptOwnerState>
+            <rptOwnerZipCode>30004</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Technology Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2275</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.7882</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2069384</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-11-10</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7725</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.7068</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2061659</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-trading plan adopted by the Reporting Person.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were acquired in multiple transactions at prices ranging from $2.73 to $2.92, inclusive. The Reporting Person undertakes to provide to Priority Technology Holdings, Inc., any security holder of Priority Technology Holdings, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price. These shares were acquired in multiple transactions at prices ranging from $2.67 to $2.75, inclusive. The Reporting Person undertakes to provide to Priority Technology Holdings, Inc., any security holder of Priority Technology Holdings, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (3) to this Form 4.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Bradley J. Miller, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-11-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poa.txt
+<DESCRIPTION>POWER OF ATTORNEY FOR: /S/ SEAN KIEWIET
+<TEXT>
+/s/ Bradley J. Miller, Attorney-in-Fact
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

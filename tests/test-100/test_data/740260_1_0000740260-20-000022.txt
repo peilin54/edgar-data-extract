@@ -1,0 +1,162 @@
+<SEC-DOCUMENT>0000740260-20-000022.txt : 20200121
+<SEC-HEADER>0000740260-20-000022.hdr.sgml : 20200121
+<ACCEPTANCE-DATETIME>20200121164606
+ACCESSION NUMBER:		0000740260-20-000022
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200118
+FILED AS OF DATE:		20200121
+DATE AS OF CHANGE:		20200121
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Probst Robert F
+		CENTRAL INDEX KEY:			0001531510
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10989
+		FILM NUMBER:		20536805
+
+	MAIL ADDRESS:	
+		STREET 1:		353 N. CLARK STREET
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ventas, Inc.
+		CENTRAL INDEX KEY:			0000740260
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				611055020
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		353 N. CLARK STREET
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+		BUSINESS PHONE:		3126603800
+
+	MAIL ADDRESS:	
+		STREET 1:		353 N. CLARK STREET
+		STREET 2:		SUITE 3300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60654
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VENTAS INC
+		DATE OF NAME CHANGE:	19980507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_157964314845054.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-01-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000740260</issuerCik>
+        <issuerName>Ventas, Inc.</issuerName>
+        <issuerTradingSymbol>VTR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001531510</rptOwnerCik>
+            <rptOwnerName>Probst Robert F</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>353 N. CLARK STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>CHICAGO</rptOwnerCity>
+            <rptOwnerState>IL</rptOwnerState>
+            <rptOwnerZipCode>60654</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>EVP and CFO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-01-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1683</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>58.81</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>78381</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to pay taxes on the vesting of restricted stock units granted on January 18, 2017 under the Ventas, Inc. 2012 Incentive Plan (the &quot;Plan&quot;).  Such vested units are payable solely in common stock of the Issuer and subject to the terms of the Plan.</footnote>
+        <footnote id="F2">As of January 18, 2020, Reporting Person owns options to purchase an aggregate of 346,140 shares of Issuer's common stock.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Robert F. Probst</signatureName>
+        <signatureDate>2020-01-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
