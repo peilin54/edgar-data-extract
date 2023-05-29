@@ -1,0 +1,200 @@
+<SEC-DOCUMENT>0001104659-20-084115.txt : 20200716
+<SEC-HEADER>0001104659-20-084115.hdr.sgml : 20200716
+<ACCEPTANCE-DATETIME>20200716170035
+ACCESSION NUMBER:		0001104659-20-084115
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200715
+FILED AS OF DATE:		20200716
+DATE AS OF CHANGE:		20200716
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			GOLDSTEIN PHILLIP
+		CENTRAL INDEX KEY:			0001067621
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-07528
+		FILM NUMBER:		201031984
+
+	MAIL ADDRESS:	
+		STREET 1:		60 HERITAGE DRIVE
+		CITY:			PLEASANTVILLE
+		STATE:			NY
+		ZIP:			10570
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPECIAL OPPORTUNITIES FUND, INC.
+		CENTRAL INDEX KEY:			0000897802
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133702911
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0331
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O US BANCORP FUND SERVICES, LLC
+		STREET 2:		615 EAST MICHIGAN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+		BUSINESS PHONE:		414-765-4319
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O US BANCORP FUND SERVICES, LLC
+		STREET 2:		615 EAST MICHIGAN AVENUE
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INSURED MUNICIPAL INCOME FUND INC
+		DATE OF NAME CHANGE:	19960213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAINEWEBBER PREMIER INSURED MUNICIPAL INCOME FUND INC
+		DATE OF NAME CHANGE:	19930714
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tm2025025d1_4.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-07-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000897802</issuerCik>
+        <issuerName>SPECIAL OPPORTUNITIES FUND, INC.</issuerName>
+        <issuerTradingSymbol>SPE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001067621</rptOwnerCik>
+            <rptOwnerName>GOLDSTEIN PHILLIP</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>60 HERITAGE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PLEASANTVILLE</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10570</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chairman and Secretary</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-07-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11405</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.74</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>113721</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-07-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1431</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>11.74</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>3862</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F1"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Spouse</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The Reporting Person disclaims beneficial ownership of the securities owned by his spouse and this report should not be deemed an admission that the Reporting Person is the beneficial owner of such securities for purposes of Section 16 or for any other purposes.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Stephanie Darling, Power of Attorney for Phillip Goldstein</signatureName>
+        <signatureDate>2020-07-16</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

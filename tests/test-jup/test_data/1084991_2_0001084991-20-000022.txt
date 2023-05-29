@@ -1,0 +1,228 @@
+<SEC-DOCUMENT>0001084991-20-000022.txt : 20200430
+<SEC-HEADER>0001084991-20-000022.hdr.sgml : 20200430
+<ACCEPTANCE-DATETIME>20200430164402
+ACCESSION NUMBER:		0001084991-20-000022
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200428
+FILED AS OF DATE:		20200430
+DATE AS OF CHANGE:		20200430
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Taylor Stephen Charles
+		CENTRAL INDEX KEY:			0001316004
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31398
+		FILM NUMBER:		20836282
+
+	MAIL ADDRESS:	
+		STREET 1:		2911 SOUTH COUNTY ROAD 1260
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79706
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATURAL GAS SERVICES GROUP INC
+		CENTRAL INDEX KEY:			0001084991
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				752811855
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		404 VETERANS AIRPARK LANE
+		STREET 2:		SUITE 300
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+		BUSINESS PHONE:		(432) 262-2700
+
+	MAIL ADDRESS:	
+		STREET 1:		404 VETERANS AIRPARK LANE
+		STREET 2:		SUITE 300
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79705
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-04-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001084991</issuerCik>
+        <issuerName>NATURAL GAS SERVICES GROUP INC</issuerName>
+        <issuerTradingSymbol>NGS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001316004</rptOwnerCik>
+            <rptOwnerName>Taylor Stephen Charles</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>404 VETERANS AIRPARK LANE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 300</rptOwnerStreet2>
+            <rptOwnerCity>MIDLAND</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>79705</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-04-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>84720</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>5.64</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>476027</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>93025</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Rabbi Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F2"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-04-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>9413</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>9413</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>40676</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The acquisition reflects an award of Restricted Stock pursuant to the Company's 2019 Equity Incentive Plan. The award vests in one-third annual increments beginning on the first anniversary of the grant date, subject to accelerated vesting under certain circumstances.</footnote>
+        <footnote id="F2">Not Applicable. The acquisition reflects an award of Restricted Stock Units (&quot;RSU&quot;) pursuant to the Company's 2019 Equity Incentive Plan. Each RSU represents the right to receive one share of Company common stock upon vesting.  The award vests in one-third annual increments beginning on the first anniversary of the grant date, subject to accelerated vesting under certain circumstances.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Stephen C. Taylor</signatureName>
+        <signatureDate>2020-04-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

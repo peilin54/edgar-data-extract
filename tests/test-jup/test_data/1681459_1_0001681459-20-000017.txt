@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001681459-20-000017.txt : 20200302
+<SEC-HEADER>0001681459-20-000017.hdr.sgml : 20200302
+<ACCEPTANCE-DATETIME>20200302180120
+ACCESSION NUMBER:		0001681459-20-000017
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20200228
+FILED AS OF DATE:		20200302
+DATE AS OF CHANGE:		20200302
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Piou Olivier
+		CENTRAL INDEX KEY:			0001776231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37983
+		FILM NUMBER:		20678813
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ST. PAUL'S CHURCHYARD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4M 8AP
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TechnipFMC plc
+		CENTRAL INDEX KEY:			0001681459
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL & GAS FILED MACHINERY & EQUIPMENT [3533]
+		IRS NUMBER:				981283037
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE ST. PAUL'S CHURCHYARD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4M 8AP
+		BUSINESS PHONE:		44 203 429 3950
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ST. PAUL'S CHURCHYARD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			EC4M 8AP
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TechnipFMC Ltd
+		DATE OF NAME CHANGE:	20160803
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158319006278089.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-28</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001681459</issuerCik>
+        <issuerName>TechnipFMC plc</issuerName>
+        <issuerTradingSymbol>FTI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001776231</rptOwnerCik>
+            <rptOwnerName>Piou Olivier</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TECHNIPFMC PLC</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE ST. PAUL'S CHURCHYARD</rptOwnerStreet2>
+            <rptOwnerCity>LONDON</rptOwnerCity>
+            <rptOwnerState>X0</rptOwnerState>
+            <rptOwnerZipCode>EC4M 8AP</rptOwnerZipCode>
+            <rptOwnerStateDescription>UNITED KINGDOM</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Ordinary Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.11</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>13000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents the weighted average trading price (EUR 13.70) of the shares purchased on the Euronext Paris Exchange based on an exchange rate of EUR 1 to USD 1.1026 on the date of the transaction.  The trading range for these shares was EUR 13.50 to EUR 14.00.  The reporting person will provide full information regarding the number of shares sold at each separate price upon request by the Securities Exchange Commission, the Issuer, or a security holder of the Issuer.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Lisa P. Wang, Attorney-In-Fact</signatureName>
+        <signatureDate>2020-03-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>pioupoa.htm
+<DESCRIPTION>PIOU POA
+<TEXT>
+<!-- Document created using Workiva -->
+<html>
+<body>
+<pre>
+TechnipFMC plc
+
+LIMITED POWER OF ATTORNEY
+(For Executing Forms 3, 4 and 5)
+
+Know all by these presents, that the undersigned hereby constitutes and appoints each of Dianne B. Ralston, Stephen Siegel, and Lisa P. Wang, signing singly, and with full power of substitution, the undersigned's true and lawful attorney-in-fact to:
+
+1.    Execute for and on behalf of the undersigned, in the undersigned's capacity as an officer or director, or both, of TechnipFMC plc (the "Company"), Forms 3, 4 and 5 in accordance with Section 16(a) of the U.S. Securities Exchange Act of 1934 (the "Exchange Act"), as amended, and the rules thereunder;
+
+2.    Do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to complete and execute any such Form 3, 4 or 5, complete and execute any amendment or amendments thereto, and timely file such form with the U.S. Securities and Exchange Commission and any other similar authority, including without limitation, the filing of a Form ID or any other documents necessary or appropriate to enable the undersigned to file the Forms 3, 4 and 5 electronically with the SEC; and
+
+3.    Take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Limited Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in his or her discretion.
+
+The undersigned hereby grants to each such attorney-in-fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary and proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney-in fact, or his or her substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.  The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of the Exchange Act.
+
+This Limited Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 or 5 with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to each of the foregoing attorneys-in-fact.
+
+IN WITNESS WHEREOF, the undersigned has caused this Limited Power of Attorney to be executed as of this 1st day of May 2019.
+
+
+                    /s/Olivier Piou
+       Name:  Olivier Piou
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

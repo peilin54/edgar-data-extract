@@ -1,0 +1,210 @@
+<SEC-DOCUMENT>0001567619-20-017410.txt : 20201002
+<SEC-HEADER>0001567619-20-017410.hdr.sgml : 20201002
+<ACCEPTANCE-DATETIME>20201002120503
+ACCESSION NUMBER:		0001567619-20-017410
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200930
+FILED AS OF DATE:		20201002
+DATE AS OF CHANGE:		20201002
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HANDOK, INC.
+		CENTRAL INDEX KEY:			0001798101
+		STATE OF INCORPORATION:			M5
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54495
+		FILM NUMBER:		201218832
+
+	BUSINESS ADDRESS:	
+		STREET 1:		132, TEHERAN-RO
+		STREET 2:		GANGNAM GU
+		CITY:			SOUL
+		STATE:			M5
+		ZIP:			06235
+		BUSINESS PHONE:		8225275316
+
+	MAIL ADDRESS:	
+		STREET 1:		132, TEHERAN-RO
+		STREET 2:		GANGNAM GU
+		CITY:			SOUL
+		STATE:			M5
+		ZIP:			06235
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rezolute, Inc.
+		CENTRAL INDEX KEY:			0001509261
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				273440894
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 REDWOOD SHORES PARKWAY, SUITE 315
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+		BUSINESS PHONE:		650-847-1919
+
+	MAIL ADDRESS:	
+		STREET 1:		201 REDWOOD SHORES PARKWAY, SUITE 315
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94065
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AntriaBio, Inc.
+		DATE OF NAME CHANGE:	20130114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FITS MY STYLE INC
+		DATE OF NAME CHANGE:	20110104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001509261</issuerCik>
+        <issuerName>Rezolute, Inc.</issuerName>
+        <issuerTradingSymbol>RZLT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001798101</rptOwnerCik>
+            <rptOwnerName>HANDOK, INC.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>132, TEHERAN-RO</rptOwnerStreet1>
+            <rptOwnerStreet2>GANGMAN GU</rptOwnerStreet2>
+            <rptOwnerCity>SEOUL</rptOwnerCity>
+            <rptOwnerState>M4</rptOwnerState>
+            <rptOwnerZipCode>06235</rptOwnerZipCode>
+            <rptOwnerStateDescription>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-30</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>125000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4363</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>99899528</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-10-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>125000</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.4403</value>
+                    <footnoteId id="F3"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>100024528</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The purchases reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on July 6, 2020.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price.  These shares were purchased in multiple transactions at prices ranging from $0.4299 to $0.44, inclusive.  The reporting person undertakes to provide to Rezolute, Inc., any security holder of Rezolute, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the ranges set forth in this footnote (2).</footnote>
+        <footnote id="F3">The price reported in Column 4 is a weighted average price.  These shares were purchased in multiple transactions at prices ranging from $0.43 to $0.45, inclusive.  The reporting person undertakes to provide to Rezolute, Inc., any security holder of Rezolute, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the ranges set forth in this footnote (2).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Handok, Inc. by Hyeon Cheol Lee as CFO of Handok, Inc.</signatureName>
+        <signatureDate>2020-10-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0000746598-20-000179.txt : 20201001
+<SEC-HEADER>0000746598-20-000179.hdr.sgml : 20201001
+<ACCEPTANCE-DATETIME>20201001143823
+ACCESSION NUMBER:		0000746598-20-000179
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200930
+FILED AS OF DATE:		20201001
+DATE AS OF CHANGE:		20201001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			HARRIS FRANK W
+		CENTRAL INDEX KEY:			0001222848
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14959
+		FILM NUMBER:		201215546
+
+	MAIL ADDRESS:	
+		STREET 1:		244 SUMMER ST POLYMER BLDG 603
+		CITY:			AKRON
+		STATE:			OH
+		ZIP:			53202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRADY CORP
+		CENTRAL INDEX KEY:			0000746598
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS MANUFACTURING INDUSTRIES [3990]
+		IRS NUMBER:				390178960
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0731
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6555 W GOOD HOPE RD
+		STREET 2:		P O BOX 571
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53201-0571
+		BUSINESS PHONE:		4143586600
+
+	MAIL ADDRESS:	
+		STREET 1:		6555 GOOD HOPE RD
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53223
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRADY W H CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_160157747865317.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-30</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000746598</issuerCik>
+        <issuerName>BRADY CORP</issuerName>
+        <issuerTradingSymbol>BRC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001222848</rptOwnerCik>
+            <rptOwnerName>HARRIS FRANK W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>872 COVENTRY STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>BOCA RATON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33487</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>2731</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>39.92</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2731</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Deferred Compensation</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reporting owner acquired 2,731 unrestricted shares of Class A Common Stock as compensation for their services as a member of the Board of Directors.  Reporting owner has elected to defer the stock into his Brady Corporation Deferred Compensation account.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Heidi Knueppel, Attorney-In-Fact</signatureName>
+        <signatureDate>2020-10-01</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

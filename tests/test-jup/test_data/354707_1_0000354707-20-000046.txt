@@ -1,0 +1,195 @@
+<SEC-DOCUMENT>0000354707-20-000046.txt : 20200304
+<SEC-HEADER>0000354707-20-000046.hdr.sgml : 20200304
+<ACCEPTANCE-DATETIME>20200304185917
+ACCESSION NUMBER:		0000354707-20-000046
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200303
+FILED AS OF DATE:		20200304
+DATE AS OF CHANGE:		20200304
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			OSHIMA ALAN M.
+		CENTRAL INDEX KEY:			0001470009
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08503
+		FILM NUMBER:		20688962
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HEI, P.O. BOX 730
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96808
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAWAIIAN ELECTRIC INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000354707
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				990208097
+		STATE OF INCORPORATION:			HI
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 BISHOP STREET, SUITE 2900
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96813
+		BUSINESS PHONE:		8085435662
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 730
+		CITY:			HONOLULU
+		STATE:			HI
+		ZIP:			96808-0730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-03</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000354707</issuerCik>
+        <issuerName>HAWAIIAN ELECTRIC INDUSTRIES INC</issuerName>
+        <issuerTradingSymbol>HE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001470009</rptOwnerCik>
+            <rptOwnerName>OSHIMA ALAN M.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 730</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HONOLULU</rptOwnerCity>
+            <rptOwnerState>HI</rptOwnerState>
+            <rptOwnerZipCode>96808-0730</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SR Exec Advisor, Hawn Electric</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20742</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>19048</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-03</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>5</transactionFormType>
+                <transactionCode>G</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20742</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>78057.307</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Alan M. Oshima &amp; Jo Ann R Oshima Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Transfer of shares to Trust Account.</footnote>
+        <footnote id="F2">Includes accrued dividend equivalents (as denominated in shares of HE common stock) from January 31, 2017 (first RSU grants in 2017) to date.  Dividend equivalents accrue in HE common stock with respect to outstanding RSUs when and as dividends are paid.  Accrued dividend equivalents are denominated in HE common stock and paid upon vesting in shares of HE common stock.</footnote>
+        <footnote id="F3">Includes shares acquired under the Hawaiian Electric Industries, Inc. Dividend Reinvestment and Stock Purchase Plan.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Sean K. Clark, Atty-in-Fact for Alan M. Oshima</signatureName>
+        <signatureDate>2020-03-04</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

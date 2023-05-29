@@ -1,0 +1,161 @@
+<SEC-DOCUMENT>0001580695-20-000125.txt : 20200319
+<SEC-HEADER>0001580695-20-000125.hdr.sgml : 20200319
+<ACCEPTANCE-DATETIME>20200319160907
+ACCESSION NUMBER:		0001580695-20-000125
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200302
+FILED AS OF DATE:		20200319
+DATE AS OF CHANGE:		20200319
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Zubko Alexandra Charters
+		CENTRAL INDEX KEY:			0001792658
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38402
+		FILM NUMBER:		20728567
+
+	MAIL ADDRESS:	
+		STREET 1:		18 RIDGE RD
+		CITY:			BRONXVILLE
+		STATE:			NY
+		ZIP:			10708
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Monaker Group, Inc.
+		CENTRAL INDEX KEY:			0001372183
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		IRS NUMBER:				263509845
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2893 EXECUTIVE PARK DRIVE
+		STREET 2:		SUITE 201
+		CITY:			WESTON
+		STATE:			FL
+		ZIP:			33331
+		BUSINESS PHONE:		(954) 888-9779
+
+	MAIL ADDRESS:	
+		STREET 1:		2893 EXECUTIVE PARK DRIVE
+		STREET 2:		SUITE 201
+		CITY:			WESTON
+		STATE:			FL
+		ZIP:			33331
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Next 1 Interactive, Inc.
+		DATE OF NAME CHANGE:	20081009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MAXIMUS EXPLORATION CORP
+		DATE OF NAME CHANGE:	20060809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-03-02</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001372183</issuerCik>
+        <issuerName>Monaker Group, Inc.</issuerName>
+        <issuerTradingSymbol>MKGI</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001792658</rptOwnerCik>
+            <rptOwnerName>Zubko Alexandra Charters</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2893 EXECUTIVE PARK DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 201</rptOwnerStreet2>
+            <rptOwnerCity>WESTON</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>33331</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-03-02</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>5000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>7055</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Issued in consideration for service on the Board of Directors for a portion of the quarter ended February 29, 2020. Approved by the Compensation Committee and the Board of Directors, and granted under the registrant's 2017 Equity Incentive Plan, as amended. Exempt pursuant to Rule 16b3(d).</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Alexandra Zubko</signatureName>
+        <signatureDate>2020-03-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

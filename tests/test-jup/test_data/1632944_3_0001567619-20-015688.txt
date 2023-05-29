@@ -1,0 +1,258 @@
+<SEC-DOCUMENT>0001567619-20-015688.txt : 20200818
+<SEC-HEADER>0001567619-20-015688.hdr.sgml : 20200818
+<ACCEPTANCE-DATETIME>20200818161051
+ACCESSION NUMBER:		0001567619-20-015688
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200815
+FILED AS OF DATE:		20200818
+DATE AS OF CHANGE:		20200818
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Pitofsky David B
+		CENTRAL INDEX KEY:			0001632944
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35769
+		FILM NUMBER:		201113761
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NEWS CORPORATION
+		STREET 2:		1211 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEWS CORP
+		CENTRAL INDEX KEY:			0001564708
+		STANDARD INDUSTRIAL CLASSIFICATION:	NEWSPAPERS:  PUBLISHING OR PUBLISHING & PRINTING [2711]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1211 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		212-416-3400
+
+	MAIL ADDRESS:	
+		STREET 1:		1211 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEWS Corp
+		DATE OF NAME CHANGE:	20130628
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Newscorp Inc
+		DATE OF NAME CHANGE:	20130611
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	New Newscorp LLC
+		DATE OF NAME CHANGE:	20121214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-08-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001564708</issuerCik>
+        <issuerName>NEWS CORP</issuerName>
+        <issuerTradingSymbol>NWS</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001632944</rptOwnerCik>
+            <rptOwnerName>Pitofsky David B</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O NEWS CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>1211 AVENUE OF THE AMERICAS</rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10036</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>General Counsel</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>81217</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>104083</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>40778</value>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>15.33</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>63305</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock-Settled Performance Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F4"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-08-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>81217</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2020-08-15</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-08-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class A Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>81217</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Includes dividend equivalents accrued during the performance period that are subject to the same performance-based and time-based vesting conditions as the underlying stock-settled performance stock units.</footnote>
+        <footnote id="F2">The stock-settled performance stock units were deemed to have settled for an equivalent number of shares of News Corporation's Class A Common Stock.</footnote>
+        <footnote id="F3">Represents shares withheld upon vesting of stock-settled performance stock units to satisfy tax withholding obligation.</footnote>
+        <footnote id="F4">Each stock-settled performance stock unit is the economic equivalent of one share of News Corporation's Class A Common Stock.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Kenneth C. Mertz as Attorney-in-Fact for David B. Pitofsky</signatureName>
+        <signatureDate>2020-08-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

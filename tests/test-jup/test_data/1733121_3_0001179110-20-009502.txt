@@ -1,0 +1,194 @@
+<SEC-DOCUMENT>0001179110-20-009502.txt : 20200903
+<SEC-HEADER>0001179110-20-009502.hdr.sgml : 20200903
+<ACCEPTANCE-DATETIME>20200903102310
+ACCESSION NUMBER:		0001179110-20-009502
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200901
+FILED AS OF DATE:		20200903
+DATE AS OF CHANGE:		20200903
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Juran David B.
+		CENTRAL INDEX KEY:			0001733121
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38412
+		FILM NUMBER:		201158495
+
+	MAIL ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridgewater Bancshares Inc
+		CENTRAL INDEX KEY:			0001341317
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+		BUSINESS PHONE:		(952) 893-6868
+
+	MAIL ADDRESS:	
+		STREET 1:		4450 EXCELSIOR BLVD.
+		STREET 2:		SUITE 100
+		CITY:			ST. LOUIS PARK
+		STATE:			MN
+		ZIP:			55416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 4 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001341317</issuerCik>
+        <issuerName>Bridgewater Bancshares Inc</issuerName>
+        <issuerTradingSymbol>BWB</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001733121</rptOwnerCik>
+            <rptOwnerName>Juran David B.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O BRIDGEWATER BANCSHARES, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4450 EXCELSIOR BLVD., SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS PARK</rptOwnerCity>
+            <rptOwnerState>MN</rptOwnerState>
+            <rptOwnerZipCode>55416</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>10000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>9.6741</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1282371</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>86775</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10725</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The price in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $9.60 to $9.70, inclusive. The reporting person undertakes to provide Bridgewater Bancshares, Inc., any security holder of Bridgewater Bancshares, Inc. or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price set forth in this footnote to this Form 4.</footnote>
+        <footnote id="F2">Shares of common stock are held by Mr. Juran as co-trustee of a Marital Trust dated June 18, 2002. Mr. Juran possesses shared voting and investment power with respect to the shares of common stock held under the trust.</footnote>
+        <footnote id="F3">Shares of common stock are held by Mr. Juran as co-trustee of a Residuary Trust dated June 18, 2002. Mr. Juran possesses shared voting and investment power with respect to the shares of common stock held under the trust.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ben Klocke, attorney-in-fact</signatureName>
+        <signatureDate>2020-09-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

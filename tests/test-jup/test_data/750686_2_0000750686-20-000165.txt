@@ -1,0 +1,151 @@
+<SEC-DOCUMENT>0000750686-20-000165.txt : 20200623
+<SEC-HEADER>0000750686-20-000165.hdr.sgml : 20200623
+<ACCEPTANCE-DATETIME>20200623082511
+ACCESSION NUMBER:		0000750686-20-000165
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200620
+FILED AS OF DATE:		20200623
+DATE AS OF CHANGE:		20200623
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Denekas Craig N
+		CENTRAL INDEX KEY:			0001705793
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13227
+		FILM NUMBER:		20980335
+
+	MAIL ADDRESS:	
+		STREET 1:		2 ELM STREET
+		STREET 2:		P.O. BOX 310
+		CITY:			CAMDEN
+		STATE:			ME
+		ZIP:			04843
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAMDEN NATIONAL CORP
+		CENTRAL INDEX KEY:			0000750686
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				010413282
+		STATE OF INCORPORATION:			ME
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO ELM ST
+		CITY:			CAMDEN
+		STATE:			ME
+		ZIP:			04843
+		BUSINESS PHONE:		2072368821
+
+	MAIL ADDRESS:	
+		STREET 1:		2 ELM ST
+		CITY:			CAMDEN
+		STATE:			ME
+		ZIP:			04843
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_159291509322952.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-06-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000750686</issuerCik>
+        <issuerName>CAMDEN NATIONAL CORP</issuerName>
+        <issuerTradingSymbol>CAC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001705793</rptOwnerCik>
+            <rptOwnerName>Denekas Craig N</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>2 ELM STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>P.O. BOX 310</rptOwnerStreet2>
+            <rptOwnerCity>CAMDEN</rptOwnerCity>
+            <rptOwnerState>ME</rptOwnerState>
+            <rptOwnerZipCode>04843</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-06-20</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>317</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>33.01</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4314</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Michael R. Archer, POA</signatureName>
+        <signatureDate>2020-06-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

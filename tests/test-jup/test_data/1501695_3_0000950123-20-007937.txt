@@ -1,0 +1,770 @@
+<SEC-DOCUMENT>0000950123-20-007937.txt : 20200807
+<SEC-HEADER>0000950123-20-007937.hdr.sgml : 20200807
+<ACCEPTANCE-DATETIME>20200807191732
+ACCESSION NUMBER:		0000950123-20-007937
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200805
+FILED AS OF DATE:		20200807
+DATE AS OF CHANGE:		20200807
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Realty III, GP, L.L.C.
+		CENTRAL INDEX KEY:			0001501294
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Realty III, L.P.
+		CENTRAL INDEX KEY:			0001501297
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086073
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CoreSite CRP III Holdings, LLC
+		CENTRAL INDEX KEY:			0001501694
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086074
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CRP III AIV GP, L.L.C.
+		CENTRAL INDEX KEY:			0001501300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086075
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CRP III AIV GP, L.P.
+		CENTRAL INDEX KEY:			0001501301
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086076
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CRQP III AIV, L.P.
+		CENTRAL INDEX KEY:			0001501512
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086077
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CoreSite CRP III Holdings (VCOC), LLC
+		CENTRAL INDEX KEY:			0001641308
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086078
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Realty IV GP, L.L.C.
+		CENTRAL INDEX KEY:			0001501299
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carlyle Realty IV, L.P.
+		CENTRAL INDEX KEY:			0001501302
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086080
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			CoreSite CRP IV Holdings, LLC
+		CENTRAL INDEX KEY:			0001501695
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34877
+		FILM NUMBER:		201086081
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+		BUSINESS PHONE:		(202) 729-5438
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O THE CARLYLE GROUP, SUITE 220 SOUTH
+		STREET 2:		1001 PENNSYLVANIA AVENUE, N.W.
+		CITY:			WASHINGTON
+		STATE:			DC
+		ZIP:			20004
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CoreSite Realty Corp
+		CENTRAL INDEX KEY:			0001490892
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 17TH STREET
+		STREET 2:		SUITE 500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		(866) 777-2673
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 17TH STREET
+		STREET 2:		SUITE 500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-08-05</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001490892</issuerCik>
+        <issuerName>CoreSite Realty Corp</issuerName>
+        <issuerTradingSymbol>COR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501294</rptOwnerCik>
+            <rptOwnerName>Carlyle Realty III, GP, L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501297</rptOwnerCik>
+            <rptOwnerName>Carlyle Realty III, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501694</rptOwnerCik>
+            <rptOwnerName>CoreSite CRP III Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501300</rptOwnerCik>
+            <rptOwnerName>CRP III AIV GP, L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501301</rptOwnerCik>
+            <rptOwnerName>CRP III AIV GP, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501512</rptOwnerCik>
+            <rptOwnerName>CRQP III AIV, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001641308</rptOwnerCik>
+            <rptOwnerName>CoreSite CRP III Holdings (VCOC), LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501299</rptOwnerCik>
+            <rptOwnerName>Carlyle Realty IV GP, L.L.C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501302</rptOwnerCik>
+            <rptOwnerName>Carlyle Realty IV, L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001501695</rptOwnerCik>
+            <rptOwnerName>CoreSite CRP IV Holdings, LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE CARLYLE GROUP, 1001</rptOwnerStreet1>
+            <rptOwnerStreet2>PENNSYLVANIA AVE., N.W. SUITE 220 SOUTH</rptOwnerStreet2>
+            <rptOwnerCity>WASHINGTON</rptOwnerCity>
+            <rptOwnerState>DC</rptOwnerState>
+            <rptOwnerZipCode>20004-2505</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>230172</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>230172</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-08-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>230172</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>128.55</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Operating Partnership Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-08-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>230172</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>230172</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnote</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The operating partnership units are redeemable at any time for cash or, at the election of the Issuer, exchangeable for shares of common stock on a one-for-one basis, and have no expiration date.</footnote>
+        <footnote id="F2">Carlyle Realty III GP, L.L.C. is the general partner of Carlyle Realty III, L.P., which is the manager of CoreSite CRP III Holdings, LLC. CRP III AIV GP, L.L.C. is the general partner of CRP III AIV GP, L.P., which is the general partner of CRQP III AIV, L.P., which is the sole member of CoreSite CRP III Holdings (VCOC), LLC. Carlyle Realty IV GP, L.L.C. is the general partner of Carlyle Realty IV, L.P., which is the manager of CoreSite CRP IV Holdings, LLC. CRP IV AIV GP, L.L.C. is the general partner of CRP IV AIV GP, L.P., which is the general partner of each of CRP IV-A AIV, L.P. and CRQP IV AIV, L.P., which are the managing members of CoreSite CRP IV Holdings (VCOC I), LLC and CoreSite CRP IV Holdings (VCOC II), LLC, respectively.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Carlyle Realty III, GP, L.L.C., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Carlyle Realty III, L.P., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CoreSite CRP III Holdings, LLC, By: Carlyle Realty III, L.P., its managing member, By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CRP III AIV GP, L.L.C., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CRP III AIV GP, L.P., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CRQP III AIV, L.P., By: CRP III AIV GP, L.P., its general partner, By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CoreSite CRP III Holdings (VCOC), LLC, By: CRQP III AIV, L.P., its managing member, By: CRP III AIV GP, L.P., its general partner, By: /s/ Kevin Gasque,
+Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Carlyle Realty IV GP, L.L.C., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>Carlyle Realty IV, L.P., By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>CoreSite CRP IV Holdings, LLC, By: Carlyle Realty IV, L.P., its managing member, By: /s/ Kevin Gasque, Authorized Person</signatureName>
+        <signatureDate>2020-08-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

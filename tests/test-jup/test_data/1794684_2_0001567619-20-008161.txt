@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001567619-20-008161.txt : 20200420
+<SEC-HEADER>0001567619-20-008161.hdr.sgml : 20200420
+<ACCEPTANCE-DATETIME>20200420142255
+ACCESSION NUMBER:		0001567619-20-008161
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200417
+FILED AS OF DATE:		20200420
+DATE AS OF CHANGE:		20200420
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Valdez Gloria L
+		CENTRAL INDEX KEY:			0001794684
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10596
+		FILM NUMBER:		20802267
+
+	MAIL ADDRESS:	
+		STREET 1:		ESCO TECHNOLOGIES INC
+		STREET 2:		9900 A CLAYTON ROAD
+		CITY:			SAINT LOUIS
+		STATE:			MO
+		ZIP:			63124
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ESCO TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000866706
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		IRS NUMBER:				431554045
+		STATE OF INCORPORATION:			MO
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9900 A CLAYTON RD
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63124
+		BUSINESS PHONE:		3142137200
+
+	MAIL ADDRESS:	
+		STREET 1:		9900 A CLAYTON RD
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63124
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ESCO ELECTRONICS CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-04-17</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000866706</issuerCik>
+        <issuerName>ESCO TECHNOLOGIES INC</issuerName>
+        <issuerTradingSymbol>ESE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001794684</rptOwnerCik>
+            <rptOwnerName>Valdez Gloria L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ESCO TECHNOLOGIES INC</rptOwnerStreet1>
+            <rptOwnerStreet2>9900 A CLAYTON ROAD</rptOwnerStreet2>
+            <rptOwnerCity>ST LOUIS</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63124</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable></nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Common Stock Equivalents</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-04-17</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>3.1098</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>76.77</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F1"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>3.1098</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2987.3312</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Common Stock Equivalents issued in lieu of cash dividends on the Common Stock Equivalents held by the director on the record date. Each Common Stock Equivalent is the economic equivalent of one share of common stock. The Common Stock Equivalents become payable in common stock upon, or at the election of the reporting person in installments beginning upon, the termination of the reporting person's service as a director or such earlier time as the director may  have designated.</footnote>
+    </footnotes>
+
+    <remarks>Power of Attorney on file</remarks>
+
+    <ownerSignature>
+        <signatureName>J. D. Fisher, Attorney-In-Fact</signatureName>
+        <signatureDate>2020-04-20</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

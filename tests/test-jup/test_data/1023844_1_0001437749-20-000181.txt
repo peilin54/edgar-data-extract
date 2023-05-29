@@ -1,0 +1,145 @@
+<SEC-DOCUMENT>0001437749-20-000181.txt : 20200103
+<SEC-HEADER>0001437749-20-000181.hdr.sgml : 20200103
+<ACCEPTANCE-DATETIME>20200103175823
+ACCESSION NUMBER:		0001437749-20-000181
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20191223
+FILED AS OF DATE:		20200103
+DATE AS OF CHANGE:		20200103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Worman Glenn C.
+		CENTRAL INDEX KEY:			0001642077
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12629
+		FILM NUMBER:		20507161
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NATIONAL HOLDINGS CORPORATION
+		STREET 2:		410 PARK AVENUE, 14TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATIONAL HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001023844
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES [6200]
+		IRS NUMBER:				364128138
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 VESEY STREET
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10281
+		BUSINESS PHONE:		212-417-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 VESEY STREET
+		STREET 2:		25TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10281
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OLYMPIC CASCADE FINANCIAL CORP
+		DATE OF NAME CHANGE:	19960927
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>rdgdoc.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2019-12-23</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001023844</issuerCik>
+        <issuerName>NATIONAL HOLDINGS CORP</issuerName>
+        <issuerTradingSymbol>NHLD</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001642077</rptOwnerCik>
+            <rptOwnerName>Worman Glenn C.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 VESEY STREET, 25TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10281</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOfficer>1</isOfficer>
+            <officerTitle>President and CFO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2019-12-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12641</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>2.66</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>67175</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>/s/ Giovanni Castellanos Attorney-in-Fact for Glenn C. Worman</signatureName>
+        <signatureDate>2020-01-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

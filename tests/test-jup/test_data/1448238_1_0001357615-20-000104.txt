@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001357615-20-000104.txt : 20200303
+<SEC-HEADER>0001357615-20-000104.hdr.sgml : 20200303
+<ACCEPTANCE-DATETIME>20200303210725
+ACCESSION NUMBER:		0001357615-20-000104
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200228
+FILED AS OF DATE:		20200303
+DATE AS OF CHANGE:		20200303
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Carney Raymond L. Jr.
+		CENTRAL INDEX KEY:			0001448238
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33146
+		FILM NUMBER:		20685427
+
+	MAIL ADDRESS:	
+		STREET 1:		10205 WESTHEIMER, SUITE 1000
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77042
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KBR, INC.
+		CENTRAL INDEX KEY:			0001357615
+		STANDARD INDUSTRIAL CLASSIFICATION:	HEAVY CONSTRUCTION OTHER THAN BUILDING CONST - CONTRACTORS [1600]
+		IRS NUMBER:				204536774
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		601 JEFFERSON STREET
+		STREET 2:		SUITE 3400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		(713) 753-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		601 JEFFERSON STREET
+		STREET 2:		SUITE 3400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-02-28</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001357615</issuerCik>
+        <issuerName>KBR, INC.</issuerName>
+        <issuerTradingSymbol>KBR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001448238</rptOwnerCik>
+            <rptOwnerName>Carney Raymond L. Jr.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>601 JEFFERSON STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>HOUSTON</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>77002</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>VP &amp; Chief Accounting Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-02-28</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>412</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>25.96</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25364</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Represents shares withheld to pay withholding taxes due upon vestings.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Adam M. Kramer, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-03-03</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

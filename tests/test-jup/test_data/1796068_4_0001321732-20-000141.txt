@@ -1,0 +1,175 @@
+<SEC-DOCUMENT>0001321732-20-000141.txt : 20201019
+<SEC-HEADER>0001321732-20-000141.hdr.sgml : 20201019
+<ACCEPTANCE-DATETIME>20201019204843
+ACCESSION NUMBER:		0001321732-20-000141
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201015
+FILED AS OF DATE:		20201019
+DATE AS OF CHANGE:		20201019
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Shiu Lambert
+		CENTRAL INDEX KEY:			0001796068
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37557
+		FILM NUMBER:		201247168
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENUMBRA PLACE
+		CITY:			ALAMEDA
+		STATE:			CA
+		ZIP:			94502
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Penumbra Inc
+		CENTRAL INDEX KEY:			0001321732
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PENUMBRA PLACE
+		CITY:			ALAMEDA
+		STATE:			CA
+		ZIP:			94502
+		BUSINESS PHONE:		(510) 995-2486
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PENUMBRA PLACE
+		CITY:			ALAMEDA
+		STATE:			CA
+		ZIP:			94502
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_160315490810166.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-10-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001321732</issuerCik>
+        <issuerName>Penumbra Inc</issuerName>
+        <issuerTradingSymbol>PEN</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001796068</rptOwnerCik>
+            <rptOwnerName>Shiu Lambert</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>ONE PENUMBRA PLACE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>ALAMEDA</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94502</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Accounting Officer</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-10-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>527</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>215.40</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>10022</value>
+                    <footnoteId id="F2"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>300</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Spouse's IRA</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were withheld by the Issuer to satisfy tax withholding obligations in connection with the vesting of Restricted Stock Units granted to the Reporting Person.</footnote>
+        <footnote id="F2">A portion of these shares is subject to vesting.</footnote>
+        <footnote id="F3">Shares are held by the Reporting Person's spouse in an IRA.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Johanna Roberts, as attorney-in-fact for Lambert Shiu</signatureName>
+        <signatureDate>2020-10-19</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

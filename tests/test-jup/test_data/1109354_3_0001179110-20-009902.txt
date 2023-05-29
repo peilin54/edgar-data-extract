@@ -1,0 +1,249 @@
+<SEC-DOCUMENT>0001179110-20-009902.txt : 20200921
+<SEC-HEADER>0001179110-20-009902.hdr.sgml : 20200921
+<ACCEPTANCE-DATETIME>20200921175501
+ACCESSION NUMBER:		0001179110-20-009902
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200921
+FILED AS OF DATE:		20200921
+DATE AS OF CHANGE:		20200921
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Friend Cynthia M
+		CENTRAL INDEX KEY:			0001675108
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30833
+		FILM NUMBER:		201187360
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O BRUKER CORPORATION
+		STREET 2:		40 MANNING ROAD
+		CITY:			BILLERICA
+		STATE:			MA
+		ZIP:			01821
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRUKER CORP
+		CENTRAL INDEX KEY:			0001109354
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		IRS NUMBER:				043110160
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 MANNING RD
+		CITY:			BILLERICA
+		STATE:			MA
+		ZIP:			01821
+		BUSINESS PHONE:		978663-3660
+
+	MAIL ADDRESS:	
+		STREET 1:		40 MANNING RD
+		CITY:			BILLERICA
+		STATE:			MA
+		ZIP:			01821
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRUKER BIOSCIENCES CORP
+		DATE OF NAME CHANGE:	20030721
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRUKER DALTONICS INC
+		DATE OF NAME CHANGE:	20000315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>FORM 4 -
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001109354</issuerCik>
+        <issuerName>BRUKER CORP</issuerName>
+        <issuerTradingSymbol>BRKR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001675108</rptOwnerCik>
+            <rptOwnerName>Friend Cynthia M</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>BRUKER CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>40 MANNING ROAD</rptOwnerStreet2>
+            <rptOwnerCity>BILLERICA</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>01821</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.17</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12657</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>37.5813</value>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>11857</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>26.17</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-09-21</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>800</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F3"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2026-05-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>800</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person.</footnote>
+        <footnote id="F2">The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $37.50 to $37.79, inclusive. The reporting person undertakes to provide to Bruker Corporation, any security holder of Bruker Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote.</footnote>
+        <footnote id="F3">The option vested in three approximately equal annual installments on May 20, 2017, 2018 and 2019.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Michael Rich, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-09-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

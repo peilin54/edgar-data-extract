@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001655020-20-000058.txt : 20200403
+<SEC-HEADER>0001655020-20-000058.hdr.sgml : 20200403
+<ACCEPTANCE-DATETIME>20200403144955
+ACCESSION NUMBER:		0001655020-20-000058
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200401
+FILED AS OF DATE:		20200403
+DATE AS OF CHANGE:		20200403
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Owens Matthew R
+		CENTRAL INDEX KEY:			0001685843
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37907
+		FILM NUMBER:		20772937
+
+	MAIL ADDRESS:	
+		STREET 1:		370 17TH STREET
+		STREET 2:		SUITE 5300
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Extraction Oil & Gas, Inc.
+		CENTRAL INDEX KEY:			0001655020
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				461473923
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		370 17TH STREET
+		STREET 2:		SUITE 5300
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		(720) 557-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		370 17TH STREET
+		STREET 2:		SUITE 5300
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Extraction Oil & Gas, LLC
+		DATE OF NAME CHANGE:	20151007
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158593977631422.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-04-01</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001655020</issuerCik>
+        <issuerName>Extraction Oil &amp; Gas, Inc.</issuerName>
+        <issuerTradingSymbol>XOG</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001685843</rptOwnerCik>
+            <rptOwnerName>Owens Matthew R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>370 17TH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 5300</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-04-01</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7779</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.359</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1364437</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>COMMON STOCK</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1837755</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                    <footnoteId id="F2"/>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Footnote (2)</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent amounts withheld by the Issuer to satisfy the Reporting Person's tax withholding obligations</footnote>
+        <footnote id="F2">These shares are owned by OFI Properties, LLC, of which Mr. Owens holds 100% of the managing interest. The Matthew R. Owens 2016 Grantor Retained Annuity Trust, of which Mr. Owens is Trustee, owns a 75% non-managing interest in OFI Properties, LLC.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Eric J. Christ as Attorney-in-Fact</signatureName>
+        <signatureDate>2020-04-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

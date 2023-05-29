@@ -1,0 +1,224 @@
+<SEC-DOCUMENT>0001209191-20-042779.txt : 20200717
+<SEC-HEADER>0001209191-20-042779.hdr.sgml : 20200717
+<ACCEPTANCE-DATETIME>20200717160353
+ACCESSION NUMBER:		0001209191-20-042779
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200715
+FILED AS OF DATE:		20200717
+DATE AS OF CHANGE:		20200717
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			O'Connell Joseph P
+		CENTRAL INDEX KEY:			0001723966
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38318
+		FILM NUMBER:		201033809
+
+	MAIL ADDRESS:	
+		STREET 1:		4747 EXECUTIVE DRIVE
+		STREET 2:		SUITE 510
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Odonate Therapeutics, Inc.
+		CENTRAL INDEX KEY:			0001717452
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				822493065
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4747 EXECUTIVE DRIVE
+		STREET 2:		SUITE 510
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		858-200-3830
+
+	MAIL ADDRESS:	
+		STREET 1:		4747 EXECUTIVE DRIVE
+		STREET 2:		SUITE 510
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Odonate Therapeutics, Inc
+		DATE OF NAME CHANGE:	20171207
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Odonate Therapeutics, LLC
+		DATE OF NAME CHANGE:	20170919
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-07-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001717452</issuerCik>
+        <issuerName>Odonate Therapeutics, Inc.</issuerName>
+        <issuerTradingSymbol>ODT</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001723966</rptOwnerCik>
+            <rptOwnerName>O'Connell Joseph P</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O ODONATE THERAPEUTICS, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>4747 EXECUTIVE DRIVE, SUITE 210</rptOwnerStreet2>
+            <rptOwnerCity>SAN DIEGO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>92121</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Chief Medical Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-07-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>27</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>34.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2101</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Employee Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>41.17</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-07-15</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>27</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2030-07-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>27</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>27</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares were acquired on 07/15/2020 through the Odonate Therapeutics, Inc. 2017 Employee Stock Purchase Plan in a transaction that was exempt under both Rule 16b-3(d) and Rule 16b-3(c).</footnote>
+        <footnote id="F2">The stock options vest and become exercisable as follows: (i) 50% on the date of U.S. Food and Drug Administration (&quot;FDA&quot;) approval of tesetaxel, Odonate's investigational product; (ii) 25% on the first anniversary of FDA approval of tesetaxel; and (iii) 25% on the second anniversary of FDA approval of tesetaxel. Vesting is subject to the Reporting Person's continued service to the Issuer through each vesting date.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ John Lemkey, as attorney-in-fact for Joseph O'Connell</signatureName>
+        <signatureDate>2020-07-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

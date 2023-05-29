@@ -1,0 +1,153 @@
+<SEC-DOCUMENT>0001567619-20-011063.txt : 20200522
+<SEC-HEADER>0001567619-20-011063.hdr.sgml : 20200522
+<ACCEPTANCE-DATETIME>20200522170309
+ACCESSION NUMBER:		0001567619-20-011063
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200520
+FILED AS OF DATE:		20200522
+DATE AS OF CHANGE:		20200522
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Stallings Wendy T.
+		CENTRAL INDEX KEY:			0001810989
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19582
+		FILM NUMBER:		20906837
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OLD DOMINION FREIGHT LINE, INC.
+		CENTRAL INDEX KEY:			0000878927
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRUCKING (NO LOCAL) [4213]
+		IRS NUMBER:				560751714
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+		BUSINESS PHONE:		3368895000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 OLD DOMINION WAY
+		CITY:			THOMASVILLE
+		STATE:			NC
+		ZIP:			27360
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OLD DOMINION FREIGHT LINE INC/VA
+		DATE OF NAME CHANGE:	19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc1.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-20</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000878927</issuerCik>
+        <issuerName>OLD DOMINION FREIGHT LINE, INC.</issuerName>
+        <issuerTradingSymbol>ODFL</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001810989</rptOwnerCik>
+            <rptOwnerName>Stallings Wendy T.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O OLD DOMINION FREIGHT LINE, INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>500 OLD DOMINION WAY</rptOwnerStreet2>
+            <rptOwnerCity>THOMASVILLE</rptOwnerCity>
+            <rptOwnerState>NC</rptOwnerState>
+            <rptOwnerZipCode>27360</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-20</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes></footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Wendy T. Stallings</signatureName>
+        <signatureDate>2020-05-22</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,157 @@
+<SEC-DOCUMENT>0001637459-20-000087.txt : 20200511
+<SEC-HEADER>0001637459-20-000087.hdr.sgml : 20200511
+<ACCEPTANCE-DATETIME>20200511164338
+ACCESSION NUMBER:		0001637459-20-000087
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200507
+FILED AS OF DATE:		20200511
+DATE AS OF CHANGE:		20200511
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Mulder Susan R
+		CENTRAL INDEX KEY:			0001624390
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37482
+		FILM NUMBER:		20865583
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 COLORADO BLVD.
+		CITY:			DENTON
+		STATE:			TX
+		ZIP:			76210
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Kraft Heinz Co
+		CENTRAL INDEX KEY:			0001637459
+		STANDARD INDUSTRIAL CLASSIFICATION:	CANNED, FROZEN & PRESERVED FRUIT, VEG & FOOD SPECIALTIES [2030]
+		IRS NUMBER:				462078182
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE PPG PLACE
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+		BUSINESS PHONE:		412-456-5700
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE PPG PLACE
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	H.J. Heinz Holding Corp
+		DATE OF NAME CHANGE:	20150323
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_158922980038565.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-05-07</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001637459</issuerCik>
+        <issuerName>Kraft Heinz Co</issuerName>
+        <issuerTradingSymbol>KHC</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001624390</rptOwnerCik>
+            <rptOwnerName>Mulder Susan R</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O THE KRAFT HEINZ COMPANY</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE PPG PLACE, SUITE 3200</rptOwnerStreet2>
+            <rptOwnerCity>PITTSBURGH</rptOwnerCity>
+            <rptOwnerState>PA</rptOwnerState>
+            <rptOwnerZipCode>15222</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-05-07</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4336</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>28.83</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4336</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Grant of deferred shares, receipt of which is deferred until the six-month anniversary of the reporting person's separation from service as a director of Kraft Heinz.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Heidi Miller by Power of Attorney</signatureName>
+        <signatureDate>2020-05-11</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

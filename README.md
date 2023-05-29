@@ -78,8 +78,6 @@ diff footnotes.csv  test_data/
 cd ..
 ```
 
-
-
 ## How the code is structured
 
 The downloaded txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 

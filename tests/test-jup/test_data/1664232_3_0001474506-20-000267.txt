@@ -1,0 +1,180 @@
+<SEC-DOCUMENT>0001474506-20-000267.txt : 20200930
+<SEC-HEADER>0001474506-20-000267.hdr.sgml : 20200930
+<ACCEPTANCE-DATETIME>20200930153753
+ACCESSION NUMBER:		0001474506-20-000267
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200929
+FILED AS OF DATE:		20200930
+DATE AS OF CHANGE:		20200930
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			deVilliers David H III
+		CENTRAL INDEX KEY:			0001664232
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36769
+		FILM NUMBER:		201212175
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST FORSYTH STREET
+		STREET 2:		7TH FLOOR
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32202
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRP HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0000844059
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				472449198
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 W. FORSYTH ST.
+		STREET 2:		7TH FLOOR
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32202
+		BUSINESS PHONE:		9043965733
+
+	MAIL ADDRESS:	
+		STREET 1:		200 W. FORSYTH ST.
+		STREET 2:		7TH FLOOR
+		CITY:			JACKSONVILLE
+		STATE:			FL
+		ZIP:			32202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PATRIOT TRANSPORTATION HOLDING INC
+		DATE OF NAME CHANGE:	20010425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FRP PROPERTIES INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-29</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000844059</issuerCik>
+        <issuerName>FRP HOLDINGS, INC.</issuerName>
+        <issuerTradingSymbol>FRPH</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001664232</rptOwnerCik>
+            <rptOwnerName>deVilliers David H III</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>200 WEST FORSYTH STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>7TH FLOOR</rptOwnerStreet2>
+            <rptOwnerCity>JACKSONVILLE</rptOwnerCity>
+            <rptOwnerState>FL</rptOwnerState>
+            <rptOwnerZipCode>32202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Vice President</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-29</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>150</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>41.67</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>5547</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>648</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>Held in 401k</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares were sold pursuant to a 10b5 plan dated June 15, 2020.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Kelly D. Waters, Attorney-in-Fact for David H. deVilliers III</signatureName>
+        <signatureDate>2020-09-30</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

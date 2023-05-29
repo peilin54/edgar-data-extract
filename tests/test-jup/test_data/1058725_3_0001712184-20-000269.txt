@@ -1,0 +1,404 @@
+<SEC-DOCUMENT>0001712184-20-000269.txt : 20200924
+<SEC-HEADER>0001712184-20-000269.hdr.sgml : 20200924
+<ACCEPTANCE-DATETIME>20200924181213
+ACCESSION NUMBER:		0001712184-20-000269
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200922
+FILED AS OF DATE:		20200924
+DATE AS OF CHANGE:		20200924
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			FRIES MICHAEL T
+		CENTRAL INDEX KEY:			0001058725
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38335
+		FILM NUMBER:		201196310
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O LIBERTY GLOBAL, INC.
+		STREET 2:		12300 LIBERTY BOULEVARD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Liberty Latin America Ltd.
+		CENTRAL INDEX KEY:			0001712184
+		STANDARD INDUSTRIAL CLASSIFICATION:	CABLE & OTHER PAY TELEVISION SERVICES [4841]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1550 WEWATTA STREET
+		STREET 2:		SUITE 1000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		303-220-6600
+
+	MAIL ADDRESS:	
+		STREET 1:		1550 WEWATTA STREET
+		STREET 2:		SUITE 1000
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LatAm Splitco Ltd.
+		DATE OF NAME CHANGE:	20170718
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_160098551914066.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2020-09-22</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001712184</issuerCik>
+        <issuerName>Liberty Latin America Ltd.</issuerName>
+        <issuerTradingSymbol>LILA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001058725</rptOwnerCik>
+            <rptOwnerName>FRIES MICHAEL T</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1550 WEWATTA STREET</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 710</rptOwnerStreet2>
+            <rptOwnerCity>DENVER</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80202</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Chairman</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class C Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47110</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>282023</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class C Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>96510</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>378533</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class C Common Shares</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2020-09-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>28576</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>7.14</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>407109</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class C Common Shares</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>2282</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By LGI 401 (k) Plan</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Subscription Right (Right to Buy) - Class C Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.14</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-09-22</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>47110</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class C Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>47110.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>125086</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Subscription Right (Right to Buy) - Class C Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.14</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-09-23</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>96510</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class C Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>96510.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28576</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Subscription Right (Right to Buy) - Class C Common Shares</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>7.14</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2020-09-24</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>28576</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F3"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Class C Common Shares</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>28576.0</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The rights offering is subject to termination or extension by the Issuer at any time prior to consummation.</footnote>
+        <footnote id="F2">The rights offering commenced on September 11, 2020.</footnote>
+        <footnote id="F3">The rights offering will expire at 5:00 p.m., New York City time, on September 25, 2020 unless extended by the Issuer.</footnote>
+    </footnotes>
+
+    <remarks>The trading symbols for the Issuer's classes of common shares are LILA, LILAB, and LILAK.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ John M. Winter, Attorney-in-Fact</signatureName>
+        <signatureDate>2020-09-24</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
