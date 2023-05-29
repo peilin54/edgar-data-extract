@@ -52,8 +52,8 @@ def form4_tocsv(inpath, outpath, filename):
 def main():
 
     parser = argparse.ArgumentParser(description='SEC Edgar Form 4 reader')
-    parser.add_argument('-inpath','--inpath', type=str, help='Enter directory of input files, include trailing "/"', required=True)
-    parser.add_argument('-outpath','--outpath', type=str, help='Enter output directory (optional), include trailing "/". Default is same as input directory', required=False)
+    parser.add_argument('-inpath','--inpath', type=str, help='Enter directory of input files, MUST include trailing "/"', required=True)
+    parser.add_argument('-outpath','--outpath', type=str, help='Enter output directory (optional), MUST include trailing "/". Default is same as input directory', required=False)
     parser.add_argument('-readlist','--readlist', type=bool, default=False, help='Read file from a list. For testing purpose. Default is False', required=False)
     args = parser.parse_args()
 

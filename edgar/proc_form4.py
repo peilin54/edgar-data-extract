@@ -111,6 +111,10 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
     issuer_df:         pandas DataFrame, contains issuer info
     reportingOwner_df: pandas DataFrame, contains reporting owner info
     """
+
+    exist_nonDer = False
+    exist_der = False
+
     # work on nonDerivativeTable
     if "nonDerivativeTable.nonDerivativeTransaction" in full_dict.keys():
         nonDerivativeTable_df = flatdict_toDF(full_dict["nonDerivativeTable.nonDerivativeTransaction"])
@@ -119,6 +123,7 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
         # remove the last row that was added for flatdict reading
         f4_nonDerivative  = f4data("nonDerivative", nonDerivative_cDF.iloc[:-1])
         save_dftocsv(filepath, "nonDerivative.csv", f4_nonDerivative.df)
+        exist_nonDer = True
         
     # work on derivativeTable
     if "derivativeTable.derivativeTransaction" in full_dict.keys():
@@ -126,13 +131,24 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
         derivative_cDF    = concat_abtoC(issuer_df, reportingOwner_df, derivativeTable_df)
         f4_derivative     = f4data("derivative", derivative_cDF.iloc[:-1])
         save_dftocsv(filepath, "derivative.csv", f4_derivative.df)
+        exist_der = True
     
     # work on footnotes
     if "footnotes.footnote" in full_dict.keys():
         footnotes_df  = flatdict_toDF(full_dict["footnotes.footnote"])
         footnotes_cDF = concat_abtoC(issuer_df, reportingOwner_df, footnotes_df)
         f4_footnotes  = f4data("footnotes", footnotes_cDF.iloc[:-1])
-        save_dftocsv(filepath, "footnotes.csv", f4_footnotes.df)
+        # add transaction date to footnotes table
+        row = len(f4_footnotes.df.index)
+        if exist_nonDer:
+            transactionDate = [f4_nonDerivative.df["transactionDate.value"].iloc[0]]*row
+        elif exist_der:
+            transactionDate = [f4_derivative.df["transactionDate.value"].iloc[0]]*row
+        else:
+            raise Exception("Try to find transaction date for footnotes. Empty entries for nonDerivative and derivative tables.")
+        footnotes_withdate = f4_footnotes.df
+        footnotes_withdate["transactionDate"] = transactionDate
+        save_dftocsv(filepath, "footnotes.csv", footnotes_withdate)
     
     return
 

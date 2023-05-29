@@ -21,9 +21,9 @@ SEC Edgar Form 4 reader
 options:
   -h, --help            show this help message and exit
   -inpath INPATH, --inpath INPATH
-                        Enter directory of input files, include trailing "/"
+                        Enter directory of input files, MUST include trailing "/"
   -outpath OUTPATH, --outpath OUTPATH
-                        Enter output directory (optional), include trailing "/". Default is same as input directory
+                        Enter output directory (optional), MUST include trailing "/". Default is same as input directory
   -readlist READLIST, --readlist READLIST
                         Read file from a list. For testing purpose. Default is False
 
