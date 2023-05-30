@@ -49,7 +49,7 @@ load_nd_data = pd.read_csv("./scratch/nonDerivative.csv")
 Examples are in the `tests` folder. This folder contains two test folders and a Jupiter Notebook.
 1. Test can be performed with the `pytest` tool.
 ```
-# execute outside tests folder at the edgar_data directory
+# execute outside tests folder at the edgar-data-extract directory
 $ pytest 
 =========================================================================================== test session starts ===========================================================================================
 platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
