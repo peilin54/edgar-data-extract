@@ -17,7 +17,7 @@ def form4_tocsv(inpath, outpath, filename):
     
     inpath:   Path obj, directory for input files
     outpath:  Path obj, directory for output files
-    filename: string, full filename of Form-4.txt after pre-processing
+    filename: string, full filename of Form-4.txt file
     """
     
     # pre-processing .txt file, so that xml can be formatted properly with flatdict

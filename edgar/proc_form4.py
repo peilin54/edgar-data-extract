@@ -15,9 +15,9 @@ from .f4data import f4data
 def proc_form4txt(inpath, outpath, filename, outfilename):
     """
     This function processes the xml text for correct reading later using flatdict:
-    1. Add a few lines to xml, so that flatdict can process things correctly
+    1. Add empty xml elements to xml, so that flatdict can process items consistently
     2. Merge "Holding" to "Transaction", so that no separate form is needed
-    3. Edit <footnotes> for flatdict to read
+    3. Edit <footnotes> for flatdict to read properly
     
     inpath:      Path obj, input directory
     outpath:     Path obj, outnput directory
@@ -33,13 +33,13 @@ def proc_form4txt(inpath, outpath, filename, outfilename):
     
     outfile = open(outloc,'w')
     for line in lines:
-        # add line so that flatdic can process all as a list
+        # add empty xml elements so that flatdic can process all as a list
         if r'</nonDerivativeTable>' in line and r'<nonDerivativeTable></nonDerivativeTable>' not in line:
             outfile.write(r'<nonDerivativeTransaction></nonDerivativeTransaction>' + "\n") 
         if r'</derivativeTable>' in line and r'<derivativeTable></derivativeTable>' not in line:
             outfile.write(r'<derivativeTransaction></derivativeTransaction>' + "\n") 
         if r'</footnotes>' in line and r'<footnotes></footnotes>' not in line:
-            outfile.write(line.replace('</footnotes>', '<footnote><footnote_>  </footnote_></footnote></footnotes>'))
+            outfile.write(line.replace(r'</footnotes>', r'<footnote><footnote_>  </footnote_></footnote></footnotes>'))
             continue
             
         # "Holding" and "Transaction" are slight variation of same table
@@ -52,10 +52,10 @@ def proc_form4txt(inpath, outpath, filename, outfilename):
         
         # add additional nesting in footnote, so that flatdic process and separate the notes
         if r'<footnote ' in line:
-            outfile.write(line.replace(' id', '><footnote_>id').replace('</footnote>', '</footnote_></footnote>'))
+            outfile.write(line.replace(' id', '><footnote_>id').replace(r'</footnote>', r'</footnote_></footnote>'))
             continue
         if r'</footnote>' in line:
-            outfile.write(line.replace('</footnote>', '</footnote_></footnote>'))
+            outfile.write(line.replace(r'</footnote>', r'</footnote_></footnote>'))
             continue
               
         outfile.write(line)
@@ -72,6 +72,7 @@ def form4xml_toflatdict(filepath, filename):
     
     filepath: Path obj, file directory
     filename: string, full filename of file written: Form-4.txt.mod 
+    return:   flatdict obj
     """
     
     with open(filepath / filename) as f:
@@ -191,6 +192,7 @@ def save_dftocsv(filepath, filename, df):
     
     filepath: Path obj, directory for file
     filename: string, full filename for csv output   
+    df:       pandas DataFrame
     """
     
     fileloc = filepath / filename
