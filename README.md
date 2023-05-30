@@ -1,15 +1,15 @@
-# Information Extraction from EDGAR Form 4 files
+# Data Extraction from EDGAR Form 4 Files
 
 ## Overview 
 Form 4 filings are publicly available through the [SEC EDGAR website](https://www.sec.gov/edgar/search/). Information in Form 4 can be used to analyze insider trading activity.  
 This code extracts information from Form 4 filings and store the information in three databases in CSV format:
-- ***nonDerivative.csv***:  database that contains issuer, reporting owners and information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
-- ***derivative.csv***:  database that contains issuer, reporting owners and informatoin for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
-- ***footnotes.csv***:  database that contains issuer, reporting owners and footnotes in Form 4.
+- **nonDerivative.csv**:  database that contains issuer, reporting owners and information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
+- **derivative.csv**:  database that contains issuer, reporting owners and informatoin for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
+- **footnotes.csv**:  database that contains issuer, reporting owners and footnotes in Form 4.
 
 ## How to use this code
 The source code is in the `edgar` directory and the test code is in the `tests` directory.  
-Command line execution takes a directory as input, which contains Form 4 txt files.  
+Command line execution takes a directory as input, which contains Form 4 .txt files.  
 
 
 ```
@@ -33,7 +33,7 @@ $ python3 edgar_form4.py -inpath /home/user/data/
 
 The code generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
 **`Note:`** if the .csv files already `exist` in the directory, running the code will **`append`** entries to the existing .csv files.  
-These files can be loaded into Pandas DataFrames as:
+The generated .csv files can be loaded into Pandas DataFrames in a Python shell or Jupyter Notebook as:
 ```
 import pandas as pd
 
@@ -42,19 +42,11 @@ load_nd_data = pd.read_csv("/home/user/data/nonDerivative.csv")
 ```
   
 ## Example and test cases
-Examples are in the `tests` folder. This folder contains 2 test.
-```
-# Clean folder before running new test.
-cd tests
-clean_testfolder.sh
-
-# Run tests with scripts
-run_testfolder.sh
-```
-You may also run each test manually.
-1. Run code with one .txt in the ./test-1/ folder. Then use shell `diff` to compare output .csv files with those in ./test-1/test_data folder.
+Examples are in the `tests` folder. This folder contains two test folders and a Jupiter Notebook.
+1. Run code with one .txt file in the ./test-1/ folder. Then use shell `diff` to compare output .csv files with those in ./test-1/test_data folder.
 ```
 cd tests
+# Clean up files before running new test.
 clean_testfolder.sh
 python ../edgar/edgar_form4.py -inpath ./test-1/test_data/ -outpath ./test-1/ 
 
@@ -65,7 +57,7 @@ diff footnotes.csv  test_data/
 cd ..
 ```
 2. Run code with 100 .txt files in ./test-100/ folder. Compare output .csv files with those in ./test-100/test_data.  
-This will read from a list_txt file to get file reading order, to minimize difference caused by system reading the 100 files in different order.
+The "-readlist" tag in the command line will read from a `list_txt` file to get .txt file reading order, to minimize difference caused by system reading the 100 .txt files in different order.
 ```
 cd tests
 clean_testfolder.sh
@@ -77,10 +69,20 @@ diff derivative.csv  test_data/
 diff footnotes.csv  test_data/
 cd ..
 ```
+The two tests can be run with one shell script. 
+```
+cd tests
+# Clean up files before running new test.
+clean_testfolder.sh
+
+# Run tests with scripts
+run_testfolder.sh
+```
+3. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test-jup` folder.
 
 ## How the code is structured
 
-The downloaded txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 
+The downloaded .txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 
 We use the *xmltodict* and *flatdict* library for processing the text documents and then use Pandas DataFrame for storing the data before saving them to .csv files.
 
 ```

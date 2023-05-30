@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This folder contains 2 test.
-# 1. Run code with one .txt in the ./test-1/ folder. Then use shell `diff` to compare output .csv files with those in ./test-1/test_data folder.
+# 1. Run code with one .txt file in the ./test-1/ folder. Then use shell `diff` to compare output .csv files with those in ./test-1/test_data folder.
 python ../edgar/edgar_form4.py -inpath ./test-1/test_data/ -outpath ./test-1/ 
 
 cd test-1
