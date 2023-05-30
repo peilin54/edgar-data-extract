@@ -1,4 +1,5 @@
 from .edgar_form4 import form4_tocsv
+from .edgar_form4 import run_form4
 from .f4data      import f4data
 from .proc_form4  import proc_form4txt
 from .proc_form4  import form4xml_toflatdict

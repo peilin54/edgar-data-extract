@@ -23,3 +23,7 @@ diff derivative.csv  test_data/
 diff footnotes.csv  test_data/
 cd ..
 
+# python main.py  -inpath ./tests/test-1/test_data -outpath ./tests/test-1
+#
+#
+#

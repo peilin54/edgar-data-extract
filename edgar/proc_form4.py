@@ -6,27 +6,32 @@ import pandas as pd
 import re
 import xmltodict
 import flatdict
+from pathlib import Path
 import os
 import sys
-from f4data import f4data
+from .f4data import f4data
 
 
-def proc_form4txt(filepath, filename):
+def proc_form4txt(inpath, outpath, filename, outfilename):
     """
     This function processes the xml text for correct reading later using flatdict:
     1. Add a few lines to xml, so that flatdict can process things correctly
     2. Merge "Holding" to "Transaction", so that no separate form is needed
     3. Edit <footnotes> for flatdict to read
     
-    filepath: string, directory for file
-    filename: string, full filename of Form-4.txt for pre-processing
+    inpath:      Path obj, input directory
+    outpath:     Path obj, outnput directory
+    filename:    string, full filename of Form-4.txt for pre-processing
+    outfilename: string, full filename of file written: Form-4.txt.mod 
     """
     
-    fileloc = filepath+filename
-    infile  = open(fileloc, 'r')
+    inloc  = inpath / filename
+    outloc = outpath / outfilename
+
+    infile  = open(inloc, 'r')
     lines   = infile.readlines()
     
-    outfile = open(fileloc+'.mod','w')
+    outfile = open(outloc,'w')
     for line in lines:
         # add line so that flatdic can process all as a list
         if r'</nonDerivativeTable>' in line and r'<nonDerivativeTable></nonDerivativeTable>' not in line:
@@ -62,12 +67,18 @@ def proc_form4txt(filepath, filename):
 
 
 def form4xml_toflatdict(filepath, filename):
+    """
+    This function reads the processed form4.txt.mod, extract xml information and convert to a flatdict object.
     
-    with open(filepath+filename) as f:
+    filepath: Path obj, file directory
+    filename: string, full filename of file written: Form-4.txt.mod 
+    """
+    
+    with open(filepath / filename) as f:
         data = f.read()
 
     # extract file around ownershipDocument 
-    matcher = re.compile('<\?xml.*ownershipDocument>', flags=re.MULTILINE|re.DOTALL)
+    matcher = re.compile(r'<\?xml.*ownershipDocument>', flags=re.MULTILINE|re.DOTALL)
     matches = matcher.search(data)
     xml     = matches.group(0)
 
@@ -106,7 +117,7 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
     """
     This function takes read-in information and save it to .csv database
     
-    filepath:          string, directory for file
+    filepath:          Path obj, directory for file
     full_dict:         flatdict, contains full flatdic read from xml 
     issuer_df:         pandas DataFrame, contains issuer info
     reportingOwner_df: pandas DataFrame, contains reporting owner info
@@ -178,11 +189,11 @@ def save_dftocsv(filepath, filename, df):
     This function takes a pandas DF and save to specific filename in filepath.
     Append if file already exists.
     
-    filepath: string, directory for file
+    filepath: Path obj, directory for file
     filename: string, full filename for csv output   
     """
     
-    fileloc = filepath+filename
+    fileloc = filepath / filename
     file_present = os.path.isfile(fileloc) 
     if file_present:
         df.to_csv(fileloc, index=False, mode='a', header=False)    

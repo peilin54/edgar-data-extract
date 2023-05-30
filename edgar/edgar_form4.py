@@ -6,24 +6,26 @@ import pandas as pd
 import argparse
 import os
 import sys
+from pathlib import Path
 import flatdict
-from proc_form4 import proc_form4txt, form4xml_toflatdict, flatdict_toDF, form4df_tocsv, concat_abtoC, save_dftocsv
+from edgar.proc_form4 import proc_form4txt, form4xml_toflatdict, flatdict_toDF, form4df_tocsv, concat_abtoC, save_dftocsv
 
 
 def form4_tocsv(inpath, outpath, filename):
     """
     This is the main function that reads form 4 file and process it and save it to .csv database
     
-    inpath:   string, directory for input files
-    outpath:  string, directory for output files
+    inpath:   Path obj, directory for input files
+    outpath:  Path obj, directory for output files
     filename: string, full filename of Form-4.txt after pre-processing
     """
     
     # pre-processing .txt file, so that xml can be formatted properly with flatdict
-    proc_form4txt(inpath, filename)
+    outfilename = filename + '.mod'
+    proc_form4txt(inpath, outpath, filename, outfilename)
     
     # extract xml information to flatdict object
-    full_dict = form4xml_toflatdict(inpath, filename+'.mod')
+    full_dict = form4xml_toflatdict(outpath, outfilename)
 
     # create subsections from the full dictionary
     # issuer and reportingOwner first; hopefully these fields are populated
@@ -49,48 +51,32 @@ def form4_tocsv(inpath, outpath, filename):
     return
 
 
-def main():
-
-    parser = argparse.ArgumentParser(description='SEC Edgar Form 4 reader')
-    parser.add_argument('-inpath','--inpath', type=str, help='Enter directory of input files, MUST include trailing "/"', required=True)
-    parser.add_argument('-outpath','--outpath', type=str, help='Enter output directory (optional), MUST include trailing "/". Default is same as input directory', required=False)
-    parser.add_argument('-readlist','--readlist', type=bool, default=False, help='Read file from a list. For testing purpose. Default is False', required=False)
-    args = parser.parse_args()
-
-    inpath = args.inpath
-    if args.outpath:
-        outpath = args.outpath
-    else:
-        outpath = inpath
+def run_form4(inpath, outpath, readlist):
+    """
+    This function calls the main function form4_tocsv
     
-    if not args.readlist:
-
+    inpath:   string, directory for input files
+    outpath:  string, directory for output files
+    readlist: boolean, read the .txt files in the order specified by a file "list_txt"
+    """
+    
+    if not readlist:
         directory = os.fsencode(inpath)
         for file in os.listdir(directory):
             filename = os.fsdecode(file)
             if filename.endswith(".txt"): 
                 print(filename)
-                form4_tocsv(inpath, outpath, filename)
+                form4_tocsv(Path(inpath), Path(outpath), filename)
     else:
-        infile  = open(inpath+"list_txt", 'r')
+        fileloc = Path(inpath) / "list_txt"
+        infile  = open(fileloc, 'r')
         lines   = infile.readlines()
 
         for line in lines:
             filename = line.strip()
             print(filename)
-            form4_tocsv(inpath, outpath, filename)
+            form4_tocsv(Path(inpath), Path(outpath), filename)
 
         infile.close()
 
-
-    # nd = pd.read_csv(outpath+"./nonDerivative.csv")
-    # d  = pd.read_csv(outpath+""./derivative.csv")
-    # f  = pd.read_csv(outpath+"./footnotes.csv")
-    # display(nd)
-    # display(d)
-    # display(f)
-
-
-if __name__ == "__main__":
-    main()
-
+    return
