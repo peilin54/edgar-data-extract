@@ -53,7 +53,7 @@ Examples are in the `tests` folder. This folder contains two test folders and a 
 $ pytest 
 =========================================================================================== test session starts ===========================================================================================
 platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
-rootdir: /home/damao/Code/xm/kellogg/edgar-data
+rootdir: 
 collected 2 items                                                                                                                                                                                         
 
 tests/test_outcsv.py ..                                                                                                                                                                             [100%]
