@@ -1,5 +1,12 @@
 #!/usr/bin/env python
-# coding: utf-8
+
+
+
+# Example: (create the ./scratch directory or replace with your output directory)
+#
+# python main.py  -inpath ./tests/test-1 -outpath ./scratch
+#  
+
 
 import argparse
 from edgar.edgar_form4 import run_form4
