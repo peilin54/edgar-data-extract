@@ -5,6 +5,7 @@ from pathlib import Path
 from edgar import run_form4
 
 
+#  python main.py  -inpath ./tests/test_1 -outpath ./scratch
 def test_1(tmp_path):
     inpath  = Path("./tests/test_1")
     outpath = tmp_path / "test_1"
@@ -19,6 +20,7 @@ def test_1(tmp_path):
     assert filecmp.cmp(str(outpath / f), str(inpath / f), shallow=False)
 
   
+# python main.py  -inpath ./tests/test_100 -outpath ./scratch -readlist True
 def test_100(tmp_path):
     inpath  = Path("./tests/test_100")
     outpath = tmp_path / "test_100"

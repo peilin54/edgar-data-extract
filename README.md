@@ -5,30 +5,34 @@ Form 4 filings are publicly available through the [SEC EDGAR website](https://ww
 This code extracts information from Form 4 filings and store the information in three databases in CSV format:
 - **nonDerivative.csv**:  database that contains issuer, reporting owners and information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
 - **derivative.csv**:  database that contains issuer, reporting owners and informatoin for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
-- **footnotes.csv**:  database that contains issuer, reporting owners and footnotes in Form 4.
+- **footnotes.csv**:  database that contains issuer, reporting owners, footnotes and transaction date in Form 4.  
+
+Each entry has exactly one transaction/holding record along with the corresponding issuer and reporting owner information.
+
 
 ## How to use this code
 The source code is in the `edgar` directory and the test code is in the `tests` directory.  
-Command line execution takes a directory as input, which contains Form 4 .txt files.  
+Command line execution requires providing an input directory, which contains Form 4 .txt files, and an output directory.  
 
 
 ```
-$ python3 edgar_form4.py -h
-usage: edgar_form4.py [-h] -inpath INPATH [-outpath OUTPATH]
+$ python main.py -h
+usage: main.py [-h] -inpath INPATH -outpath OUTPATH [-readlist READLIST]
 
 SEC Edgar Form 4 reader
 
 options:
   -h, --help            show this help message and exit
   -inpath INPATH, --inpath INPATH
-                        Enter directory of input files, MUST include trailing "/"
+                        Enter directory of input files
   -outpath OUTPATH, --outpath OUTPATH
-                        Enter output directory (optional), MUST include trailing "/". Default is same as input directory
+                        Enter output directory
   -readlist READLIST, --readlist READLIST
-                        Read file from a list. For testing purpose. Default is False
+                        Read the .txt files in the order specified by a file list_txt. For testing purpose. Default is False
 
-$ python3 edgar_form4.py -inpath /home/user/data/
-# /home/user/data/ should be modified to be your local dictectory containing those .txt files.
+
+# Create the ./scratch directory or replace with your output directory
+$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
 ```
 
 The code generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
@@ -37,48 +41,36 @@ The generated .csv files can be loaded into Pandas DataFrames in a Python shell 
 ```
 import pandas as pd
 
-# /home/user/data/ should be modified to be your local dictectory containing those .csv files.
-load_nd_data = pd.read_csv("/home/user/data/nonDerivative.csv")
+# ./scratch/ should be modified to be your local dictectory containing those .csv files.
+load_nd_data = pd.read_csv("./scratch/nonDerivative.csv")
 ```
   
 ## Example and test cases
 Examples are in the `tests` folder. This folder contains two test folders and a Jupiter Notebook.
-1. Run code with one .txt file in the ./test-1/ folder. Then use shell `diff` to compare output .csv files with those in ./test-1/test_data folder.
+1. Test can be performed with the `pytest` tool.
 ```
-cd tests
-# Clean up files before running new test.
-clean_testfolder.sh
-python ../edgar/edgar_form4.py -inpath ./test-1/test_data/ -outpath ./test-1/ 
+# execute outside tests folder at the edgar_data directory
+$ pytest 
+=========================================================================================== test session starts ===========================================================================================
+platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
+rootdir: /home/damao/Code/xm/kellogg/edgar-data
+collected 2 items                                                                                                                                                                                         
 
-cd test-1
-diff nonDerivative.csv test_data/
-diff derivative.csv  test_data/
-diff footnotes.csv  test_data/
-cd ..
-```
-2. Run code with 100 .txt files in ./test-100/ folder. Compare output .csv files with those in ./test-100/test_data.  
-The "-readlist" tag in the command line will read from a `list_txt` file to get .txt file reading order, to minimize difference caused by system reading the 100 .txt files in different order.
-```
-cd tests
-clean_testfolder.sh
-python ../edgar/edgar_form4.py -inpath ./test-100/test_data/ -outpath ./test-100/ -readlist True
+tests/test_outcsv.py ..                                                                                                                                                                             [100%]
 
-cd test-100
-diff nonDerivative.csv test_data/
-diff derivative.csv  test_data/
-diff footnotes.csv  test_data/
-cd ..
-```
-The two tests can be run with one shell script. 
-```
-cd tests
-# Clean up files before running new test.
-clean_testfolder.sh
+============================================================================================ 2 passed in 3.85s ============================================================================================
 
-# Run tests with scripts
-run_testfolder.sh
 ```
-3. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test-jup` folder.
+There is one .txt file int the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
+You can also run individual test by executing the command line:
+```
+$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
+
+# The "-readlist" tag requests to read .txt files following the order in the list_txt file
+$ python main.py  -inpath ./tests/test_100 -outpath ./scratch -readlist True
+```
+  
+2. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.
 
 ## How the code is structured
 
