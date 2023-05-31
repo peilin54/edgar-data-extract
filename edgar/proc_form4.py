@@ -233,10 +233,10 @@ def footnotes_to_dict(footnotes_df):
     
     footnote_dict = {}
     for i, value in footnotes_df.iloc[:-1].items():
-        s1, s2, s3 = value.split(r'"')
-        footnote_dict[s2] = s2 + r': ' + s3[1:]
-    
-#     print(footnote_dict)
+        s_tmp, s_text = value.split(r'>')
+        s_id = s_tmp.split(r'"')[1]
+           
+        footnote_dict[s_id] = s_id + r': ' + s_text
     
     return footnote_dict
     
@@ -259,9 +259,15 @@ def get_footnote_info(df, footnotes_dict, col_has_footnote):
     for i in col_has_footnote:
         # iterate over values inside footnote column
         for idx, value in df[i].items():
-            if "F" in str(value):
-                f_index.append(idx)
-                f_value.append(footnotes_dict[value])
+            # more than one footnotes in this tag
+            if isinstance(value, list):
+                for j in value:
+                    f_index.append(idx)
+                    f_value.append(j["@id"])
+            else:
+                if "F" in str(value):
+                    f_index.append(idx)
+                    f_value.append(footnotes_dict[value])
 
     tmp_df = pd.Series(f_value, index = f_index, name='footnote')
     footnote_col = tmp_df.groupby(level=0).transform(lambda x: ' '.join(x)).drop_duplicates()
