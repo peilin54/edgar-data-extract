@@ -4,15 +4,15 @@
 import pandas as pd
 
 
-class f4data:
+class Form4Data:
     """
     Create a class for holding formatted Form-4 data
     
     """
        
-    issuer_list = ["issuerCik", "issuerName", "issuerTradingSymbol"]
+    issuer_col_name = ["issuerCik", "issuerName", "issuerTradingSymbol"]
     
-    reporting_list = [
+    reporting_col_name = [
         "reportingOwnerId.rptOwnerCik",
         "reportingOwnerId.rptOwnerName",
         "reportingOwnerAddress.rptOwnerStreet1",
@@ -29,7 +29,7 @@ class f4data:
         "reportingOwnerRelationship.otherText"
         ]
 
-    nonDerivative_list = [
+    nonderivative_col_name = [
         "securityTitle.value",
         "transactionDate.value",
         "deemedExecutionDate.value",
@@ -43,7 +43,7 @@ class f4data:
         "ownershipNature.natureOfOwnership.value"
         ]
         
-    derivative_list = [
+    derivative_col_name = [
         "securityTitle.value",
         "conversionOrExercisePrice.value",
         "transactionDate.value",
@@ -62,7 +62,7 @@ class f4data:
         "ownershipNature.natureOfOwnership.value"
         ]
    
-    footnotes_list = ["footnote_"]
+    footnotes_col_name = ["footnote_"]
     
     
     def __init__(self, table_name, orig_df):
@@ -73,22 +73,22 @@ class f4data:
         orig_df:    pandas DataFrame, full table contains all the data columns        
         """
         if table_name == "nonDerivative":
-            column_list = self.issuer_list + self.reporting_list + self.nonDerivative_list
+            column_list = self.issuer_col_name + self.reporting_col_name + self.nonderivative_col_name
         elif table_name == "derivative":
-            column_list = self.issuer_list + self.reporting_list + self.derivative_list
+            column_list = self.issuer_col_name + self.reporting_col_name + self.derivative_col_name
         elif table_name == "footnotes":
-            column_list = self.issuer_list + self.reporting_list + self.footnotes_list
+            column_list = self.issuer_col_name + self.reporting_col_name + self.footnotes_col_name
         else:
             raise ValueError("Unknown table name!")
             
         # could do some more checking with column_names after concat         
         empty_df = pd.DataFrame(columns=column_list)
-        self.df  = pd.concat([empty_df,orig_df])[column_list]
+        self.df  = pd.concat([empty_df,orig_df])[list(column_list)]
 
-        self.check_colname(empty_df, orig_df)
+        self._check_col_name(empty_df, orig_df)
 
 
-    def check_colname(self, empty_df, orig_df):
+    def _check_col_name(self, empty_df, orig_df):
         """
         This function checks if the code is reading new unknown column names
         
@@ -110,7 +110,7 @@ class f4data:
             if ("footnote" not in i and "equityswap" not in i
             and "formtype" not in i and "transactiontimeliness" not in i
             and "transactiontimeliness" not in i and "deemedexecutiondate" not in i):
-                print("Unmatched column name: "+coln)
+                assert("Warning: unmatched column name: "+coln)
         
         return
 

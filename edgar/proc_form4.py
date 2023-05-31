@@ -9,64 +9,64 @@ import flatdict
 from pathlib import Path
 import os
 import sys
-from .f4data import f4data
+from .form4data import Form4Data
 
 
-def proc_form4txt(inpath, outpath, filename, outfilename):
+def proc_form4txt(input_path, output_path, filename, output_filename):
     """
     This function processes the xml text for correct reading later using flatdict:
     1. Add empty xml elements to xml, so that flatdict can process items consistently
     2. Merge "Holding" to "Transaction", so that no separate form is needed
     3. Edit <footnotes> for flatdict to read properly
     
-    inpath:      Path obj, input directory
-    outpath:     Path obj, outnput directory
+    input_path:      Path obj, input directory
+    output_path:     Path obj, outnput directory
     filename:    string, full filename of Form-4.txt for pre-processing
-    outfilename: string, full filename of file written: Form-4.txt.mod 
+    output_filename: string, full filename of file written: Form-4.txt.mod 
     """
     
-    inloc  = inpath / filename
-    outloc = outpath / outfilename
+    input_file_loc  = input_path / filename
+    output_file_loc = output_path / output_filename
 
-    infile  = open(inloc, 'r')
-    lines   = infile.readlines()
+    input_file  = open(input_file_loc, 'r')
+    lines   = input_file.readlines()
     
-    outfile = open(outloc,'w')
+    output_file = open(output_file_loc,'w')
     for line in lines:
         # add empty xml elements so that flatdic can process all as a list
         if r'</nonDerivativeTable>' in line and r'<nonDerivativeTable></nonDerivativeTable>' not in line:
-            outfile.write(r'<nonDerivativeTransaction></nonDerivativeTransaction>' + "\n") 
+            output_file.write(r'<nonDerivativeTransaction></nonDerivativeTransaction>' + "\n") 
         if r'</derivativeTable>' in line and r'<derivativeTable></derivativeTable>' not in line:
-            outfile.write(r'<derivativeTransaction></derivativeTransaction>' + "\n") 
+            output_file.write(r'<derivativeTransaction></derivativeTransaction>' + "\n") 
         if r'</footnotes>' in line and r'<footnotes></footnotes>' not in line:
-            outfile.write(line.replace(r'</footnotes>', r'<footnote><footnote_>  </footnote_></footnote></footnotes>'))
+            output_file.write(line.replace(r'</footnotes>', r'<footnote><footnote_>  </footnote_></footnote></footnotes>'))
             continue
             
         # "Holding" and "Transaction" are slight variation of same table
         if 'nonDerivativeHolding' in line:
-            outfile.write(line.replace('nonDerivativeHolding', 'nonDerivativeTransaction'))
+            output_file.write(line.replace('nonDerivativeHolding', 'nonDerivativeTransaction'))
             continue
         if 'derivativeHolding' in line:
-            outfile.write(line.replace('derivativeHolding', 'derivativeTransaction'))
+            output_file.write(line.replace('derivativeHolding', 'derivativeTransaction'))
             continue
         
         # add additional nesting in footnote, so that flatdic process and separate the notes
         if r'<footnote ' in line:
-            outfile.write(line.replace(' id', '><footnote_>id').replace(r'</footnote>', r'</footnote_></footnote>'))
+            output_file.write(line.replace(' id', '><footnote_>id').replace(r'</footnote>', r'</footnote_></footnote>'))
             continue
         if r'</footnote>' in line:
-            outfile.write(line.replace(r'</footnote>', r'</footnote_></footnote>'))
+            output_file.write(line.replace(r'</footnote>', r'</footnote_></footnote>'))
             continue
               
-        outfile.write(line)
+        output_file.write(line)
         
-    outfile.close()
-    infile.close()
+    output_file.close()
+    input_file.close()
     
     return
 
 
-def form4xml_toflatdict(filepath, filename):
+def form4xml_to_flatdict(filepath, filename):
     """
     This function reads the processed form4.txt.mod, extract xml information and convert to a flatdict object.
     
@@ -90,7 +90,7 @@ def form4xml_toflatdict(filepath, filename):
     return flatdict.FlatDict(xmldict["ownershipDocument"], delimiter='.')
 
 
-def flatdict_toDF(table_d):
+def flatdict_to_df(table_d):
     """
     This function takes a flat dictionary object and process it as follows: 
     If there is only 1 item, it is a dictionary. Convert it to a pandas DF object
@@ -114,7 +114,7 @@ def flatdict_toDF(table_d):
         return tmp_df.drop([0]).reset_index(drop=True).rename(col_name, axis=1)
 
 
-def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
+def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     """
     This function takes read-in information and save it to .csv database
     
@@ -129,27 +129,27 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
 
     # work on nonDerivativeTable
     if "nonDerivativeTable.nonDerivativeTransaction" in full_dict.keys():
-        nonDerivativeTable_df = flatdict_toDF(full_dict["nonDerivativeTable.nonDerivativeTransaction"])
+        nonDerivativeTable_df = flatdict_to_df(full_dict["nonDerivativeTable.nonDerivativeTransaction"])
         # add information about issuer and owner to the tables
         nonDerivative_cDF = concat_abtoC(issuer_df, reportingOwner_df, nonDerivativeTable_df)
         # remove the last row that was added for flatdict reading
-        f4_nonDerivative  = f4data("nonDerivative", nonDerivative_cDF.iloc[:-1])
-        save_dftocsv(filepath, "nonDerivative.csv", f4_nonDerivative.df)
+        f4_nonDerivative  = Form4Data("nonDerivative", nonDerivative_cDF.iloc[:-1])
+        save_df_to_csv(filepath, "nonDerivative.csv", f4_nonDerivative.df)
         exist_nonDer = True
         
     # work on derivativeTable
     if "derivativeTable.derivativeTransaction" in full_dict.keys():
-        derivativeTable_df= flatdict_toDF(full_dict["derivativeTable.derivativeTransaction"])
+        derivativeTable_df= flatdict_to_df(full_dict["derivativeTable.derivativeTransaction"])
         derivative_cDF    = concat_abtoC(issuer_df, reportingOwner_df, derivativeTable_df)
-        f4_derivative     = f4data("derivative", derivative_cDF.iloc[:-1])
-        save_dftocsv(filepath, "derivative.csv", f4_derivative.df)
+        f4_derivative     = Form4Data("derivative", derivative_cDF.iloc[:-1])
+        save_df_to_csv(filepath, "derivative.csv", f4_derivative.df)
         exist_der = True
     
     # work on footnotes
     if "footnotes.footnote" in full_dict.keys():
-        footnotes_df  = flatdict_toDF(full_dict["footnotes.footnote"])
+        footnotes_df  = flatdict_to_df(full_dict["footnotes.footnote"])
         footnotes_cDF = concat_abtoC(issuer_df, reportingOwner_df, footnotes_df)
-        f4_footnotes  = f4data("footnotes", footnotes_cDF.iloc[:-1])
+        f4_footnotes  = Form4Data("footnotes", footnotes_cDF.iloc[:-1])
         # add transaction date to footnotes table
         row = len(f4_footnotes.df.index)
         if exist_nonDer:
@@ -160,7 +160,7 @@ def form4df_tocsv(filepath, full_dict, issuer_df, reportingOwner_df):
             raise Exception("Try to find transaction date for footnotes. Empty entries for nonDerivative and derivative tables.")
         footnotes_withdate = f4_footnotes.df
         footnotes_withdate["transactionDate"] = transactionDate
-        save_dftocsv(filepath, "footnotes.csv", footnotes_withdate)
+        save_df_to_csv(filepath, "footnotes.csv", footnotes_withdate)
     
     return
 
@@ -185,7 +185,7 @@ def concat_abtoC(a, b, c):
     return pd.concat([t12.reset_index(drop=True),c.reset_index(drop=True)], axis=1)
 
 
-def save_dftocsv(filepath, filename, df):
+def save_df_to_csv(filepath, filename, df):
     """
     This function takes a pandas DF and save to specific filename in filepath.
     Append if file already exists.

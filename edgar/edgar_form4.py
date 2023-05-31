@@ -8,75 +8,75 @@ import os
 import sys
 from pathlib import Path
 import flatdict
-from edgar.proc_form4 import proc_form4txt, form4xml_toflatdict, flatdict_toDF, form4df_tocsv, concat_abtoC, save_dftocsv
+from edgar.proc_form4 import proc_form4txt, form4xml_to_flatdict, flatdict_to_df, form4df_to_csv, concat_abtoC, save_df_to_csv
 
 
-def form4_tocsv(inpath, outpath, filename):
+def form4_to_csv(input_path, output_path, filename):
     """
     This is the main function that reads form 4 file and process it and save it to .csv database
     
-    inpath:   Path obj, directory for input files
-    outpath:  Path obj, directory for output files
+    input_path:   Path obj, directory for input files
+    output_path:  Path obj, directory for output files
     filename: string, full filename of Form-4.txt file
     """
     
     # pre-processing .txt file, so that xml can be formatted properly with flatdict
-    outfilename = filename + '.mod'
-    proc_form4txt(inpath, outpath, filename, outfilename)
+    output_filename = filename + '.mod'
+    proc_form4txt(input_path, output_path, filename, output_filename)
     
     # extract xml information to flatdict object
-    full_dict = form4xml_toflatdict(outpath, outfilename)
+    full_dict = form4xml_to_flatdict(output_path, output_filename)
 
     # create subsections from the full dictionary
     # issuer and reportingOwner first; hopefully these fields are populated
-    issuer_df = flatdict_toDF(full_dict["issuer"])
+    issuer_df = flatdict_to_df(full_dict["issuer"])
           
     if isinstance(full_dict["reportingOwner"], list):
         for item in full_dict["reportingOwner"]:
             tmp = flatdict.FlatDict(item, delimiter='.')
-            reportingOwner_df = flatdict_toDF(tmp)
-            form4df_tocsv(outpath, full_dict, issuer_df, reportingOwner_df)
+            reportingOwner_df = flatdict_to_df(tmp)
+            form4df_to_csv(output_path, full_dict, issuer_df, reportingOwner_df)
         
         # # DEBUG only: use only one reporting Owner for multiple owner cases
         # item=full_dict["reportingOwner"][0]
         # tmp = flatdict.FlatDict(item, delimiter='.')
-        # reportingOwner_df = flatdict_toDF(tmp)
-        # form4df_tocsv(outpath, full_dict, issuer_df, reportingOwner_df)
+        # reportingOwner_df = flatdict_to_df(tmp)
+        # form4df_to_csv(output_path, full_dict, issuer_df, reportingOwner_df)
         # # DEBUG only
 
     else:
-        reportingOwner_df = flatdict_toDF(full_dict["reportingOwner"])
-        form4df_tocsv(outpath, full_dict, issuer_df, reportingOwner_df)
+        reportingOwner_df = flatdict_to_df(full_dict["reportingOwner"])
+        form4df_to_csv(output_path, full_dict, issuer_df, reportingOwner_df)
         
     return
 
 
-def run_form4(inpath, outpath, readlist):
+def run_form4(input_path, output_path, list_order):
     """
-    This function calls the main function form4_tocsv
+    This function calls the main function form4_to_csv
     
-    inpath:   string, directory for input files
-    outpath:  string, directory for output files
-    readlist: boolean, read the .txt files in the order specified by a file "list_txt"
+    input_path:   string, directory for input files
+    output_path:  string, directory for output files
+    list_order: boolean, read the .txt files in the order specified by a file "list_txt"
     """
     
-    if not readlist:
-        directory = os.fsencode(inpath)
+    if not list_order:
+        directory = os.fsencode(input_path)
         for file in os.listdir(directory):
             filename = os.fsdecode(file)
             if filename.endswith(".txt"): 
                 print(filename)
-                form4_tocsv(Path(inpath), Path(outpath), filename)
+                form4_to_csv(Path(input_path), Path(output_path), filename)
     else:
-        fileloc = Path(inpath) / "list_txt"
-        infile  = open(fileloc, 'r')
-        lines   = infile.readlines()
+        fileloc = Path(input_path) / "list_txt"
+        input_file  = open(fileloc, 'r')
+        lines   = input_file.readlines()
 
         for line in lines:
             filename = line.strip()
             print(filename)
-            form4_tocsv(Path(inpath), Path(outpath), filename)
+            form4_to_csv(Path(input_path), Path(output_path), filename)
 
-        infile.close()
+        input_file.close()
 
     return
