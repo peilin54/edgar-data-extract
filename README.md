@@ -3,18 +3,18 @@
 ## Overview 
 Form 4 filings are publicly available through the [SEC EDGAR website](https://www.sec.gov/edgar/search/). Information in Form 4 can be used to analyze insider trading activity.  
 This code extracts information from Form 4 filings and store the information in three databases in CSV format:
-- **nonDerivative.csv**:  database that contains issuer, reporting owners and information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
-- **derivative.csv**:  database that contains issuer, reporting owners and informatoin for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" in Form 4.
+- **nonDerivative.csv**:  database that contains issuer, reporting owners,information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
+- **derivative.csv**:  database that contains issuer, reporting owners,information for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
 - **footnotes.csv**:  database that contains issuer, reporting owners, footnotes and transaction date in Form 4.  
 
-Each entry has exactly one transaction/holding record along with the corresponding issuer and reporting owner information.
+Each entry has exactly one transaction/holding record along with the corresponding issuer, reporting owner and footnote information.
 
 
 ## How to use
 The source code is in the `edgar` directory and the tests are in the `tests` directory.  
 ### Requirement 
 Python 3.10.6  
-Specific packages used for devloping this code.
+Specific packages used for developing this code.
 >flatdict==4.0.1  
 pandas==2.0.1  
 xmltodict==0.13.0  
@@ -27,60 +27,55 @@ Command line execution requires providing an `input directory`, which contains F
 
 ```
 $ python main.py -h
-usage: main.py [-h] -inpath INPATH -outpath OUTPATH [-readlist READLIST]
+usage: main.py [-h] -i INPUT_PATH -o OUTPUT_PATH [-l LIST_ORDER]
 
 SEC Edgar Form 4 reader
 
 options:
   -h, --help            show this help message and exit
-  -inpath INPATH, --inpath INPATH
+  -i INPUT_PATH, --input_path INPUT_PATH
                         Enter directory of input files
-  -outpath OUTPATH, --outpath OUTPATH
+  -o OUTPUT_PATH, --output_path OUTPUT_PATH
                         Enter output directory
-  -readlist READLIST, --readlist READLIST
+  -l LIST_ORDER, --list_order LIST_ORDER
                         Read the .txt files in the order specified by a file list_txt. For testing purpose. Default is False
-
-
+  
+  
 # Create the ./scratch directory or replace with your output directory
-$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
+$ python main.py  -i ./tests/test_1 -o ./scratch
 ```
 
-The code generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
+The code finds `all the .txt files` in the input directory and generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
 **`Note:`** if the .csv files already `exist` in the directory, running the code will **`append`** entries to the existing .csv files.  
-The generated .csv files can be loaded into Pandas DataFrames in a Python shell or Jupyter Notebook as:
-```
-import pandas as pd
-
-# ./scratch/ should be modified to be your local dictectory containing those .csv files.
-load_nd_data = pd.read_csv("./scratch/nonDerivative.csv")
-```
   
 ### Example/test cases
-Examples are in the `tests` folder. This folder contains two test folders and a Jupiter Notebook.
-1. There is one .txt file int the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
+Examples are in the `tests` folder. This folder contains two test folders and a Jupyter Notebook.
+1. There is one .txt file in the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
 You can run individual test by executing the command line:
 ```
-$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
+$ python main.py  -i ./tests/test_1 -o ./scratch
 
-# The "-readlist" tag requests to read .txt files following the order in the list_txt file
-$ python main.py  -inpath ./tests/test_100 -outpath ./scratch -readlist True
+# The "-l" tag requests to read .txt files following the order in the list_txt file. Only needed for testing.
+$ python main.py  -i ./tests/test_100 -o ./scratch -l True
 ```
 To test if code is running correctly on your machine, use the `pytest` tool.
 ```
 # execute outside tests folder at the edgar-data-extract directory
 $ pytest 
-=========================================================================================== test session starts ===========================================================================================
+======================================================================================== test session starts ========================================================================================
 platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
 rootdir: 
-collected 2 items                                                                                                                                                                                         
+collected 2 items                                                                                                                                                                                   
 
-tests/test_outcsv.py ..                                                                                                                                                                             [100%]
+tests/test_form4csv.py ..                                                                                                                                                                     [100%]
 
-============================================================================================ 2 passed in 3.85s ============================================================================================
+========================================================================================= 2 passed in 4.38s =========================================================================================
 
 ```
   
-2. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.
+2. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.  
+
+The generated .csv files can be loaded into Pandas DataFrames. Examples can be found at the end of the Jupyter notebook.
 
 ## Code structure
 
@@ -88,25 +83,39 @@ The downloaded .txt files from SEC Edgar website are text files, in a hybrid HTM
 We use the *xmltodict* and *flatdict* library for processing the text documents and then use Pandas DataFrame for storing the data before saving them to .csv files.
 
 ```
-def form4_tocsv
+def form4_to_csv
     # pre-processing txt file for loading into flatdict object
     def proc_form4txt
 
     # extract xml information and loaded into flatdict object
-    def form4xml_toflatdict
+    def form4xml_to_flatdict
 
     # load flatdict object into Pandas DataFrames
-    def flatdict_toDF
+    def flatdict_to_df
 
     # process Pandas DataFrames to save as .csv format    
-    def form4df_tocsv
+    def form4df_to_csv
         # concatenate Pandas DataFrame, add issuer and reporting owners information to Tables
         def concat_abtoC
         # function for writing.csv file
-        def save_dftocsv
+        def save_df_to_csv
+        # convert footnote information to dictionary
+        def footnotes_to_dict
+        # add footnote column to DataFrame
+        def get_footnote_info
+
 
 # Class that holds standard Form 4 column names and DataFrames
-class f4data:
+class Form4Data:
+    def __init__(self, df):
+    # create dataframe during txt file reading
+    def from_txt(cls, table_name, orig_df):
+    # create dataframe from .csv file
+    def from_csv(cls, input_path, filename):
+    def check_10b5(self, text):
+    # add a column of True/False regarding if footnotes contain 10b5 information
+    def add_has_10b5(self):
     # check if read new unknown column names
-    def check_colname
+    def _check_col_name(empty_df, orig_df):
+
 ```

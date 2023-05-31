@@ -247,6 +247,7 @@ def get_footnote_info(df, footnotes_dict, col_has_footnote):
     This function 
     1. Read the index location and id value from the footnoteat column.
     2. Create a footnote column, append footnote entry to the correct location.
+
     df:               pandas DataFrame, target dataframe to append footnote column
     footnotes_dict:   dictonary obj, contains id -> string details
     col_has_footnote: list of column names with footnote
