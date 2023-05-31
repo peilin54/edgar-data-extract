@@ -127,9 +127,21 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     exist_nonDer = False
     exist_der = False
 
+    
+    # work on footnotes
+    if "footnotes.footnote" in full_dict.keys():
+        footnotes_df  = flatdict_to_df(full_dict["footnotes.footnote"])
+        footnotes_dict = footnotes_to_dict(footnotes_df["footnote_"])
+    
     # work on nonDerivativeTable
     if "nonDerivativeTable.nonDerivativeTransaction" in full_dict.keys():
         nonDerivativeTable_df = flatdict_to_df(full_dict["nonDerivativeTable.nonDerivativeTransaction"])
+        
+        # check if there is footnote information to add
+        col_has_footnote = [col for col in nonDerivativeTable_df.columns if 'footnote' in col]
+        if col_has_footnote:
+            nonDerivativeTable_df = get_footnote_info(nonDerivativeTable_df, footnotes_dict, col_has_footnote)
+        
         # add information about issuer and owner to the tables
         nonDerivative_cDF = concat_abtoC(issuer_df, reportingOwner_df, nonDerivativeTable_df)
         # remove the last row that was added for flatdict reading
@@ -140,6 +152,12 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     # work on derivativeTable
     if "derivativeTable.derivativeTransaction" in full_dict.keys():
         derivativeTable_df= flatdict_to_df(full_dict["derivativeTable.derivativeTransaction"])
+        
+        # check if there is footnote information to add
+        col_has_footnote = [col for col in derivativeTable_df.columns if 'footnote' in col]
+        if col_has_footnote:
+            derivativeTable_df = get_footnote_info(derivativeTable_df, footnotes_dict, col_has_footnote)
+                
         derivative_cDF    = concat_abtoC(issuer_df, reportingOwner_df, derivativeTable_df)
         f4_derivative     = Form4Data("derivative", derivative_cDF.iloc[:-1])
         save_df_to_csv(filepath, "derivative.csv", f4_derivative.df)
@@ -147,9 +165,9 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     
     # work on footnotes
     if "footnotes.footnote" in full_dict.keys():
-        footnotes_df  = flatdict_to_df(full_dict["footnotes.footnote"])
         footnotes_cDF = concat_abtoC(issuer_df, reportingOwner_df, footnotes_df)
         f4_footnotes  = Form4Data("footnotes", footnotes_cDF.iloc[:-1])
+
         # add transaction date to footnotes table
         row = len(f4_footnotes.df.index)
         if exist_nonDer:
@@ -158,6 +176,7 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
             transactionDate = [f4_derivative.df["transactionDate.value"].iloc[0]]*row
         else:
             raise Exception("Try to find transaction date for footnotes. Empty entries for nonDerivative and derivative tables.")
+        
         footnotes_withdate = f4_footnotes.df
         footnotes_withdate["transactionDate"] = transactionDate
         save_df_to_csv(filepath, "footnotes.csv", footnotes_withdate)
@@ -203,4 +222,51 @@ def save_df_to_csv(filepath, filename, df):
         df.to_csv(fileloc, index=False)
         
     return
+                                           
+
+def footnotes_to_dict(footnotes_df):
+    """
+    This function converts footnote column to a dictionary
+    footnotes_df:  pandas Series
+    return:        dict obj
+    """
+    
+    footnote_dict = {}
+    for i, value in footnotes_df.iloc[:-1].items():
+        s1, s2, s3 = value.split(r'"')
+        footnote_dict[s2] = s2 + r': ' + s3[1:]
+    
+#     print(footnote_dict)
+    
+    return footnote_dict
+    
+    
+def get_footnote_info(df, footnotes_dict, col_has_footnote):
+    """
+    This function 
+    1. Read the index location and id value from the footnoteat column.
+    2. Create a footnote column, append footnote entry to the correct location.
+    df:               pandas DataFrame, target dataframe to append footnote column
+    footnotes_dict:   dictonary obj, contains id -> string details
+    col_has_footnote: list of column names with footnote
+    return:           pandas DataFrame
+    """
+           
+    # for each footnote column, save index and footnote key
+    f_index = []
+    f_value= []
+    
+    for i in col_has_footnote:
+        # iterate over values inside footnote column
+        for idx, value in df[i].items():
+            if "F" in str(value):
+                f_index.append(idx)
+                f_value.append(footnotes_dict[value])
+
+    tmp_df = pd.Series(f_value, index = f_index, name='footnote')
+    footnote_col = tmp_df.groupby(level=0).transform(lambda x: ' '.join(x)).drop_duplicates()
+    
+#     print(footnote_col.iloc[0])
+    return pd.concat([df,footnote_col], axis=1)
+
 

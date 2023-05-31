@@ -40,7 +40,8 @@ class Form4Data:
         "transactionAmounts.transactionPricePerShare.value",
         "postTransactionAmounts.sharesOwnedFollowingTransaction.value",
         "ownershipNature.directOrIndirectOwnership.value",
-        "ownershipNature.natureOfOwnership.value"
+        "ownershipNature.natureOfOwnership.value",
+        "footnote"
         ]
         
     derivative_col_name = [
@@ -59,7 +60,8 @@ class Form4Data:
         "transactionAmounts.transactionPricePerShare.value",
         "postTransactionAmounts.sharesOwnedFollowingTransaction.value",
         "ownershipNature.directOrIndirectOwnership.value",
-        "ownershipNature.natureOfOwnership.value"
+        "ownershipNature.natureOfOwnership.value",
+        "footnote"
         ]
    
     footnotes_col_name = ["footnote_"]
@@ -111,7 +113,7 @@ class Form4Data:
             and "formtype" not in i and "transactiontimeliness" not in i
             and "transactiontimeliness" not in i and "deemedexecutiondate" not in i):
                 assert("Warning: unmatched column name: "+coln)
-        
-        return
+   
 
+        return
 
