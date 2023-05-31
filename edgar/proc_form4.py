@@ -264,7 +264,7 @@ def get_footnote_info(df, footnotes_dict, col_has_footnote):
             if isinstance(value, list):
                 for j in value:
                     f_index.append(idx)
-                    f_value.append(j["@id"])
+                    f_value.append(footnotes_dict[j["@id"]])
             else:
                 if "F" in str(value):
                     f_index.append(idx)
