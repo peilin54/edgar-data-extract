@@ -8,6 +8,8 @@ class Form4Data:
     """
     Create a class for holding formatted Form-4 data
     
+    self.df: pandas DataFrame
+    
     """
        
     issuer_col_name = ["issuerCik", "issuerName", "issuerTradingSymbol"]
@@ -65,9 +67,13 @@ class Form4Data:
         ]
    
     footnotes_col_name = ["footnote_"]
+        
+    def __init__(self, df):
+        self.df =df
     
     
-    def __init__(self, table_name, orig_df):
+    @classmethod
+    def from_txt(cls, table_name, orig_df):
         """
         This function creates a DataFrame, with standardized column names, and dropped redundant entries
         
@@ -75,22 +81,25 @@ class Form4Data:
         orig_df:    pandas DataFrame, full table contains all the data columns        
         """
         if table_name == "nonDerivative":
-            column_list = self.issuer_col_name + self.reporting_col_name + self.nonderivative_col_name
+            column_list = cls.issuer_col_name + cls.reporting_col_name + cls.nonderivative_col_name
         elif table_name == "derivative":
-            column_list = self.issuer_col_name + self.reporting_col_name + self.derivative_col_name
+            column_list = cls.issuer_col_name + cls.reporting_col_name + cls.derivative_col_name
         elif table_name == "footnotes":
-            column_list = self.issuer_col_name + self.reporting_col_name + self.footnotes_col_name
+            column_list = cls.issuer_col_name + cls.reporting_col_name + cls.footnotes_col_name
         else:
             raise ValueError("Unknown table name!")
             
         # could do some more checking with column_names after concat         
         empty_df = pd.DataFrame(columns=column_list)
-        self.df  = pd.concat([empty_df,orig_df])[list(column_list)]
+        df  = pd.concat([empty_df,orig_df])[column_list]
 
-        self._check_col_name(empty_df, orig_df)
+        cls._check_col_name(empty_df, orig_df)
+        
+        return cls(df)
 
-
-    def _check_col_name(self, empty_df, orig_df):
+    
+    @staticmethod
+    def _check_col_name(empty_df, orig_df):
         """
         This function checks if the code is reading new unknown column names
         
@@ -114,6 +123,37 @@ class Form4Data:
             and "transactiontimeliness" not in i and "deemedexecutiondate" not in i):
                 assert("Warning: unmatched column name: "+coln)
    
-
         return
+    
+    
+    @classmethod
+    def from_csv(cls, input_path, filename):
+        """
+        This function load data from .csv file
+
+        input_path:  Path obj, input directory
+        filename:    string, full filename of .csv file 
+        """
+        input_file_loc  = input_path / filename
+        df = pd.read_csv(input_file_loc)
+
+        return cls(df)
+    
+    
+    def check_10b5(self, text):
+        """
+        This function checks if 10b5 is mentioned in the footnote text.
+        text:   string
+        return: boolean
+        """
+        return "10b5" in text if isinstance(text, str) else False
+    
+    
+    def add_has_10b5(self):
+        tmp = self.df['footnote'].apply(self.check_10b5)
+        tmp.name = "has_10b5"
+        self.df = pd.concat([self.df, tmp], axis=1)
+        
+        return
+        
 

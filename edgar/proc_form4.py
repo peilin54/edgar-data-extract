@@ -145,7 +145,7 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
         # add information about issuer and owner to the tables
         nonDerivative_cDF = concat_abtoC(issuer_df, reportingOwner_df, nonDerivativeTable_df)
         # remove the last row that was added for flatdict reading
-        f4_nonDerivative  = Form4Data("nonDerivative", nonDerivative_cDF.iloc[:-1])
+        f4_nonDerivative  = Form4Data.from_txt("nonDerivative", nonDerivative_cDF.iloc[:-1])
         save_df_to_csv(filepath, "nonDerivative.csv", f4_nonDerivative.df)
         exist_nonDer = True
         
@@ -159,14 +159,14 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
             derivativeTable_df = get_footnote_info(derivativeTable_df, footnotes_dict, col_has_footnote)
                 
         derivative_cDF    = concat_abtoC(issuer_df, reportingOwner_df, derivativeTable_df)
-        f4_derivative     = Form4Data("derivative", derivative_cDF.iloc[:-1])
+        f4_derivative     = Form4Data.from_txt("derivative", derivative_cDF.iloc[:-1])
         save_df_to_csv(filepath, "derivative.csv", f4_derivative.df)
         exist_der = True
     
     # work on footnotes
     if "footnotes.footnote" in full_dict.keys():
         footnotes_cDF = concat_abtoC(issuer_df, reportingOwner_df, footnotes_df)
-        f4_footnotes  = Form4Data("footnotes", footnotes_cDF.iloc[:-1])
+        f4_footnotes  = Form4Data.from_txt("footnotes", footnotes_cDF.iloc[:-1])
 
         # add transaction date to footnotes table
         row = len(f4_footnotes.df.index)
@@ -232,12 +232,13 @@ def footnotes_to_dict(footnotes_df):
     """
     
     footnote_dict = {}
+    
     for i, value in footnotes_df.iloc[:-1].items():
         s_tmp, s_text = value.split(r'>')
         s_id = s_tmp.split(r'"')[1]
            
         footnote_dict[s_id] = s_id + r': ' + s_text
-    
+
     return footnote_dict
     
     
