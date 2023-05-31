@@ -10,9 +10,19 @@ This code extracts information from Form 4 filings and store the information in 
 Each entry has exactly one transaction/holding record along with the corresponding issuer and reporting owner information.
 
 
-## How to use this code
-The source code is in the `edgar` directory and the test code is in the `tests` directory.  
-Command line execution requires providing an input directory, which contains Form 4 .txt files, and an output directory.  
+## How to use
+The source code is in the `edgar` directory and the tests are in the `tests` directory.  
+### Requirement 
+Python 3.10.6  
+Specific packages used for devloping this code.
+>flatdict==4.0.1  
+pandas==2.0.1  
+xmltodict==0.13.0  
+pytest==7.3.1  
+>
+
+### Command line interface
+Command line execution requires providing an `input directory`, which contains Form 4 .txt files, and an `output directory`.  
 
 
 ```
@@ -45,9 +55,17 @@ import pandas as pd
 load_nd_data = pd.read_csv("./scratch/nonDerivative.csv")
 ```
   
-## Example and test cases
+### Example/test cases
 Examples are in the `tests` folder. This folder contains two test folders and a Jupiter Notebook.
-1. Test can be performed with the `pytest` tool.
+1. There is one .txt file int the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
+You can run individual test by executing the command line:
+```
+$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
+
+# The "-readlist" tag requests to read .txt files following the order in the list_txt file
+$ python main.py  -inpath ./tests/test_100 -outpath ./scratch -readlist True
+```
+To test if code is running correctly on your machine, use the `pytest` tool.
 ```
 # execute outside tests folder at the edgar-data-extract directory
 $ pytest 
@@ -61,18 +79,10 @@ tests/test_outcsv.py ..                                                         
 ============================================================================================ 2 passed in 3.85s ============================================================================================
 
 ```
-There is one .txt file int the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
-You can also run individual test by executing the command line:
-```
-$ python main.py  -inpath ./tests/test_1 -outpath ./scratch
-
-# The "-readlist" tag requests to read .txt files following the order in the list_txt file
-$ python main.py  -inpath ./tests/test_100 -outpath ./scratch -readlist True
-```
   
 2. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.
 
-## How the code is structured
+## Code structure
 
 The downloaded .txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 
 We use the *xmltodict* and *flatdict* library for processing the text documents and then use Pandas DataFrame for storing the data before saving them to .csv files.
