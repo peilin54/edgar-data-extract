@@ -3,10 +3,10 @@
 ## Overview 
 Form 4 filings are publicly available through the [SEC EDGAR website](https://www.sec.gov/edgar/search/). Information in Form 4 can be used to analyze insider trading activity.  
 This code extracts information from Form 4 filings and store the information in two databases in CSV format:
-- **nonDerivative.csv**:  database that contains issuer, reporting owners,information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
-- **derivative.csv**:  database that contains issuer, reporting owners,information for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
+- **nonDerivative.csv**:  database that contains issuer, reporting owners, "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes inoformation in Form 4.
+- **derivative.csv**:  database that contains issuer, reporting owners, "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes information in Form 4.
 
-Each entry has exactly one transaction/holding record along with the corresponding issuer, reporting owner and footnote information.
+Each entry has exactly one transaction/holding record along with the corresponding issuer, reporting owner and footnotes information.
 
 
 ## How to use
@@ -43,20 +43,12 @@ options:
 edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
 ```
 
-The code finds `all the .txt files` in the input directory and generates two .csv output files: `nonDerivative.csv` and `derivative.csv`.  
+The code finds **all** the `.txt` files in the input directory and generates two .csv output files: `nonDerivative.csv` and `derivative.csv`.  
 **`Note:`** if the .csv files already `exist` in the directory, running the code will **`append`** entries to the existing .csv files.  
   
 ### Example/test cases
-Examples are in the `tests` folder. This folder contains two test folders and a Jupyter Notebook.
-1. There is one .txt file in the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
-You can run individual test by executing the command line:
-```
-edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
-
-# The "-l" tag requests to read .txt files following the order in the list_txt file. Only needed for testing.
-edgar-data-extract$ python main.py  -i ./tests/test_100 -o ./scratch -l True
-```
-To test if code is running correctly on your machine, use the `pytest` tool.
+Examples and tests are in the `tests` folder. This folder contains a testing script, two test folders and a Jupyter Notebook.  
+1. To test if code is running correctly on your machine, use the `pytest` tool. It runs tests in the `test_form4csv.py` script.
 ```
 # execute at the edgar-data-extract directory
 edgar-data-extract$ pytest 
@@ -71,18 +63,27 @@ tests/test_form4csv.py ..                                                       
 
 ```
   
-2. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.  
+2. There is one .txt file in the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
+You can run individual test by executing the command line:
+```
+edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
+
+# The "-l" tag requests to read .txt files following the order in the list_txt file. Only needed for testing.
+edgar-data-extract$ python main.py  -i ./tests/test_100 -o ./scratch -l True
+```
+  
+3. The Jupyter Notebook `edgar_form4.ipynb` can be used for interactive exploration. Test cases for the notebook are in the `test_jup` folder.  
 
 The generated .csv files can be loaded into Pandas DataFrames. Examples can be found at the end of the Jupyter notebook.
 
 ## Code structure
 
 The downloaded .txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 
-We use the *xmltodict* and *flatdict* library for processing the text documents and then use Pandas DataFrame for storing the data before saving them to .csv files.
-- main.py: get command line arguments and start the program
-- edgar/edgar_form4.py: contains the main form4_to_csv function that calls various functions to complete the current project
-- edgar/proc_form4.py: functions for various specific tasks
-- edgar/form4data.py: define the class Form4Data
+We use the *xmltodict* and *flatdict* library for processing the text documents and then use *Pandas DataFrame* for storing the data before saving them to .csv files.
+- `main.py`: get command line arguments and start the program
+- `edgar/edgar_form4.py`: contains the main `form4_to_csv` function that calls various functions to complete the current project
+- `edgar/proc_form4.py`: functions for various specific tasks
+- `edgar/form4data.py`: define the class `Form4Data`
 
 ```
 def form4_to_csv
