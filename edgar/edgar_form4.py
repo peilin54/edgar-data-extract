@@ -8,7 +8,7 @@ import os
 import sys
 from pathlib import Path
 import flatdict
-from edgar.proc_form4 import proc_form4txt, form4xml_to_flatdict, flatdict_to_df, form4df_to_csv, concat_abtoC, save_df_to_csv
+from .proc_form4 import proc_form4txt, form4xml_to_flatdict, flatdict_to_df, form4df_to_csv, concat_abtoC, save_df_to_csv
 
 
 def form4_to_csv(input_path, output_path, filename):
@@ -65,18 +65,14 @@ def run_form4(input_path, output_path, list_order):
         for file in os.listdir(directory):
             filename = os.fsdecode(file)
             if filename.endswith(".txt"): 
-                print(filename)
+                print("Processing: " + filename)
                 form4_to_csv(Path(input_path), Path(output_path), filename)
     else:
         fileloc = Path(input_path) / "list_txt"
-        input_file  = open(fileloc, 'r')
-        lines   = input_file.readlines()
-
-        for line in lines:
-            filename = line.strip()
-            print(filename)
-            form4_to_csv(Path(input_path), Path(output_path), filename)
-
-        input_file.close()
+        with open(fileloc, 'r') as f:
+            for line in f:
+                filename = line.strip()
+                print("Processing: " + filename)
+                form4_to_csv(Path(input_path), Path(output_path), filename)
 
     return

@@ -28,40 +28,36 @@ def proc_form4txt(input_path, output_path, filename, output_filename):
     input_file_loc  = input_path / filename
     output_file_loc = output_path / output_filename
 
-    input_file  = open(input_file_loc, 'r')
-    lines   = input_file.readlines()
+    with open(input_file_loc, 'r') as lines:
     
-    output_file = open(output_file_loc,'w')
-    for line in lines:
-        # add empty xml elements so that flatdic can process all as a list
-        if r'</nonDerivativeTable>' in line and r'<nonDerivativeTable></nonDerivativeTable>' not in line:
-            output_file.write(r'<nonDerivativeTransaction></nonDerivativeTransaction>' + "\n") 
-        if r'</derivativeTable>' in line and r'<derivativeTable></derivativeTable>' not in line:
-            output_file.write(r'<derivativeTransaction></derivativeTransaction>' + "\n") 
-        if r'</footnotes>' in line and r'<footnotes></footnotes>' not in line:
-            output_file.write(line.replace(r'</footnotes>', r'<footnote><footnote_>  </footnote_></footnote></footnotes>'))
-            continue
-            
-        # "Holding" and "Transaction" are slight variation of same table
-        if 'nonDerivativeHolding' in line:
-            output_file.write(line.replace('nonDerivativeHolding', 'nonDerivativeTransaction'))
-            continue
-        if 'derivativeHolding' in line:
-            output_file.write(line.replace('derivativeHolding', 'derivativeTransaction'))
-            continue
-        
-        # add additional nesting in footnote, so that flatdic process and separate the notes
-        if r'<footnote ' in line:
-            output_file.write(line.replace(' id', '><footnote_>id').replace(r'</footnote>', r'</footnote_></footnote>'))
-            continue
-        if r'</footnote>' in line:
-            output_file.write(line.replace(r'</footnote>', r'</footnote_></footnote>'))
-            continue
-              
-        output_file.write(line)
-        
-    output_file.close()
-    input_file.close()
+        with open(output_file_loc,'w') as output_file:
+            for line in lines:
+                # add empty xml elements so that flatdic can process all as a list
+                if r'</nonDerivativeTable>' in line and r'<nonDerivativeTable></nonDerivativeTable>' not in line:
+                    output_file.write(r'<nonDerivativeTransaction></nonDerivativeTransaction>' + "\n") 
+                if r'</derivativeTable>' in line and r'<derivativeTable></derivativeTable>' not in line:
+                    output_file.write(r'<derivativeTransaction></derivativeTransaction>' + "\n") 
+                if r'</footnotes>' in line and r'<footnotes></footnotes>' not in line:
+                    output_file.write(line.replace(r'</footnotes>', r'<footnote><footnote_>  </footnote_></footnote></footnotes>'))
+                    continue
+                    
+                # "Holding" and "Transaction" are slight variation of same table
+                if 'nonDerivativeHolding' in line:
+                    output_file.write(line.replace('nonDerivativeHolding', 'nonDerivativeTransaction'))
+                    continue
+                if 'derivativeHolding' in line:
+                    output_file.write(line.replace('derivativeHolding', 'derivativeTransaction'))
+                    continue
+                
+                # add additional nesting in footnote, so that flatdic process and separate the notes
+                if r'<footnote ' in line:
+                    output_file.write(line.replace(' id', '><footnote_>id').replace(r'</footnote>', r'</footnote_></footnote>'))
+                    continue
+                if r'</footnote>' in line:
+                    output_file.write(line.replace(r'</footnote>', r'</footnote_></footnote>'))
+                    continue
+                      
+                output_file.write(line)
     
     return
 

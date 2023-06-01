@@ -66,8 +66,6 @@ class Form4Data:
         "footnote"
         ]
    
-    footnotes_col_name = ["footnote_"]
-        
     def __init__(self, df):
         self.df =df
     
@@ -84,8 +82,6 @@ class Form4Data:
             column_list = cls.issuer_col_name + cls.reporting_col_name + cls.nonderivative_col_name
         elif table_name == "derivative":
             column_list = cls.issuer_col_name + cls.reporting_col_name + cls.derivative_col_name
-        elif table_name == "footnotes":
-            column_list = cls.issuer_col_name + cls.reporting_col_name + cls.footnotes_col_name
         else:
             raise ValueError("Unknown table name!")
             
