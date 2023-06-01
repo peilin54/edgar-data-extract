@@ -9,7 +9,7 @@
 
 
 import argparse
-from edgar.edgar_form4 import run_form4
+from edgar import run_form4
 
 
 if __name__ == "__main__":
