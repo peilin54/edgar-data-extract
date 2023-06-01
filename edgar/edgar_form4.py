@@ -5,10 +5,9 @@
 import pandas as pd
 import argparse
 import os
-import sys
 from pathlib import Path
 import flatdict
-from .proc_form4 import proc_form4txt, form4xml_to_flatdict, flatdict_to_df, form4df_to_csv, concat_abtoC, save_df_to_csv
+from .proc_form4 import proc_form4txt, form4txt_to_flatdict, flatdict_to_df, form4df_to_csv, concat_abtoC, save_df_to_csv
 
 
 def form4_to_csv(input_path, output_path, filename):
@@ -25,7 +24,7 @@ def form4_to_csv(input_path, output_path, filename):
     proc_form4txt(input_path, output_path, filename, output_filename)
     
     # extract xml information to flatdict object
-    full_dict = form4xml_to_flatdict(output_path, output_filename)
+    full_dict = form4txt_to_flatdict(output_path, output_filename)
 
     # create subsections from the full dictionary
     # issuer and reportingOwner first; hopefully these fields are populated

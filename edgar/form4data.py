@@ -123,15 +123,13 @@ class Form4Data:
     
     
     @classmethod
-    def from_csv(cls, input_path, filename):
+    def from_csv(cls, input_file):
         """
         This function load data from .csv file
 
-        input_path:  Path obj, input directory
-        filename:    string, full filename of .csv file 
+        input_file:  Path obj, input file name with directory info
         """
-        input_file_loc  = input_path / filename
-        df = pd.read_csv(input_file_loc)
+        df = pd.read_csv(input_file)
 
         return cls(df)
     

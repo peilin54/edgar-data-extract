@@ -8,7 +8,6 @@ import xmltodict
 import flatdict
 from pathlib import Path
 import os
-import sys
 from .form4data import Form4Data
 
 
@@ -62,7 +61,7 @@ def proc_form4txt(input_path, output_path, filename, output_filename):
     return
 
 
-def form4xml_to_flatdict(filepath, filename):
+def form4txt_to_flatdict(filepath, filename):
     """
     This function reads the processed form4.txt.mod, extract xml information and convert to a flatdict object.
     

@@ -91,7 +91,7 @@ def form4_to_csv
     def proc_form4txt
 
     # extract xml information and loaded into flatdict object
-    def form4xml_to_flatdict
+    def form4txt_to_flatdict
 
     # load flatdict object into Pandas DataFrames
     def flatdict_to_df
@@ -110,6 +110,7 @@ def form4_to_csv
 
 # Class that holds standard Form 4 column names and DataFrames
 class Form4Data:
+    self.df
     def __init__(self, df):
     # create dataframe during txt file reading
     def from_txt(cls, table_name, orig_df):
