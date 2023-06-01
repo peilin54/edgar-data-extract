@@ -14,10 +14,8 @@ def test_1(tmp_path):
 
     nd = 'nonDerivative.csv'
     d = 'derivative.csv'
-    f = 'footnotes.csv'
     assert filecmp.cmp(str(output_path / nd), str(input_path / nd), shallow=False)
     assert filecmp.cmp(str(output_path / d), str(input_path / d), shallow=False)
-    assert filecmp.cmp(str(output_path / f), str(input_path / f), shallow=False)
 
   
 # python main.py  -i ./tests/test_100 -o ./scratch -l True
@@ -29,9 +27,7 @@ def test_100(tmp_path):
 
     nd = 'nonDerivative.csv'
     d = 'derivative.csv'
-    f = 'footnotes.csv'
     assert filecmp.cmp(str(output_path / nd), str(input_path / nd), shallow=False)
     assert filecmp.cmp(str(output_path / d), str(input_path / d), shallow=False)
-    assert filecmp.cmp(str(output_path / f), str(input_path / f), shallow=False)
    
 

@@ -2,10 +2,9 @@
 
 ## Overview 
 Form 4 filings are publicly available through the [SEC EDGAR website](https://www.sec.gov/edgar/search/). Information in Form 4 can be used to analyze insider trading activity.  
-This code extracts information from Form 4 filings and store the information in three databases in CSV format:
+This code extracts information from Form 4 filings and store the information in two databases in CSV format:
 - **nonDerivative.csv**:  database that contains issuer, reporting owners,information for "Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
 - **derivative.csv**:  database that contains issuer, reporting owners,information for "Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned" and footnotes in Form 4.
-- **footnotes.csv**:  database that contains issuer, reporting owners, footnotes and transaction date in Form 4.  
 
 Each entry has exactly one transaction/holding record along with the corresponding issuer, reporting owner and footnote information.
 
@@ -44,7 +43,7 @@ options:
 edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
 ```
 
-The code finds `all the .txt files` in the input directory and generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
+The code finds `all the .txt files` in the input directory and generates two .csv output files: `nonDerivative.csv` and `derivative.csv`.  
 **`Note:`** if the .csv files already `exist` in the directory, running the code will **`append`** entries to the existing .csv files.  
   
 ### Example/test cases
@@ -80,6 +79,10 @@ The generated .csv files can be loaded into Pandas DataFrames. Examples can be f
 
 The downloaded .txt files from SEC Edgar website are text files, in a hybrid HTML/XML format (there is an HTML header, and an XML body). 
 We use the *xmltodict* and *flatdict* library for processing the text documents and then use Pandas DataFrame for storing the data before saving them to .csv files.
+- main.py: get command line arguments and start the program
+- edgar/edgar_form4.py: contains the main form4_to_csv function that calls various functions to complete the current project
+- edgar/proc_form4.py: functions for various specific tasks
+- edgar/form4data.py: define the class Form4Data
 
 ```
 def form4_to_csv

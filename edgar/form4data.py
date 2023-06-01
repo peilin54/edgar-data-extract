@@ -119,9 +119,9 @@ class Form4Data:
         for coln in out_list:
             i = coln.lower()
             if ("footnote" not in i and "equityswap" not in i
-            and "formtype" not in i and "transactiontimeliness" not in i
-            and "transactiontimeliness" not in i and "deemedexecutiondate" not in i):
-                assert("Warning: unmatched column name: "+coln)
+                and "formtype" not in i and "transactiontimeliness" not in i
+                and "transactiontimeliness" not in i and "deemedexecutiondate" not in i):
+                print("Warning: unmatched column name: "+coln)
    
         return
     

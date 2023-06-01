@@ -75,8 +75,12 @@ def form4xml_to_flatdict(filepath, filename):
     return:   flatdict obj
     """
     
-    with open(filepath / filename) as f:
+    input_file_loc  = filepath / filename
+    with open(input_file_loc) as f:
         data = f.read()
+    
+    # delete the temporary .txt.mod file
+    input_file_loc.unlink()
 
     # extract file around ownershipDocument 
     matcher = re.compile(r'<\?xml.*ownershipDocument>', flags=re.MULTILINE|re.DOTALL)
@@ -124,10 +128,6 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     reportingOwner_df: pandas DataFrame, contains reporting owner info
     """
 
-    exist_nonDer = False
-    exist_der = False
-
-    
     # work on footnotes
     if "footnotes.footnote" in full_dict.keys():
         footnotes_df  = flatdict_to_df(full_dict["footnotes.footnote"])
@@ -147,7 +147,6 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
         # remove the last row that was added for flatdict reading
         f4_nonDerivative  = Form4Data.from_txt("nonDerivative", nonDerivative_cDF.iloc[:-1])
         save_df_to_csv(filepath, "nonDerivative.csv", f4_nonDerivative.df)
-        exist_nonDer = True
         
     # work on derivativeTable
     if "derivativeTable.derivativeTransaction" in full_dict.keys():
@@ -161,25 +160,6 @@ def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
         derivative_cDF    = concat_abtoC(issuer_df, reportingOwner_df, derivativeTable_df)
         f4_derivative     = Form4Data.from_txt("derivative", derivative_cDF.iloc[:-1])
         save_df_to_csv(filepath, "derivative.csv", f4_derivative.df)
-        exist_der = True
-    
-    # work on footnotes
-    if "footnotes.footnote" in full_dict.keys():
-        footnotes_cDF = concat_abtoC(issuer_df, reportingOwner_df, footnotes_df)
-        f4_footnotes  = Form4Data.from_txt("footnotes", footnotes_cDF.iloc[:-1])
-
-        # add transaction date to footnotes table
-        row = len(f4_footnotes.df.index)
-        if exist_nonDer:
-            transactionDate = [f4_nonDerivative.df["transactionDate.value"].iloc[0]]*row
-        elif exist_der:
-            transactionDate = [f4_derivative.df["transactionDate.value"].iloc[0]]*row
-        else:
-            raise Exception("Try to find transaction date for footnotes. Empty entries for nonDerivative and derivative tables.")
-        
-        footnotes_withdate = f4_footnotes.df
-        footnotes_withdate["transactionDate"] = transactionDate
-        save_df_to_csv(filepath, "footnotes.csv", footnotes_withdate)
     
     return
 
@@ -274,7 +254,6 @@ def get_footnote_info(df, footnotes_dict, col_has_footnote):
     tmp_df = pd.Series(f_value, index = f_index, name='footnote')
     footnote_col = tmp_df.groupby(level=0).transform(lambda x: ' '.join(x)).drop_duplicates()
     
-#     print(footnote_col.iloc[0])
     return pd.concat([df,footnote_col], axis=1)
 
 
