@@ -13,9 +13,9 @@ Each entry has exactly one transaction/holding record along with the correspondi
 ## How to use
 The source code is in the `edgar` directory and the tests are in the `tests` directory.  
 ### Requirement 
-Python 3.10.6  
-Specific packages used for developing this code.
->flatdict==4.0.1  
+The following packages were used for developing this code.
+>Python 3.10.6  
+flatdict==4.0.1  
 pandas==2.0.1  
 xmltodict==0.13.0  
 pytest==7.3.1  
@@ -24,9 +24,8 @@ pytest==7.3.1
 ### Command line interface
 Command line execution requires providing an `input directory`, which contains Form 4 .txt files, and an `output directory`.  
 
-
 ```
-$ python main.py -h
+edgar-data-extract$ python main.py -h
 usage: main.py [-h] -i INPUT_PATH -o OUTPUT_PATH [-l LIST_ORDER]
 
 SEC Edgar Form 4 reader
@@ -41,8 +40,8 @@ options:
                         Read the .txt files in the order specified by a file list_txt. For testing purpose. Default is False
   
   
-# Create the ./scratch directory or replace with your output directory
-$ python main.py  -i ./tests/test_1 -o ./scratch
+# Use the ./scratch directory or replace with your output directory
+edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
 ```
 
 The code finds `all the .txt files` in the input directory and generates three .csv output files: `nonDerivative.csv`, `derivative.csv`, and `footnotes.csv`.  
@@ -53,15 +52,15 @@ Examples are in the `tests` folder. This folder contains two test folders and a 
 1. There is one .txt file in the `test_1` folder and 100 .txt files in the `test_100` folder. Outputs files are available in those two folders for comparison. 
 You can run individual test by executing the command line:
 ```
-$ python main.py  -i ./tests/test_1 -o ./scratch
+edgar-data-extract$ python main.py  -i ./tests/test_1 -o ./scratch
 
 # The "-l" tag requests to read .txt files following the order in the list_txt file. Only needed for testing.
-$ python main.py  -i ./tests/test_100 -o ./scratch -l True
+edgar-data-extract$ python main.py  -i ./tests/test_100 -o ./scratch -l True
 ```
 To test if code is running correctly on your machine, use the `pytest` tool.
 ```
-# execute outside tests folder at the edgar-data-extract directory
-$ pytest 
+# execute at the edgar-data-extract directory
+edgar-data-extract$ pytest 
 ======================================================================================== test session starts ========================================================================================
 platform linux -- Python 3.10.6, pytest-7.3.1, pluggy-1.0.0
 rootdir: 
