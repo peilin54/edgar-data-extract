@@ -78,7 +78,7 @@ def form4txt_to_flatdict(filepath, filename):
     input_file_loc.unlink()
 
     # extract file around ownershipDocument 
-    matcher = re.compile(r'<\?xml.*ownershipDocument>', flags=re.MULTILINE|re.DOTALL)
+    matcher = re.compile(r'<\?xml.*ownershipDocument>', flags=re.DOTALL)
     matches = matcher.search(data)
     xml     = matches.group(0)
 
