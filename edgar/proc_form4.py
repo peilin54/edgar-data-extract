@@ -91,27 +91,23 @@ def form4txt_to_flatdict(filepath, filename):
 
 def flatdict_to_df(table_d):
     """
-    This function takes a flat dictionary object and process it as follows: 
+    This function takes a flat dictionary object and convert it to a pandas DF object
     If there is only 1 item, it is a dictionary. Convert it to a pandas DF object
     If there are more than 1 item, it will be a list. We flat it further and convert it to a pandas DF object
     
-    table_d: could be list or a pandas DataFrame that has two rows (one of them contains column names)
+    table_d: could be list or a dictionary
     return:  pandas DataFrame with column names
     """
-    
+
+    d_list = []
     if isinstance(table_d, list):
-        d_list = []
         for i in table_d:
             d_list.append(flatdict.FlatDict(i, delimiter='.'))
-        
-        return pd.DataFrame(d_list)
-    
     else:
-        tmp_df   = pd.DataFrame(table_d.items()).T
-        col_name = tmp_df.iloc[0] 
-    
-        return tmp_df.drop([0]).reset_index(drop=True).rename(col_name, axis=1)
+        d_list.append(table_d)
 
+    return pd.DataFrame(d_list)
+    
 
 def form4df_to_csv(filepath, full_dict, issuer_df, reportingOwner_df):
     """
